@@ -1,0 +1,80 @@
+Title: STRAHL.Fortbildung im November
+
+----
+
+Vorlage: Theater Strahl
+
+----
+
+Featured: false
+
+----
+
+Label: Training
+
+----
+
+Author: Theater Strahl
+
+----
+
+Date: 2020-11-27
+
+----
+
+Time: 14:00
+
+----
+
+Duration: 04:00
+
+----
+
+Location: STRAHL.Probebühne, Kyffhäuserstr. 23, 10781 Berlin
+
+----
+
+Tickets: strahl@offensive-tanz.de
+
+----
+
+Caption: An event for educational staff in cooperation with LISUM
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-11-27
+  zeit: 14:00
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "In collaboration with \"Offensive Tanz f\u00fcr junges Publikum\", Florian Bilbao and other actors of the Berlin dance and theater scene will, together with teachers, reflect on, try out and re-develop different formats of mediation, which are tailored to the new approaches within the Corona crisis.",
+        "id": "_v1exrgxj2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Note: Because of the current situation in regard of Covid-19, this event will take place online only. <br><strong>Direction:</strong> Florian Bilbao, dancer, choreographer and dance pedagogue",
+        "id": "_lpf02aqnx",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

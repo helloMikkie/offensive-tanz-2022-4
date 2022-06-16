@@ -1,0 +1,117 @@
+Title: RAUS GEHEN
+
+----
+
+Vorlage: Neutral
+
+----
+
+Featured: false
+
+----
+
+Label: Dance in Public Space
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2021-06-12
+
+----
+
+Time: 14:00
+
+----
+
+Duration: 00:00
+
+----
+
+Location: Apfelsinenplatz, Gropiusstadt, Joachim-Gottschalk-Weg 41
+
+----
+
+Tickets: info@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-06-12
+  zeit: 16:00
+- 
+  datum: 2021-09-04
+  zeit: 14:00
+- 
+  datum: 2021-09-12
+  zeit: 17:00
+- 
+  datum: 2021-09-18
+  zeit: 14:00
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "We are happy to finally start our RAUS GEHEN actions 2021 in cooperation with <a href=\"https://berlin-mondiale.de/en/\">Berlin Mondiale</a>! In front of the Ev. Kirchengemeinde in Gropiusstadt we will show we will show five dance actions in June and September! You can either register by email (info@offensive-tanz.de) or come by on the day - please be there 20min. before. The entrance is free.",
+        "id": "_1freizwk9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "June 5 <br><strong>WE transfer #1</strong><br><strong>A piece by TANZKOMPLIZEN</strong><br>Choreography: Florian Bilbao<br>Hip hop, ballet, folk dance ... How did dance actually come into being? And how do YOU dance? WeTransfer#1 is an entertaining journey through dance history.",
+        "id": "_dvnwzsluz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "June 12 <br><strong>Hip Hop Dance Workshop</strong><br>for young people from 12 years<br>Direction:Ricco Jarret<br>No previous experience is necessary to participate.<br>The workshop will take place at 2pm and 4pm.",
+        "id": "_jdd7pdhgo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "September 4, 2pm<br><strong>Dance on boards</strong><br>A presentation with workshop by TANZKOMPLIZEN<br>Dance: Florian Bilbao and Efka Weber<br>with students of the Albrecht von Graefe School<br>How do you dance on and with skateboards? We will show you and bring boards!",
+        "id": "_3y39xzsn0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "September 12, 5pm<br><strong>Can Touch This [Einige Von Uns]<br></strong>A piece by performing:group and Theater Strahl<br>Choreography: Daniel Math\u00e9us and Florian Bilbao <br>Dance: Michael Kaddu, Jana Heilmann, Rebekka B\u00f6hme<br>Three performers leave the loneliness in front of their home screens and venture out into the street to (try to) find a community between distance rules and the obligation to wear a mask.",
+        "id": "_m18upmg9q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "September 18, 2pm<br><strong>Hip Hop Dance Workshop</strong><br>for young people from 12 years<br>Direction:Ricco Jarret<br>No previous experience is necessary to participate.",
+        "id": "_mwd3bcavy",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

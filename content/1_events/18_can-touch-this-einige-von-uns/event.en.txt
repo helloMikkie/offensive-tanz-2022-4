@@ -1,0 +1,100 @@
+Title: CAN TOUCH THIS [Einige Von Uns]
+
+----
+
+Vorlage: Theater Strahl
+
+----
+
+Featured: false
+
+----
+
+Label: Premiere
+
+----
+
+Author: performing:group
+
+----
+
+Date: 2020-10-25
+
+----
+
+Time: 14:00
+
+----
+
+Duration: 00:20
+
+----
+
+Location: Innenhof Alte Münze
+
+----
+
+Tickets: presse@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Der \u00f6ffentliche Raum ist unsere B\u00fchne. Drei Performer*innen verlassen die Einsamkeit vor ihren heimischen Bildschirmen und wagen sich auf die Stra\u00dfe, um zwischen Abstandsregeln und Maskenpflicht eine Gemeinschaft zu (ver)suchen. Zusammenleben, wie ging das nochmal? Wo die einen sich eingeschr\u00e4nkt f\u00fchlen, mahnen die anderen die Verantwortung f\u00fcreinander an. Wie werden Individuen zu einer Gesellschaft? Dieser Frage geht performing:group in der Neuauflage von CAN TOUCH THIS [Einige Von Uns] nach.",
+        "id": "_xb21kfb5i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Termine:</strong>",
+        "id": "_z30my3r2y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Premiere war am 19.09.2020, Winterfeldtplatz Berlin, hinter der St. Matthias Kirche in Richtung Marktplatz, jeweils eine Performance um 11 Uhr sowie 14 Uhr",
+        "id": "_4pfqrrcpu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Am 25.10.2020 findet um 14 Uhr eine weitere Performance im Innenhof der Alten M\u00fcnze im Rahmen des Offensive Symposiums \"race. class. gender\" statt.",
+        "id": "_gxgby5v30",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ein Besuch dieser Termine ist selbstverst\u00e4ndlich kostenfrei. Weitere Outdoor-Termine sind f\u00fcrs Fr\u00fchjahr 2021 geplant, davor k\u00f6nnen Performances in Schulen auf Anfrage gebucht werden. R\u00fcckfragen beantwortet gerne unsere verantwortliche Mitarbeiterin f\u00fcr \u00d6ffentlichkeitsarbeit, Katharina Neumann, \u00fcber <a href=\"presse@offensive-tanz.de\">presse@offensive-tanz.de</a>.",
+        "id": "_e2touxljh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\u201cCan Touch This - Einige Von Uns\u201d </strong>- ein St\u00fcck von performing:group produziert von performing:group &amp; Theater Strahl eine Kooperation im Rahmen der \u201cOffensive Tanz f\u00fcr junges Publikum Berlin\u201d. <strong>Gef\u00f6rdert </strong>durch das Programm \u201eReload. Stipendien f\u00fcr Freie Gruppen\u201c der Kulturstiftung des Bundes; TANZPAKT Stadt-Land-Bund aus Mitteln der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien; iDAS NRW. <strong>Im Original </strong>gef\u00f6rdert durch TANZPAKT Stadt-Land-Bund aus Mitteln der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien, Senatsverwaltung f\u00fcr Kultur und Europa Berlin, Ministerium f\u00fcr Kultur und Wissenschaft des Landes NRW, NRW Landesb\u00fcro Freie Darstellende K\u00fcnste.",
+        "id": "_sih1j8crh",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

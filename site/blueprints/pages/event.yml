@@ -1,0 +1,142 @@
+title: Event
+icon: 📅
+status:
+  draft:
+    label: Entwurf
+  listed:
+    label: Published
+
+
+
+columns:
+  - width: 1/1
+    sections:
+      gallery:
+        type: files
+        layout: cards
+        size: tiny
+        image:
+          cover: true
+          ratio: 2/1
+
+  - width: 1/1
+    sections:
+      content:
+        type: fields
+        fields:
+          vorlage:
+            type: select
+            required: true
+            width: 1/4
+            options:
+              - Purple
+              - Tanzkomplizen
+              - Theater Strahl
+              - Theater o.N.
+              - Neutral
+          featured:
+            type: toggle
+            width: 1/4
+            text:
+              - "no"
+              - "yes"
+          label:
+            label: Art der Veranstaltung
+            type: text
+            required: true
+            width: 1/2
+
+          author:
+            label: Autor/en
+            required: true
+            type: text
+            width: 1/2
+          date:
+            label: start
+            required: false
+            type: date
+            width: 1/6
+          end_date:
+            label: end
+            required: false
+            type: date
+            width: 1/6
+          time:
+            label: beginnt um
+            type: time
+            notation: 24
+            step: 15
+            width: 1/6
+          duration:
+            label: dauert
+            type: time
+            width: 1/6
+            after: Min.
+            default: "45"
+          location:
+            label: Veranstaltungsort
+            required: true
+            type: text
+            width: 1/2
+          tickets:
+            label: Email Ticketservice
+            width: 1/2
+            type: email
+          age:
+            label: Altersempfehlung
+            type: number
+            after: "+"
+            width: 1/6
+          caption:
+            label: Anmerkung
+            width: 1/3
+            type: textarea
+          scedule:
+            label: Weitere Termine
+            type: structure
+            width: 1/2
+            fields:
+              datum:
+                type: date
+              zeit:
+                type: time
+                notation: 24
+                after: Uhr
+          registration:
+            label: Anmeldung
+            width: 1/2
+            type: url
+          description:
+            label: Beschreibung der Veranstaltung
+            required: true
+            width: 1/1
+            type: blocks
+            fieldsets:
+              - text
+              - heading
+              - quote
+              - list
+          artists:
+            label: Künstler
+            type: structure
+            width: 1/2
+            fields:
+              role:
+                type: text
+              name:
+                type: text
+          staffs:
+            label: Mitarbeiter
+            type: structure
+            width: 1/2
+            fields:
+              role:
+                type: text
+              name:
+                type: text
+          subtext:
+            label: Allgemeine Anmerkungen zur Veranstaltung
+            width: 1/1
+            type: blocks
+            allowed:
+              - text

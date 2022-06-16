@@ -1,0 +1,224 @@
+Title: Allianzen auf Augenhöhe gestalten
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Bericht über das zweite Fachymposium
+
+----
+
+Featured: true
+
+----
+
+Author: Christine Matschke
+
+----
+
+Date: 2021-06-01
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Im Mai 2021 fand unser dreit\u00e4giges Fachsymposium zum Thema \u201e<a href=\"https://offensive-tanz.de/de/events/symposium\">Wer ist unser Publikum?</a>\u201c statt. Beteiligt waren zahlreiche Expert:innen aus den Bereichen (performativer) Kunst, Kultur und Medien, die gemeinsam der Frage nachgingen, \u00fcber welche Kan\u00e4le und mit welchen Mitteln ein junges Publikum heute am besten erreicht werden kann. Involviert waren zudem mehrere Jugendliche, die den Beitr\u00e4gen der Expert:innen folgten und mit ihrer Meinung am Ende eine kritische Reflexion erm\u00f6glichten. Die freie Tanzjournalistin Christine Matschke hat f\u00fcr die Offensive Tanz die Ergebnisse zusammengefasst. Die Grafikdesignerin Liane S. Hoder verwandelte die Ergebnisse der drei Tage dar\u00fcber hinaus in anschauliche und informative Illustrationen. Der hier wiedergegebene Text stellt lediglich Ausz\u00fcge dar, die Langversion kann am Ende des Beitrages zusammen mit weiterem Dokumentationsmaterial heruntergeladen werden.",
+        "id": "_pxmpddufc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kulturelle Bildung kann \u2013 insbesondere vor dem Hintergrund der Corona-Pandemie \u2013 Kindern und Jugendlichen dabei helfen, ein gegl\u00fccktes Leben zu f\u00fchren (in seiner pers\u00f6nlichen wie in seiner gesellschaftlichen Dimension). Sie unterst\u00fctzt F\u00e4higkeiten, die f\u00fcr eine R\u00fcckkehr in den sozialen (Schul-)Alltag wichtig sind und vermittelt, dass Lernen auch anders und ohne Druck funktionieren kann. Doch wie erreicht man Kinder und Jugendliche \u00fcberhaupt? Wie gewinnt man sie f\u00fcr die K\u00fcnste und andere Herangehensweisen an die Welt? Und wie lassen sich vorhandene Strategien verschiedener Institutionen kultureller Bildung teilen, \u00fcbertragen und gemeinsam nachhaltig weiterentwickeln? Aufbauend auf den Ergebnissen der Publikumsbefragung 2020 (siehe Download-Bereich unten), nahm die Offensive Tanz f\u00fcr junges Publikum diese Fragen unter drei Schwerpunktthemen in den Blick.",
+        "id": "_uuLvQ2YYD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_cfnka5fms",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>(Tanz-)Kunst strukturell verankern? </strong><br><strong>Tag 1: Kunst \u2013 Bildung \u2013 Schule</strong>",
+        "id": "_osq4zzqka",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+allianzen-auf-augenhoehe-gestalten/files/bildschirmfoto-2021-06-01-um-12.02.27.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/allianzen-auf-augenhoehe-gestalten/3670094117-1622546033/bildschirmfoto-2021-06-01-um-12.02.27.png",
+            "id": "articles/allianzen-auf-augenhoehe-gestalten/bildschirmfoto-2021-06-01-um-12.02.27.png",
+            "ratio": 2.04159733777038265856162979616783559322357177734375,
+            "caption": "Wer ist unser Publikum \u2013 Tag 1. Grafik: Himbeerspecht | Liane S. Hoder"
+        },
+        "content": "",
+        "id": "_jl9wozpg3",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Bei der Frage, wie Kinder und Jugendliche \u00fcberhaupt mit den Darstellenden K\u00fcnsten und dem Tanz im Besonderen in Ber\u00fchrung kommen, spielen Erzieher:innen und Lehrer:innen eine entscheidende Rolle. Besuche am Theater und die Programmauswahl sind oftmals durch ihre individuelle Motivation und Vorlieben gepr\u00e4gt. Neben Eltern und gleichaltrigen Multiplikator:innen (sogenannten \u201ePeers\u201c) sind sie daher so etwas wie Wegbereiter:innen und T\u00fcr\u00f6ffner:innen f\u00fcr kulturelle und damit auch gesellschaftliche Partizipation.",
+        "id": "_cs6g1hc6e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wo sich der Tanz (im Lehrplan) versteckt</strong>",
+        "id": "_st7uAF98b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Claudia Steinberg, Professorin f\u00fcr Tanz und Bewegungskultur und Leiterin des gleichnamigen Instituts an der DSHS K\u00f6ln, beleuchtete in ihrem Impulsvortrag Realit\u00e4ten, Hindernisse und Bedarfe bei der Integration von Tanz im schulischen Bereich und in der Fr\u00fchkindlichen Bildung. Als wesentliches Ergebnis stellte Steinberg heraus, dass sich Tanz insbesondere in Querschnittsthemen der sogenannten \u00e4sthetischen F\u00e4cher wiederfinde. Diese h\u00e4tten im Bildungssystem eine Sonderstellung, ihre Gegenst\u00e4nde (Bewegung, Musik etc.) ben\u00f6tigten besondere Rahmenbedingungen und Vermittlungssettings.",
+        "id": "_4L2lJnzfu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Tanz implementieren \u2013 L\u00fccken, Modelle, Ideen transparent machen</strong>",
+        "id": "_NTdkqcPpU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie sich im Laufe der Diskussionen herausstellte, ist der Stellenwert des Tanzes in der Gesellschaft \u2013 auch im Vergleich zu allen anderen, nicht-darstellenden Kunstsparten \u2013 immer noch zu gering. Im Gegensatz zu Musik und zu Bildender Kunst etwa mangelt es hier ganz klar an einer Lobby. F\u00fcr die Verankerung von Tanz in der Schule brauche es daher einen gleichberechtigten Blick auf alle Disziplinen der darstellenden K\u00fcnste, so Uta Meyer, Projektleiterin bei explore dance. Es stellte sich vor diesem Hintergrund auch die Frage, wie leicht es sei, \u00fcber die Verwaltung etwas f\u00fcr den Tanz zu erreichen. Oliver Uden, Fachreferent f\u00fcr das Fach \u201eTheater/Darstellendes Spiel\u201c in der Berliner Senatsverwaltung f\u00fcr Bildung, Jugend und Familie, verwies auf die sogenannten Einheitlichen Pr\u00fcfungsanforderungen (EPA), \u00fcber die alle Abiturpr\u00fcfungen im Fach \u201eDarstellendes Spiel\u201c bundeseinheitlich in der Kultusministerkonferenz geregelt seien. Dort g\u00e4be es einen expliziten Hinweis darauf, dass performativ gearbeitet werden soll. Als wesentlich im Kontext einer gew\u00fcnschten, st\u00e4rkeren Implementierung von Tanz im Bereich Kulturelle Bildung wurde zudem der Aspekt der \u201eSelbsterfahrung\u201c genannt. Das eigene Erleben von Tanz wurde nicht nur f\u00fcr bereits praktizierende Lehrer:innen und Schulleiter*innen als wichtig erachtet, sondern auch f\u00fcr Lehramtskandidat:innen. Eine Schwierigkeit auch hier: die fehlende Anerkennung gegen\u00fcber dem Tanz im Vergleich zu anderen Kunstsparten sowie best\u00e4ndige F\u00f6rderm\u00f6glichkeiten und eine erfolgreiche kontinuierliche \u201esystematische Zusammenarbeit\u201c (zwischen Schulen und Kulturinstitutionen).",
+        "id": "_ENniZ14kn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auf eine Problematik innerhalb des Verh\u00e4ltnisses Schule und Kunst machten Jugendliche der \u201eJungen Stimme\u201c aufmerksam und griffen dabei einen von ihnen in der Diskussion vermissten Aspekt auf: Im Allgemeinen werden Schule und Kunst als Gegensatzpaar verstanden. In ihrer Kombination werden sie mit Begriffen wie \u201ePflicht\u201c und \u201eFreiwilligkeit\u201c assoziiert. Anders gefragt: Sollte Tanz, sofern als Schulfach gedacht, bewertet werden? Oder sollte er als ein benotungsfreies, erg\u00e4nzendes Angebot an Schulen bestehen?",
+        "id": "_4qmlmqdmz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_G4X0mYNtj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Strategien kultureller Bildung nachhaltig gestalten <br>Tag 2: Kunst \u2013 Freizeit \u2013 Teilhabe</strong>",
+        "id": "_QRTNHsflk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+allianzen-auf-augenhoehe-gestalten/files/bildschirmfoto-2021-06-01-um-12.04.58.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/allianzen-auf-augenhoehe-gestalten/2214305739-1622546091/bildschirmfoto-2021-06-01-um-12.04.58.png",
+            "id": "articles/allianzen-auf-augenhoehe-gestalten/bildschirmfoto-2021-06-01-um-12.04.58.png",
+            "ratio": 2.04000000000000003552713678800500929355621337890625,
+            "caption": "Wer ist unser Publikum \u2013 Tag 2. Grafik: Himbeerspecht | Liane S. Hoder"
+        },
+        "content": "",
+        "id": "_68dzqhquh",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Kulturelle Bildung findet nicht nur an Schulen statt, sondern auch in der Freizeitgestaltung von Kindern, Jugendlichen und Familien. Wie aber erreicht man diese in ihrem privaten Umfeld? Und wie kann wirkliche Teilhabe, Chancengleichheit und Diversit\u00e4t erm\u00f6glicht werden?",
+        "id": "_zOK9b9j3m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Hochkultur und \u201eGraswurzelbewegung\u201c</strong>",
+        "id": "_OvpQE3VX2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zu Beginn des zweiten Tages stand die Frage im Raum, ob gro\u00dfe Institutionen in puncto Erreichbarkeit bessere Startbedingungen als kleinere Initiativen haben. Als problematisch im Verh\u00e4ltnis zwischen \u201egro\u00dfen\u201c und \u201ekleinen\u201c Einrichtungen erweisen sich vor allen Dingen festgefahrene Sichtweisen aufeinander. Katja Frei, Leiterin Education &amp; Outreach bei den Berliner Philharmonikern berichtete diesbez\u00fcglich von ihren Erfahrungen. So habe sie oftmals erlebt, dass gr\u00f6\u00dfere Institutionen sich viel mehr hinterfragten, aber trotzdem schneller am Pranger st\u00fcnden als kleinere, die ihre bew\u00e4hrten Praktiken oftmals nur fortf\u00fchren wollten. Hier mangele es an einem produktiven Austausch auf beiden Seiten. Voraussetzung f\u00fcr solch eine gelungene Kooperation sei Commitment.",
+        "id": "_OtBdjb13l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Dialoge entfachen statt Botschaften senden</strong>",
+        "id": "_Fq3orniU3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Um Kindern und Jugendlichen einen gelungenen Zugang zu Kultureller Bildung zu erm\u00f6glichen, m\u00fcssen bestehende Hierarchien und Machtverh\u00e4ltnisse aufgel\u00f6st werden. Hierf\u00fcr braucht es vor allem Zeit (im Sinne von Kontinuit\u00e4t) und Raum (im Sinne einer selbstbestimmten Teilhabe). In der Praxis hei\u00dft das: \u201eMan sollte Kindern m\u00f6glichst viele M\u00f6glichkeiten geben, Bestimmende zu sein und sie in alle Positionen der k\u00fcnstlerischen Produktion einbinden\u201c, so Corinne Eckenstein, K\u00fcnstlerische Leiterin am Dschungel Wien \u2013 getreu dem Motto: Nicht etwas F\u00dcR Kinder, sondern MIT Kindern tun. Community Arbeit und eine direkte Ansprache der jungen Zielgruppe sind hierf\u00fcr das A und O und funktioniert laut den Diskussionsteilnehmenden besonders gut \u00fcber gleichaltrige Multiplikator*innen (Peers), FSJler:innen, Praktikant:innen und andere Personen. Diese bieten durch einen entsprechenden Zugang bzw. durch ihre N\u00e4he zur Zielgruppe M\u00f6glichkeiten, dass sich Kinder und Jugendliche gut mit ihnen identifizieren k\u00f6nnen.",
+        "id": "_dPBx0nMsk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Kulturell binden statt bilden</strong>",
+        "id": "_EUv70tbBH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Orte der Darstellenden K\u00fcnste f\u00fcr die Jungen sind laut Livia Patrizi \u2013 die am zweiten Tag des Symposiums als Gast teilnahm \u2013 deshalb nicht nur Produktionsorte, sondern immer auch Orte kultureller \u00d6ffentlichkeit, an denen unterschiedliche Milieus zusammenk\u00e4men. Patrizi schlug deshalb vor, diesbez\u00fcglich von \u201eOrten kultureller Bindung\u201c statt von \u201eOrten kultureller Bildung\u201c zu sprechen. Dabei betonte sie das wechselseitige Verh\u00e4ltnis solcher Orte zur Gesellschaft und das darin liegende Potenzial, Differenzen aushalten zu k\u00f6nnen.",
+        "id": "_2RlKc8ILh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_Vv5Y1rLGL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gewusst wie! Off- und Online Potenziale gleicherma\u00dfen nutzen <br>Tag 3: Kunst \u2013 Kommunikation \u2013 Digitale Medien</strong>",
+        "id": "_MKEJCn8YT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+allianzen-auf-augenhoehe-gestalten/files/bildschirmfoto-2021-06-01-um-12.07.36.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/allianzen-auf-augenhoehe-gestalten/1679672660-1622546116/bildschirmfoto-2021-06-01-um-12.07.36.png",
+            "id": "articles/allianzen-auf-augenhoehe-gestalten/bildschirmfoto-2021-06-01-um-12.07.36.png",
+            "ratio": 2.019769357495881489938938102568499743938446044921875,
+            "caption": "Wer ist unser Publikum \u2013 Tag 3. Grafik: Himbeerspecht | Liane S. Hoder"
+        },
+        "content": "",
+        "id": "_i3utd6dkb",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "\u00d6ffentlichkeitsarbeit tr\u00e4gt wesentlich dazu bei, ein Publikum zu erreichen. Welche Chancen und Risiken birgt die zunehmende Einbindung digitaler und sozialer Medien in diesen Arbeitsbereich? Und durch welche Online-Strategien f\u00fchlen sich Kinder, Jugendliche und junge Erwachsene besonders gut angesprochen?",
+        "id": "_VdaaOF8R6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Partizipation erhalten</strong>",
+        "id": "_BGneliYMd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zunehmende Digitalisierungsprozesse in allen Lebensbereichen lassen sich nicht erst seit Corona beobachten und doch hat die Pandemie die Verlagerung in den digitalen Raum noch einmal wesentlich angeschoben. Aus dieser \u201eZeitenwende\u201c erhoffte sich Gabi Dan Droste, trotz kritischer Vorbehalte, Chancen f\u00fcr neue Formate und sprach sich f\u00fcr eine aktive Mitgestaltung solch einer ins Ungewisse f\u00fchrenden \u00dcbergangsphase aus. Es gelte einen Umgang damit zu finden und flexibel zu bleiben, meint die k\u00fcnstlerische Leiterin des FELD \u2013 Theater f\u00fcr junges Publikum. Ein wichtiger Punkt in diesem Zusammenhang: Nicht nur einfach etwas zu streamen, sondern die partizipative Arbeit aufrecht zu erhalten. Kinder und Jugendliche miteinzubeziehen und ihren Emotionen Raum zu geben, sei dabei in den letzten Monaten unabdingbar gewesen, erg\u00e4nzte Ciprian Marinescu, Dramaturg am Jungen Tanzhaus NRW.",
+        "id": "_Q3pnqaHMg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Digitale Medien: Verlust oder Zugewinn?</strong>",
+        "id": "_fYlosXSoH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jede Kommunikation \u00fcber ein bestimmtes Medium bringe die Begrenzung des Mediums bereits mit sich, so die Erfahrung von Frank Schmid. Der renommierte Tanzkritiker und Journalist moderierte auch am dritten Tag durch das Symposium-Programm und stellte dabei die Frage, ob durch die Vermittlung \u00fcber ein bestimmtes Medium Inhalte verloren gingen. Marie Kube, Sprecherin und Gesicht von Jung und Artig \u2013 junge Freund*innen der Berlinischen Galerie, sah hier kein Risiko. Es gehe um den Aspekt der Erreichbarkeit und die Frage, was f\u00fcr einen Zugang zu Kunst man \u00fcberhaupt schaffen wolle \u2013 \u00fcber harte Fakten oder \u00fcber Impressionen, Aneignungen und Assoziationen. Social Media Arbeit sei f\u00fcr sie dabei mehr ein Instrument zeitgem\u00e4\u00dfer Vermittlungsarbeit, denn ein Marketing-Tool. Judith Westphal<strong>, </strong>Mitarbeiterin in Marketing &amp; Kommunikation mit Schwerpunkt Online am J\u00fcdischen Museum Berlin erg\u00e4nzte: Gerade im Museumskontext h\u00e4tte sich eine eher spielerische Vermittlung von komplexen Inhalten aus verschiedenen Perspektiven als gut erwiesen. In der kontinuierlichen \u00d6ffentlichkeitsarbeit gehe es nicht darum, alles zu kommunizieren, was m\u00f6glich ist. Die Informationen sollten \u201esnackable\u201c bleiben. Letztendlich waren sich alle Diskussionsteilnehmenden einig, dass je nach Ausrichtung einzelner Institutionen, individuelle L\u00f6sungsans\u00e4tze gefunden werden m\u00fcssen. Es sollte keine Entweder-Oder-Haltung in Bezug auf Off- und Online-Strategien herrschen.<br><br><strong>Downloads</strong><br>\u2013 <a href=\"https://drive.google.com/file/d/1bPcVFzo7Qmd_xXbfi851yqP7HduCMDH5/view?usp=sharing\">Langversion des Berichtes von Christine Matschke</a> <br>\u2013 <a href=\"https://drive.google.com/file/d/12-0hZWYF8itRuSgeMNAbNzC14CgsX5PE/view?usp=sharing\">Ergebnisse der Publikumsbefragung 2020</a><br>\u2013 <a href=\"https://offensive-tanz.de/de/service/graphic-recording\">Grafic Recording</a><br>\u2013 <a href=\"https://www.youtube.com/channel/UC-Mm5gngxaYh69cPcLPwHnw\">Video-Dokumentation auf YouTube</a><br>\u2013 <a href=\"https://vimeo.com/offensivetanz\">Video-Dokumentation auf Vimeo</a>",
+        "id": "_q37fn9r29",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

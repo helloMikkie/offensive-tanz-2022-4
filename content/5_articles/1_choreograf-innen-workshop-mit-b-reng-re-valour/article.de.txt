@@ -1,0 +1,29 @@
+Title: Choreograf:innen Workshop mit Bérengère Valour
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Ein Tanzstück für ein junges Publikum kreieren: Wie fängt man an?
+
+----
+
+Featured: true
+
+----
+
+Author: Lilith Borchert
+
+----
+
+Date: 2022-04-22
+
+----
+
+Text: [{"content":{"text":"<p>Du hast eine Minute Zeit! Schreibe alles auf, was dir zum Begriff \u201eTanz\u201c einf\u00e4llt. Danach zum Begriff \u201eKreation\u201c. Dann zu \u201eKindheit\u201c.<\/p>"},"id":"cce08275-601b-4ca0-93ae-8c2f47e5bbf4","isHidden":false,"type":"text"},{"content":{"text":"<p>Schnell breitet sich ein Assoziationsteppich aus gelb-leuchtenden Post-its auf dem Tanzboden aus, der die Bandbreite und die Vielf\u00e4ltigkeit des Themas widerspiegelt, um das es in dem zweit\u00e4gigen Workshop gehen wird.<\/p>"},"id":"4d1a7cac-d5ca-4cf5-86e3-07689c2119aa","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Rahmen der Offensive Tanz lud <a href=\"https:\/\/purple-tanzfestival.de\/de\/\">PURPLE \u2013 internationales Tanzfestival f\u00fcr junges Publikum<\/a> erstmalig am 1. und 2. April zu einem <a href=\"https:\/\/www.offensive-tanz.de\/de\/events\/ein-tanzstueck-fuer-ein-junges-publikum-kreieren-wie-faengt-man-an\">Workshop f\u00fcr Choreograf:innen<\/a> ein. Der Workshop<em> <\/em>wurde von <strong>B\u00e9reng\u00e8re Valour<\/strong>, T\u00e4nzerin und Choreografin sowie Spezialistin f\u00fcr den Bereich Tanzkreation und Tanzp\u00e4dagogik f\u00fcr junges Publikum, geleitet.<\/p>"},"id":"7e28eaeb-071a-4879-bd6d-2f6509d3fd11","isHidden":false,"type":"text"},{"content":{"text":"<p>Sensibel, experimentierfreudig, praxisorientiert und ausgehend von den Ideen der Teilnehmer:innen navigierte B\u00e9reng\u00e8re Valour die Gruppe an den beiden Workshop-Tagen durch verschiede Kompositionsaufgaben, Tanzspiele und Gruppenarbeiten. Die Schnittgerade Tanz, Kreation und Kindheit gab dabei immer wieder Orientierung, aber auch Anlass zur regen Diskussion.<\/p>"},"id":"ab6c6951-2c41-4a4d-b828-d7277b71b540","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["ws-berengere-2.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"3715d63d-677d-434a-be66-8808591ff9d6","isHidden":false,"type":"image"},{"content":{"text":"<em>Was macht ein gutes St\u00fcck f\u00fcr junges Publikum aus? Wie sehen Kinder Tanz? Was weckt ihre Neugier und h\u00e4lt ihre Aufmerksamkeit? Wie k\u00f6nnen wir von Kinderaugen lernen und welche Ideen f\u00fcr Choreografien k\u00f6nnen wir daraus entwickeln?<\/em>","citation":""},"id":"627dcc10-efd9-4866-8e35-791042ce9c3f","isHidden":false,"type":"quote"},{"content":{"text":"<p>Immer wieder wechselten die Teilnehmer:innen dabei zwischen den Rollen der Kreierenden, der Tanzenden, der Zuschauenden. Der Prozess einer St\u00fcckentwicklung wurde so aus verschieden Perspektiven beleuchtet, reflektiert, selbst ausprobiert. Dabei kristallisierten sich unterschiedliche Arbeitsmethoden und Kompositionsans\u00e4tze heraus, die einen ideenreichen Pool an choreografischen Tools und Hilfsmitteln bildeten.<\/p>"},"id":"73bf2393-ffdd-45e5-be5f-37af1ea02a3a","isHidden":false,"type":"text"},{"content":{"text":"<p>Oft w\u00e4hlte B\u00e9reng\u00e8re Valour dabei (Alltags-)Objekte und Materialien als Ausgangspunkte choreografischer Untersuchungen und als Inspiration f\u00fcr die Entwicklung von Bewegungsmaterialien. Von der Alufolie, der Zahnb\u00fcrste, Papierfliegern, bis zu von ihr selbst herausgegebenen und eigen konzipierten \u201elivres graphiques de danse\u201c (grafische Tanzb\u00fccher) ist alles dabei. Alles Dinge, die unsere Vorstellungskraft und Fantasie, aber auch unseren K\u00f6rper in Bewegung bringen \u2013 uns \u00e4sthetische Tanzerfahrungen schenken k\u00f6nnen.<\/p>"},"id":"506beb39-49e3-4d64-b048-4d3866481e77","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["ws-berengere-3.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7575e984-b7c3-4b98-8639-5d09ff31e73d","isHidden":false,"type":"image"},{"content":{"text":"<p>B\u00e9reng\u00e8re Valour\u2019s Arbeit und pers\u00f6nliche Erfahrungen, die sie mit der Gruppe teilte, machten deutlich, dass es f\u00fcr sie bei der St\u00fcckentwicklung f\u00fcr ein junges Publikum weniger darum geht, eine neue Generation von Zuschauer:innen f\u00fcr den zeitgen\u00f6ssischen Tanz zu erziehen, sondern vielmehr darum, jungen Menschen eine <strong>Begegnung mit ihrem eigenen K\u00f6rper<\/strong> zu erm\u00f6glichen, Tanz sp\u00fcrbar zu machen, zu ber\u00fchren, t\u00e4nzerische Momente zu schaffen, die sich im Idealfall physisch und emotional abspeichern und uns so ein Leben lang erhalten bleiben.<\/p>"},"id":"c9ade879-7adf-49ea-b3f8-f2067b64c4c8","isHidden":false,"type":"text"},{"content":{"text":"<p>Die gro\u00dfe Freude dar\u00fcber, endlich zusammenzukommen, war allen Teilnehmer:innen anzumerken. Denn der lang geplante Workshop f\u00fcr Choreografinnen h\u00e4tte eigentlich bereits im Januar 2022 stattfinden sollen. Die pandemische Realit\u00e4t sorgt jedoch immer wieder f\u00fcr neue Herausforderungen. Umso sch\u00f6ner, wenn man diese auch mal vergessen darf, zwischenmenschliche Begegnungen wieder in den Fokus r\u00fccken und man sich als Gruppe gemeinsam physisch im Raum ausprobieren und austauschen kann. Daf\u00fcr, dass das hier gelungen ist, danken wir B\u00e9reng\u00e8re!<\/p>"},"id":"40562498-2239-4268-9965-2f1ed477cf2e","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><em>Lilith Borchert<\/em><\/strong><em> geh\u00f6rt zum Organisationsteam von PURPLE und ist zust\u00e4ndig f\u00fcr die Presse- und \u00d6ffentlichkeitsarbeit bei <a href=\"https:\/\/www.tanznetz.de\/\">tanznetz.de<\/a> \u2013 Internetportal f\u00fcr professionellen Tanz. Seit einiger Zeit schreibt sie dort auch Texte \u00fcber Tanz.<\/em><br><\/p>"},"id":"51729331-623b-4651-aad4-c2658bf65df9","isHidden":false,"type":"text"}]
+
+----
+
+Subtext: 

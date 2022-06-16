@@ -1,0 +1,69 @@
+Title: Publikumsforschung
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Online- und Direktbefragung
+
+----
+
+Author: PURPLE und Offensive Tanz
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-12-31
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Verschiedene Orte
+
+----
+
+Tickets: purple@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p><strong>Online-Befragung<\/strong><br>Im Namen der Offensive Tanz f\u00fcr junges Publikum f\u00fchrt das PURPLE-Tanzfestival Online-Befragungen durch \u2013\u2013 daf\u00fcr wurden zwei verschiedene Frageb\u00f6gen erstellt. Einer richtet sich speziell an <a href=\"https:\/\/offensivetanz.typeform.com\/to\/p1gAGntK\">Kinder und Jugendliche<\/a>, der andere an <a href=\"https:\/\/offensivetanz.typeform.com\/to\/Di27Fc\">Lehrer*innen, Erzieher*innen und Eltern<\/a>. Beide Befragungen werden selbstverst\u00e4ndlich anonym behandelt.<\/p>"},"id":"4a7ba683-b38e-4cdd-8de6-53e035dff2a3","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Ergebnisse der Befragung sollen Erkenntnisse dar\u00fcber bieten, wie die Kunstform Tanz zuk\u00fcnftig noch mehr junge Menschen erreichen und begeistern kann.<\/p>"},"id":"8f037fde-9216-46a9-a756-52d9c720501e","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Direkte Publikumsbefragung<\/strong><br>Im Anschluss an die Vorstellungen der vier Offensive-Partner bitten wir unsere Besucher*innen, ihre Erfahrungen hinsichtlich der Teilnahme an den Veranstaltungen mit uns zu teilen. Die anonymen Frageb\u00f6gen in den Foyers der verschiedenen Spielorte helfen uns, die Abl\u00e4ufe rund um die Besuche der Tanzvorstellungen zu verbessern und zu erfahren, wie unser Publikum auf uns aufmerksam wird.<\/p>"},"id":"4f5bea8a-583c-40da-8ec1-85524c101ad2","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Interviews mit Jugendlichen<\/strong><br>Um die W\u00fcnsche und Bed\u00fcrfnisse unserer Zielgruppe noch besser zu verstehen, f\u00fchren wir Einzelinterviews rund um die Themenbereiche \u201eselbst Tanzen und Tanz ansehen\u201c mit Jugendlichen im Alter von 12 bis 18 Jahren durch. Unser Anliegen ist dabei, zu verstehen welche Beziehung unsere Interview-Partner zum Tanz im Allgemeinen haben. Durch diesen direkten Austausch m\u00f6chten wir unser Publikum besser kennenlernen und unsere Angebote erweitern, um auch weiterhin interessante und relevante Themen f\u00fcr junge Menschen anbieten zu k\u00f6nnen.<\/p>"},"id":"dfd2bb0e-d61d-467e-b85c-85d6eabf4e0d","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

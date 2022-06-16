@@ -1,0 +1,50 @@
+Title: Sichtbar!
+
+----
+
+Vimeo: https://vimeo.com/435989818
+
+----
+
+Subtitle: Young people talk about their experiences during Corona times
+
+----
+
+Featured: true
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-07-07
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Art, culture and Covid-19 -\u2013 we have long since renounced many things and must continue to do so: Theatre and dance performances will only be limitedly available. ",
+        "id": "_bB3Or0q9C",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "As the Offensive Tanz f\u00fcr junges Publikum, we thus wanted to know: How is our audience doing, the many young people out there, whose lives now feel completely different than before? What is it that concerns them, how do they feel, what does it mean for them to no longer be able to allow closeness and touch as a matter of course? And what role does dance and movement play in this time?",
+        "id": "_w5ObdjYhs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We spoke with three young people. The result is a touching film in which Fravia, Ella and Josef tell their very individual stories and give a face to the different feelings in connection with Corona through their words and movements. No matter if you are dance-loving or not, young or old -- nobody should miss this film, it gives us a wonderful insight into this young generation.",
+        "id": "_Glh0S0z7j",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

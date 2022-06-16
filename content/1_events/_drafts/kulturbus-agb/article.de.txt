@@ -1,0 +1,74 @@
+Title: Kulturbus AGB
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: 
+
+----
+
+Featured: false
+
+----
+
+Author: Offensive Tanz für Junges Publikum
+
+----
+
+Date: 2021-08-27
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>1. Geltungsbereich \u2013 Vertragsgegenstand</strong><br>Im Rahmen des vom Land Berlin gef\u00f6rderten Projekts \u201cOffensive Kulturbus\u201d koordiniert und vermittelt die OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt) \u2013 im Folgenden \u201eOfTa\u201c \u2013 Transportdienstleistungen (Busfahrten) f\u00fcr Schulklassen und Kitagruppen \u2013 im Folgenden: \u201eBildungseinrichtung\u201c \u2013 von der Schule bzw. Kita zu einem Kulturort und zur\u00fcck. Dem Rechtsverh\u00e4ltnis zwischen OfTa und dem Rechtstr\u00e4ger der Schule bzw. Kita liegen diese Allgemeinen Gesch\u00e4ftsbedingungen \u2013 im Folgenden \u201eAGB\u201c \u2013 zugrunde. <br>F\u00fcr den Inhalt und Umfang der besuchten Tanz- und Theatervorstellungen zeichnet sich der jeweilige Kulturort bzw. der Veranstalter der Vorstellung verantwortlich.",
+        "id": "_vqU0br5WG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2. Leistungen der OfTa</strong><br>2.1 Die Leistungspflichten der OfTa sind auf das Vermitteln und Koordinieren von Bef\u00f6rderungsleistungen, die durch dritte Unternehmen erbracht werden, und die \u00dcbernahme der Kosten dieser Bef\u00f6rderungsleistungen beschr\u00e4nkt. OfTa \u00fcbernimmt jedoch keine Gew\u00e4hr daf\u00fcr, ein f\u00fcr den angefragten Zeitraum verf\u00fcgbares Bef\u00f6rderungsunternehmen zu finden und vermitteln zu k\u00f6nnen. Sobald OfTa ein leistungsbereites Busunternehmen vermitteln konnte, best\u00e4tigt sie der Bildungseinrichtung an die bei der Anfrage benannte E-Mail-Adresse Zeitpunkte und Abholorte des Transports.<br>2.2 Die \u00dcbernahme der Bef\u00f6rderungskosten durch die OfTa steht unter der Bedingung, dass die von der Bildungseinrichtung benannte, zu transportierende Schulklasse bzw. Kitagruppe die bei der Buchung der Fahrt genannte Veranstaltung tats\u00e4chlich besucht oder nachweist, dass sie die Veranstaltung aus nicht von ihr zu vertretenden Gr\u00fcnden nicht besuchen konnte.",
+        "id": "_05ksriybx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>3. Pflichten der Bildungseinrichtung<br></strong>3.1 Die Bildungseinrichtung ist verpflichtet, die Kulturveranstaltung, f\u00fcr die der Transport gebucht ist, mit der daf\u00fcr vorgesehenen Klasse/Gruppe zu besuchen, den gebuchten Transport zu benutzen und rechtzeitig transportbereit zu den gebuchten Uhrzeiten an den Abholorten zu erscheinen.<br>3.2 Will oder kann die Bildungseinrichtung die Veranstaltung nicht besuchen und/oder den gebuchten Transport nicht durchf\u00fchren lassen, hat sie dies der OfTa vor Ablauf der in der Bestellbest\u00e4tigung genannten Stornierungsfrist oder \u2013 wenn dort keine genannt ist \u2013 sp\u00e4testens am dritten Arbeitstag (Montag bis Freitag au\u00dfer gesetzliche Feiertage) vor dem Veranstaltungstag mitzuteilen. Die Stornierung (ggf. in Verbindung mit einer Umbuchung, je nach Verf\u00fcgbarkeit) hat per Antwort auf die elektronische Buchungsbest\u00e4tigung oder \u00fcber E-Mail mit Angabe der Buchungsnummer an <a href=\"mailto:kulturbus@offensive-tanz.de\">kulturbus@offensive-tanz.de</a> zu erfolgen. Eine telefonische Stornierung wird erst mit Best\u00e4tigung per E-Mail wirksam.<br>3.3 Die Bildungseinrichtung stellt die Beaufsichtigung der zu transportierenden Schulklasse/Kitagruppe w\u00e4hrend des Transports durch dazu berechtigte und bef\u00e4higte Mitarbeiter der Bildungseinrichtung sicher.",
+        "id": "_vvzen48s1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>4. Schadensersatz bei Pflichtverletzungen</strong><br>4.1 OfTa kann die Kosten der Transportleistungen nur infolge der F\u00f6rderung dieser Leistungen durch das Land Berlin \u00fcbernehmen. Die F\u00f6rderbedingungen setzen voraus, dass nur Transporte bezahlt werden, die tats\u00e4chlich durchgef\u00fchrt und zum Besuch der Kulturveranstaltung genutzt wurden.<br>4.2 Die Bildungseinrichtung schuldet der OfTa Ersatz der tats\u00e4chlich angefallenen Transportkosten, wenn die Gruppe/Klasse, f\u00fcr die der Transport gebucht ist, den Transport mindestens teilweise wahrnimmt, jedoch die Kulturveranstaltung, f\u00fcr die der Transport gebucht ist, nicht besucht, es sei denn, die Bildungseinrichtung und die die Klasse/Gruppe beaufsichtigenden Personen haben den Nichtbesuch der Veranstaltung nicht zu vertreten.<br>4.3 Die Bildungseinrichtung schuldet der OfTa Ersatz der tats\u00e4chlich angefallenen Stornokosten, wenn sie den Transport nicht wahrnimmt, ohne ihn fristgerecht (siehe Ziffer 3.2) storniert zu haben, es sei denn, die Bildungseinrichtung und die die Klasse/Gruppe beaufsichtigenden Personen haben dies nicht zu vertreten. Satz 1 gilt entsprechend, wenn der Transport nicht durchgef\u00fchrt werden kann, weil die zu transportierende Gruppe/Klasse nicht rechtzeitig am vereinbarten Abholort transportbereit erscheint und der Busfahrer deshalb nach Ablauf einer Wartezeit von 15 Minuten den Abholort verl\u00e4sst. Die H\u00f6he der Stornokosten h\u00e4ngt von der Preisvereinbarung mit dem den Transport durchf\u00fchrenden Unternehmen, der Fahrtroute und der Busgr\u00f6\u00dfe ab und betr\u00e4gt zwischen 175,50 EUR und 223,20 EUR zzgl. MwsT. je Fahrt.",
+        "id": "_zBPXQgdFL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>5. Haftung</strong><br>OfTa haftet auf Schadensersatz nur bei Vorsatz und grober Fahrl\u00e4ssigkeit. Bei einfacher Fahrl\u00e4ssigkeit haftet OfTa jedoch<br>a) unbeschr\u00e4nkt f\u00fcr Sch\u00e4den aus der Verletzung des Lebens, des K\u00f6rpers oder der Gesundheit,<br>b) f\u00fcr Sach- oder Verm\u00f6genssch\u00e4den aus der Verletzung einer wesentlichen Vertragspflicht (Verpflichtung, deren Erf\u00fcllung die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung des Vertrags \u00fcberhaupt erst erm\u00f6glicht und auf deren Einhaltung der Vertragspartner regelm\u00e4\u00dfig vertraut und vertrauen darf) der H\u00f6he nach beschr\u00e4nkt auf die bei Vertragsschluss vorhersehbaren und vertragstypischen Sch\u00e4den.<br>Diese Haftungsbeschr\u00e4nkungen und -ausschl\u00fcsse gelten nicht, soweit OfTa einen Mangel arglistig verschwiegen oder eine Garantie f\u00fcr die Beschaffenheit einer Leistung \u00fcbernommen hat und f\u00fcr Anspr\u00fcche der Bildungseinrichtung nach dem Produkthaftungsgesetz.",
+        "id": "_S4lF7Fpqk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>6. Datenschutz</strong><br>Alle personenbezogenen Daten werden grunds\u00e4tzlich vertraulich behandelt. Die OfTa ist berechtigt, alle im Rahmen der Gesch\u00e4ftsbeziehung erforderlichen Daten i. S. d. Datenschutz-Grundverordnung (DSGVO) zu erheben, zu speichern und zu verarbeiten. Die Bildungseinrichtung gestattet der OfTa, diese Daten an mit der Durchf\u00fchrung des Vertrages beauftragte Dritte zu vermitteln, soweit dies zur Erf\u00fcllung des Vertrages notwendig ist. Hinweise zur Datenverarbeitung sind unter folgender Internetadresse abrufbar:<br>https://www.offensive-tanz.de/de/datenschutz",
+        "id": "_3BTcFQfVX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>7. Schlussbestimmungen</strong><br>7.1 Es gilt das Recht der Bundesrepublik Deutschland. <br>7.2 Nebenabreden und \u00c4nderungen des Vertrages bed\u00fcrfen zu ihrer Wirksamkeit der Textform. Dieses Formerfordernis kann nicht durch m\u00fcndliche Vereinbarung au\u00dfer Kraft gesetzt werden.",
+        "id": "_nT0eLOmOy",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

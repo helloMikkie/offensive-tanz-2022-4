@@ -1,0 +1,99 @@
+Title: Strange Garden
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Tanzstück / Premiere
+
+----
+
+Author: Colette Sadler
+
+----
+
+Date: 
+
+----
+
+End-date: 2021-08-22
+
+----
+
+Time: 16:00:00
+
+----
+
+Duration: 00:40:00
+
+----
+
+Location: Theater an der Parkaue, Parkaue 29, 10367 Berlin
+
+----
+
+Tickets: karten@purple-tanzfestival.de
+
+----
+
+Age: 6
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-08-22
+  zeit: 11:00:00
+- 
+  datum: 2021-08-22
+  zeit: 16:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Langsam erwacht eine Landschaft zum Leben. Es entsteht ein Garten, der sich st\u00e4ndig ver\u00e4ndert. Er wird von seltsamen Kreaturen bev\u00f6lkert, die sich bewegen, spielen und Kontakt miteinander aufnehmen. Diese Wesen sehen aus wie Dinge, die wir aus dem Alltag kennen. Aber sie alle bringen besondere Kr\u00e4fte mit, die uns \u00fcberraschen. <br>Hier im seltsamen Garten sind die Dinge nicht so, wie sie normalerweise scheinen. Wenn die Kreaturen nicht menschlich sind wie wir, wer oder was sind sie dann? Tier, Stein oder Pflanze? Sollten wir uns vor ihnen f\u00fcrchten? Oder werden sie vielleicht doch noch unsere besten Freunde?<\/p>"},"id":"74ceca7d-e788-4e5e-b539-6a96dc3623e8","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Premiere von Strange Garden war f\u00fcr den 19.01.2021 im Rahmen von <a href=\"https:\/\/purple-tanzfestival.de\">PURPLE Internationales Tanzfestival f\u00fcr junges Publikum<\/a> geplant, das aufgrund der Situation auf unbestimmte Zeit verschoben wird. Sobald konkrete Daten f\u00fcr die nachgeholte Premiere feststehen, werden sie hier ver\u00f6ffentlicht.<\/p>"},"id":"6e7cfe20-3862-4438-ac6d-4ed96452c701","isHidden":false,"type":"text"}]
+
+----
+
+Artists:
+
+- 
+  role: Konzept und Choreografie
+  name: Colette Sadler
+- 
+  role: Performance
+  name: >
+    Rachell Bo Clark, Samir Kennedy, Leah
+    Marojevic, Cian Mc Conn
+
+----
+
+Staffs:
+
+- 
+  role: Bühnenbild, Kostüm, Licht
+  name: 'Philine Rinnert '
+- 
+  role: Musik und Sound
+  name: Mikko Gaestel
+- 
+  role: Produktion und Gastspielmanagement
+  name: 'Catherine Launay '
+
+----
+
+Subtext: [{"content":{"text":"<p>Eine Produktion von Stammer productions Ltd. in Koproduktion mit dem Fonds Transfabrik - Deutsch-franz\u00f6sischer Fonds f\u00fcr darstellende K\u00fcnste; L'\u00c9changeur \u2013 CDCN Hauts-de-France; Offensive Tanz f\u00fcr junges Publikum Berlin, gef\u00f6rdert durch TANZPAKT Stadt-Land-Bund aus Mitteln der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien; Berliner Senat f\u00fcr Kultur und Europa. Mit finanzieller Unterst\u00fctzung durch das NATIONALE PERFORMANCE NETZ Koproduktionsf\u00f6rderung Tanz, gef\u00f6rdert von der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien.<\/p>"},"id":"062a8d41-36c2-4fb8-8e60-333366077e85","isHidden":false,"type":"text"}]

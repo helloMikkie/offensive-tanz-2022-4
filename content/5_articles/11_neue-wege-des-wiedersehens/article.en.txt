@@ -1,0 +1,122 @@
+Title: Neue Arten des Wiedersehens
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Offensive Tanz Outlook
+
+----
+
+Featured: true
+
+----
+
+Author: Elisabeth Leopold for Offensive Tanz
+
+----
+
+Date: 2020-08-30
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>New Ways of Reunion</strong>",
+        "id": "_8uqu6mf8o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "With fall approaching and the new schedules of the four partner institutions, the Offensive Tanz f\u00fcr junges Publikum enters the second round of its existence and, looking back on its mission, gives us an outlook on what is to come.",
+        "id": "_yQ1qdcHAC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Offensive Tanz sees itself as a process-oriented initiative that aims to strengthen the presence of contemporary dance for a young audience in the long term.",
+        "id": "_E0Q2hcnz1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This project involves the desire for greater participation of people from the most diverse contexts and with the most diverse horizons of experience in relation to the art form of dance. In order to make this desire a reality, innovative and experimental approaches are needed that attract the attention of a diverse audience and reduce fear of contact.",
+        "id": "_vjG4uAK5U",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Against this background, the Offensive Tanz has made it its task to create new places for encounters with dance. Encounters outside the usual theater spaces, in places where people can be confronted with dance in their everyday lives and be positively surprised. Despite possible fear of contact, these encounters should create moments of belonging. Performances, bouncy castle choreographies, or playground guerrillas - all this will take place in the future under the label \"Raus Gehen\" (Get Out) and turn places like schools, playgrounds, public places and parks, youth and shopping centers into places of dance. If it is not possible to find young spectators there directly, multipliers such as families, relatives and/or teachers will be found. Dance is given a public face and moves out of the bubble of its art context. The offensive dance actions also include further education and training for teachers.",
+        "id": "_mBN1nXoOC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"We have realized that especially in the current state of emergency brought about by the pandemic, we have to look for new ways beyond stage performances and thus act offensively and live up to our name\".",
+        "id": "_jp5j5upbq",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "(Canan Erek / Project Manager)",
+        "id": "_8w1yqv75t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Due to the pandemic, many programmatic changes have been made in regard to the Offensive Tanz, some productions have been postponed, are being transmitted digitally or redesigned in a modified form. This was also the case with the production \"Can touch this\" by Offensive Tanz Partner Theater Strahl in cooperation with the performing:group from Cologne. The group is now working on a new short version of the dance piece, which will eventually be performed in public space. From the original cast, two of the performers will meet with two newcomers via the video conferencing platform \"Zoom\" and rehearse exclusively digitally. Thus, one of the \"old\" performers and one of the newcomers will meet for the first time in real space, with the audience present - making the live moment all the more intense.",
+        "id": "_q8iO2qfxX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Participation and inclusion also require the recognition of other perspectives and a respectful approach to differences. By bringing together the various experiences, expertise and resources of its partners, the Offensive Tanz has been carrying this principle within itself since the start of the project at the beginning of this year, making the network idea the guiding principle of its work.",
+        "id": "_3WREjaWbu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Current events are characterized on the one hand by distance and retreat during the pandemic. On the other hand, we are experiencing increased discrimination and exclusion at the same time, which is strengthening solidarity movements such as \"BlackLivesMatter\" worldwide. Against this background, a positive attitude towards diversity, which preserves differences and creates encounters at eye level, takes on a special urgency.",
+        "id": "_EomyGWPdG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Offensive Tanz program therefore deals intensively with the topics of diversity and equality - whether in a conceptual-curatorial, artistic, dance pedagogical or mediatory way. Contemporary dance is characterized by a creative approach to physicality beyond normative guidelines, the breaking up of fixed vocabulary or forms, as well as collective working methods. Thus contemporary dance assumes an ideal mediating function for openness and diversity.",
+        "id": "_Y5naY04qR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In addition, the Offensive Dance program includes the examination of topics such as racist strategies in the history of dance education. Thus, the fall program starts with the catch-up symposium \"Dance and Racism - The Other Body\". The discourse on diversity in dance will also be continued in two symposia. The first one will take place under the title \"Internationality and Diversity in Dance for Young Audiences\" together with the festival FRATZ International.* After the turn of the year, the program will continue with the premiere of \"A Human Race\" within the framework of PURPLE, the international dance festival for a young audience.",
+        "id": "_U2bP6d1vQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "These formats serve to build bridges and create a lively platform for exchange between professionals, young people and artists.",
+        "id": "_Q2KM3lMid",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The idealistic and challenging goals are approached by Offensive Tanz f\u00fcr junges Publikum with courageous and offensive steps. They offer numerous opportunities for participation and networking and for new ways of reunion, whether for Berlin's dance professionals, the young audience, those interested in dance, or those still to be inspired.",
+        "id": "_NuG2XYOv9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>*Further information and dates for the individual events can be found on the website under the heading Program.</em>",
+        "id": "_bgd0dB6Ne",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

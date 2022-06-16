@@ -1,0 +1,92 @@
+Title: Can Touch This
+
+----
+
+Vimeo: https://vimeo.com/409185375
+
+----
+
+Subtitle: Trailer and Workshops
+
+----
+
+Featured: false
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-04-18
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "In der aktuellen Zeit, in der wir uns nicht mehr als 1,5 Meter n\u00e4her kommen d\u00fcrfen, erh\u00e4lt der Titel \u201cCan Touch This\u201d eine ganz neue Bedeutung. So k\u00f6nnen die geplanten Auff\u00fchrungen des St\u00fcckes und die begleitenden Schul-Workshops nicht stattfinden. Deshalb m\u00f6chten wir mit der Ver\u00f6ffentlichung des Trailers und einem kleinen Beitrag einen digitalen Einblick geben.",
+        "id": "_20seviqn1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ber\u00fchrung ist Provokation. Ber\u00fchrung ist sch\u00f6n. Ber\u00fchrung ist fehl am Platz. Ber\u00fchrung ist \u00fcberlebenswichtig. Kulturen und Traditionen bestimmen ob eine Ber\u00fchrung angenehm oder peinlich ist. Oder sind wir es die das bestimmen?",
+        "id": "_bxsjqwkc7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In \"Can Touch This\", welches das erste im Rahmen der Offensive Tanz produzierte Tanzst\u00fcck f\u00fcr Jugendliche ab 12 Jahren ist, geht es um genau diese Fragen, um N\u00e4he und Distanz und das Dilemma des modernen Menschen. Denn einerseits sehnen wir uns nach Ber\u00fchrung und wollen andererseits doch vor Verletzungen gesch\u00fctzt sein. F\u00fcnf Darsteller*innen lassen N\u00e4he zu, und verlieren die Kontrolle. Sie testen eigene und fremde Grenzen, stolpern \u00fcber Fettn\u00e4pfchen und Peinlichkeiten und fangen das Publikum am Ende sanft wieder auf.",
+        "id": "_tx4l02puo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zus\u00e4tzlich zu den Vorstellungen von \"Can Touch This\" bietet Strahl tanzp\u00e4dagogische Workshops f\u00fcr Jugendliche an, um den besonders f\u00fcr sie oft auch ambivalenten \u201eBer\u00fchrungspunkten\u201c mit Humor, Freude und Neugierde zu begegnen. Der Choreograph und T\u00e4nzer Florian Bilbao leitet die Workshops und konnte noch vor den Entwicklungen im Zusammenhang mit Covid-19 den ein oder anderen vor Ort in den Schulen durchf\u00fchren.",
+        "id": "_6nertn425",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "W\u00e4hrend des zweist\u00fcndigen Austausch wird den Jugendlichen die Kunstform des Tanztheaters spielerisch n\u00e4her gebracht, indem praktisch geforscht und dabei das Thema Ber\u00fchrung aufgegriffen wird.",
+        "id": "_pcqpdani2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"Mein Ziel ist es, dass die Sch\u00fcler*innen die k\u00fcnstlerische Freiheit eines kreativen Prozesses selbst entdecken und dar\u00fcber hinaus einige Elemente der Tanzgeschichte vermittelt werden.\"",
+        "id": "_a479bxcns",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Florian Bilbao",
+        "id": "_ywcbya3in",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hierf\u00fcr dienen Fotos von wichtigen Choreographen als Grundlage der Vermittlung, in einem n\u00e4chsten Schritt werden die Bewegungen, welche auf den Fotos zu sehen sind, von den Sch\u00fcler*innen nachgestellt. Das Prinzip der Improvisation, Forschung und Entdeckung spielt eine zentrale Rolle und ist f\u00fcr Florian Bilbao der Schl\u00fcssel, um den kreativen Prozess freizulegen.",
+        "id": "_yh68r8nob",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auch das Thema Ber\u00fchrung, das im St\u00fcck Can Touch This im Mittelpunkt steht, kommt in den Workshops abschlie\u00dfend zum Tragen. Die Sch\u00fcler*innen erstellen hierf\u00fcr 30-Sekunden-Szenen mit oder ohne Stimme und in Gruppen von 3-4 Personen. In ihrer Ausf\u00fchrung sind sie v\u00f6llig frei. Grundlage waren wieder Fotos aus dem St\u00fcck: \"Ich kann sagen, dass diese Freiheit wunderbar ausgenutzt wurde! Die Sch\u00fcler*innen machten reale Szenen mit Beginn, Entwicklung und Ende.\"",
+        "id": "_9jgjqsu1i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Weitere Informationen zu Can Touch This und die Workshops gibt's \u00fcbrigens <a href=\"https://offensive-tanz.de/de/events/can-touch-this\">hier</a>. Unter dem Hashtag <a href=\"https://www.theater-strahl.de/angebote/\">#ZuhauseSTRAHLen</a> bietet Theater Strahl aktuell au\u00dferdem Homeschooling Aufgaben f\u00fcr die eigenen vier W\u00e4nde an. F\u00fcr Fragen und/oder Anregungen steht das Team vom Theater Strahl jederzeit unter strahl@offensive-tanz.de zur Verf\u00fcgung.",
+        "id": "_flt603iy6",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

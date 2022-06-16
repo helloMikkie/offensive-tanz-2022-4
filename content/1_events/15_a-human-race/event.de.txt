@@ -1,0 +1,112 @@
+Title: A Human Race
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Tanzstück
+
+----
+
+Author: Grichka Caruge
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-05-21
+
+----
+
+Time: 18:00:00
+
+----
+
+Duration: 01:00:00
+
+----
+
+Location: TANZKOMPLIZEN im Podewil
+
+----
+
+Tickets: tickets@tanzkomplizen.de
+
+----
+
+Age: 11
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-05-22
+  zeit: 18:00:00
+- 
+  datum: 2022-05-23
+  zeit: 10:30:00
+- 
+  datum: 2022-05-24
+  zeit: 10:30:00
+- 
+  datum: 2022-05-25
+  zeit: 10:30:00
+
+----
+
+Registration: https://tanzkomplizen.de/a-human-race/
+
+----
+
+Description: [{"content":{"text":"<p>Kann man mit Tanz aufbegehren? Der in der Schwarzen Community von L.A. geborene Tanzstil Krump ist die <strong>Verk\u00f6rperung von sozialer Ungleichheit<\/strong>, eine pulsierende Form des Ausdrucks, die roh und energetisch ist, ein kreatives Ventil f\u00fcr Aggression, das die Wunden von Ausgrenzung und Rassismus selbst sprechen l\u00e4sst. \u201eA Human Race\u201c zeigt Krump aber auch als ein Pl\u00e4doyer daf\u00fcr, menschliches Miteinander immer wieder neu zu verhandeln: Kampf, Wut oder Schmerz sind eng verbunden mit der M\u00f6glichkeit Gemeinschaft, Empathie und Zusammenhalt zu entwickeln.<\/p>"},"id":"d4bb1f54-f32e-44cc-9ca3-ca5feee2136b","isHidden":false,"type":"text"},{"content":{"text":"<p><em>\u201eKrump mag spektakul\u00e4r aussehen, aber in Wirklichkeit geht es darum, etwas zu f\u00fchlen. Krump stellt die Emotion vor jede Bewegung. Beim Krump ist der Ausdruck des Charakters zwingend erforderlich, sonst verliert er seine Essenz.\u201c (Grichka Caruge)<\/em><\/p>"},"id":"e83e277d-6f68-4a88-90a1-d06dc69ff2dd","isHidden":false,"type":"text"},{"content":{"text":"<p>Tanzkomplizen bietet der noch jungen, auf der Stra\u00dfe entstandenen Tanzform eine B\u00fchne und holt mit Grichka Caruge einen der versiertesten Krumper Europas nach Berlin. Der mehrfache Weltmeister brachte den Tanzstil als einer der ersten Performer von Los Angeles nach Europa. F\u00fcr die Inszenierung kann er auf ein Ensemble aus leidenschaftlichen, professionellen Krump-Performer*innen zur\u00fcckgreifen.<\/p>"},"id":"2977142f-0533-44db-bc34-182ecbf26388","isHidden":false,"type":"text"}]
+
+----
+
+Artists:
+
+- 
+  role: Choreografie
+  name: Grichka Caruge
+- 
+  role: Tanz
+  name: >
+    Luka Austin, Solomon Quaynoo, Rochdi
+    Alexander Schmitt, Mark Sheats, Émilie
+    Ouedraogo Spencer
+- 
+  role: Dramaturgie
+  name: Livia Patrizi
+
+----
+
+Staffs:
+
+- 
+  role: Produktionsleitung
+  name: Carola Söllner
+- 
+  role: Bühne und Kostüme
+  name: Silvia Albarella
+- 
+  role: Technische Leitung/Licht
+  name: Martin Pilz
+- 
+  role: Lichtdesign
+  name: Arnaud Poumarat
+
+----
+
+Subtext: [{"content":{"text":"<p>Eine Produktion von TANZKOMPLIZEN im Rahmen der Offensive Tanz f\u00fcr junges Publikum Berlin, in Kooperation mit <a href=\"http:\/\/www.ciearttrack.com\/\">Cie Art-Track<\/a> (F). Mit freundlicher Unterst\u00fctzung des <a href=\"https:\/\/www.institutfrancais.de\/\">Institut fran\u00e7ais<\/a> und des franz\u00f6sischen Ministeriums f\u00fcr Kultur\/DGCA.<\/p>"},"id":"182fb867-73e1-4e6a-bbe9-be20f7ec3bfe","isHidden":false,"type":"text"}]

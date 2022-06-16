@@ -1,0 +1,51 @@
+title: SubPage
+icon: 🚩
+status:
+  draft:
+    label: Entwurf
+  listed:
+    label: Published
+
+columns:
+  - width: 3/4
+    sections:
+      content:
+        type: fields
+        fields:
+          vimeo:
+            label: "Vimeo URL"
+            type: url
+          text:
+            label: Text
+            required: true
+            width: 1/1
+            type: blocks 
+            fieldsets:
+              - heading
+              - text
+              - image
+              - quote
+              - list
+              button:
+                name: Link
+                icon: bolt
+                fields: 
+                  logo:
+                    type: files
+                  link:
+                    type: url
+                  text:
+                    type: text
+              
+            
+  - width: 1/4
+    sections:
+      gallery:
+        type: files
+        layout: cards
+        size: tiny
+        image:
+          cover: true
+          ratio: 2/1
+    
+

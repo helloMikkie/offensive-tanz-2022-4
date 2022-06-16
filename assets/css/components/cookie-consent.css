@@ -1,0 +1,38 @@
+/* Cookie Consent */
+
+.cc-revoke,
+.cc-window,
+.cc-btn,
+.cc-revoke {
+  font-size: var(--fs-small);
+  letter-spacing: 0.03rem;
+  line-height: var(--lh-small);
+  font-family: raisonne-book, Arial, Helvetica, sans-serif;
+  color: #fff !important;
+  background: rgba(0,0,0,0.85);
+  border-radius: 6px;
+}
+
+.cc-link {
+  color: #fff !important;
+  padding: 0;
+}
+
+.cc-revoke {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  text-decoration: none !important;
+  transform: translateY(0);
+}
+.cc-revoke.cc-left{
+  left: 1rem;
+}
+.cc-allow, .cc-deny{
+  text-transform: uppercase; 
+  letter-spacing: 0.1rem; 
+  font-family: "raisonne-bold";
+  background: none; 
+}
+.cc-allow{
+  border-radius: 999px;
+}

@@ -1,0 +1,163 @@
+Title: The other body?
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: false
+
+----
+
+Label: Conference on Dance and Racism
+
+----
+
+Author: Tanzkomplizen and Nora Amin
+
+----
+
+Date: 2020-09-10
+
+----
+
+Time: 14:00
+
+----
+
+Duration: 07:00
+
+----
+
+Location: Schillertheater-Werkstatt Berlin or via Zoom
+
+----
+
+Tickets: kontakt@tanzkomplizen.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>What does racism do to the body?<br>How does the body act to create racism-free thinking and feeling spaces?</strong>",
+        "id": "_h7N4YsUYB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201cThe Other Body?\" is a conference for dance artists and educators on the issue of dance and racism. It is an attempt to let artists, educators and spectators speak out against the labelling, objectification and de-humanisation of the dancing body, while considering the transformations of socio-political identities and the perspective of decolonisation. Central to the one-day conference is the analysis of the strategies of racism within the history of dance pedagogy and the aesthetic traditions of choreographed dance. Three sessions offer room for discussion, and a final slot opens up the possibility for performative expression.",
+        "id": "_hqgcf7g71",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Schedule</strong>",
+        "id": "_5pr6tp3be",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "14h-14:30 Keynote Nora Amin",
+        "id": "_vlxffkxq8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "14:30-16:00 Session 1: Critical initiatives by emerging artists // What are critical initiatives and projects happening in Germany by emerging choreographers and dancers today?",
+        "id": "_ltnqklit4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "16.00-16.15 Break",
+        "id": "_P0j38HqMD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "16.15-17.45 Session 2: Dance Pedagogy from a socio-political perspective // How much is dance pedagogy informed by diversity and by the transforming political identities? What new teaching approaches are necessary?",
+        "id": "_c2yHnJyOZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "17:45-18:00 Break",
+        "id": "_4zVwADpRO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "18:00-19.30 Session 3: The performative political body of today // What are the movements and corporalities/corporealities existing today -and since some years- that have been shaped by protests, demonstrations, revolutions and wars? What new/other bodies emerge from there? How can those political bodies inspire staged dance beyond imitation?",
+        "id": "_NO6GUNZA3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "19:30-20:00 Break with soup",
+        "id": "_MYQOyOvzV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "20-21h performative feedback<br>Selected dancers are asked to embody their impression of the conference in 10 minutes.",
+        "id": "_i85rmox3b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Due to the current Corona regulations, only a maximum of 20 people is allowed to be present at the venue. All 20 seats are already allocated.</strong>",
+        "id": "_ydgyvzeyi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>As we will be streaming the event live, online participation is possible tho.</strong>",
+        "id": "_0k9zedq3k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Please register for this from 17.8. to 7.9. at <a href=\"mailto:kontakt@tanzkomplizen.de\">kontakt@tanzkomplizen.de</a>.</strong>",
+        "id": "_iw2z0d7fd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The detailed program and participating speakers and dancers can be found on TANZKOMPLIZEN <a href=\"https://tanzkomplizen.de/the-other-body/\">website</a>.",
+        "id": "_dnm9hebrd",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>The event is in English.</strong>",
+        "id": "_22pezrgmv",
+        "type": "paragraph"
+    }
+]

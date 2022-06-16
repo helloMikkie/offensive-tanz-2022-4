@@ -1,0 +1,138 @@
+Title: Nesting ~ Landing
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Atelier
+
+----
+
+Author: Theater o.N. in cooperation with Shelley Etkin
+
+----
+
+Date: 2021-09-01
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Abenteuerlicher Bauspielplatz Kolle 37
+
+----
+
+Tickets: info@theater-on.com
+
+----
+
+Age: 6
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Nesting ~ Landing<br></strong>A studio for children 6 years and older",
+        "id": "_xn1hiqln2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In the context of the Offensive Tanz f\u00fcr Junges Publikum Berlin and in cooperation with the Gemeinschaftsunterkunft Stra\u00dfburger Stra\u00dfe and the Abenteuerlicher Bauspielplatz Kolle 37.",
+        "id": "_J5oppykfE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Shelley Etkin has been working with Theater o.N. as an interdisciplinary artist since 2018. In doing so, she relates her body-based artistic work on origin and arrival, on localisation and rootedness, to the lifeworld of children and their relationship to their immediate surroundings. The ground beneath our feet. Plants and animals. The city, the country, the earth, the wind.... Nature. Inside spaces, outside spaces. At home. Not at home. Presence. Arriving? Landing? Belonging?",
+        "id": "_zwqitm6Ww",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The current project \"Nesting ~ Landing\" invites children with recent migration experiences living in the community shelter Stra\u00dfburger Stra\u00dfe to the neighboring Bauspielplatz at Kollwitzstra\u00dfe 37 - an autonomous space for children to build, play and be together.",
+        "id": "_eXtPe5L1K",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For the project, a giant structure will be built on the Bauspielplatz - a UFO, a nest, a cell, a cave?",
+        "id": "_9Pi9T0dXY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Artists Yoav Admoni and Layla Klinger have built this structure out of wood and hand-knitted wool. It is inspired by landing - a bird lands in a nest, a spaceship lands on earth... It is a contained yet porous space - you can lay close to the ground while at the same time the sky opens upwards. How does it feel to be here? What do you hear? Who can you meet?",
+        "id": "_9sTzTZOPj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"Nesting ~ Landing\" explores how to creatively engage with the design of places. The starting point is the migratory movements and habits of birds.",
+        "id": "_xwfh6zg5I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We invite a group of children, ages 6 and up, to collectively build a temporary environment that we weave and inhabit together. How can this process of creating and inhabiting a place together make visible our multiple relationships to home, migration, and coexistence? In an interdisciplinary working group, we will explore how our (adult) offerings can relate to children's imaginations and thought worlds, and open ourselves to their curiosities and needs. What kind of habitat could we build together and how can this process playfully deconstruct claims to ownership and territory? What dreams do we have in relation to this place and in relation to the places in our lives?",
+        "id": "_zhisp0mtc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Concept: Shelley Etkin<br>Sculpture: Yoav Admoni, Layla Klinger<br>Participating artists: Marina Hulzenga, Parvathi Ramanathan, Ludger Storcks, Nicola van Straaten<br>Dramaturgy: Doreen Markert<br>Pedagogical guidance: Lydia Baldwin, Nils Rapp<br>Technical support / organisation: Cathy Walsh<br>Cooperation partners: Abenteuerlicher Bauspielplatz Kolle 37, Gemeinschaftsunterkunft Stra\u00dfburger Stra\u00dfe (Hero Zukunft GmbH)",
+        "id": "_vzksuhi1c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Further information:</strong>",
+        "id": "_H2FHnxptv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.youtube.com/watch?v=hOOsmEsqW_0\">Video documentation</a> on the construction of the Nest sculpture (FRATZ Festival 2019)<br><a href=\"https://www.fratz-festival.de/fileadmin/DATEN/Ver%C3%B6ffentlichungen/FRATZ_Reflexionen_2019.pdf\">Article by Shelley Etkin</a> on \"Nesting\" (see pages 14-21, FRATZ Reflections 2019)",
+        "id": "_92oecefww",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

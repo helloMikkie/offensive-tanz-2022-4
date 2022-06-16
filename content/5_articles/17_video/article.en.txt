@@ -1,0 +1,170 @@
+Title: The Other Body?
+
+----
+
+Vimeo: https://vimeo.com/398035698
+
+----
+
+Subtitle: Interview with Raha Nejad
+
+----
+
+Featured: false
+
+----
+
+Author: Elisabeth Leopold for Offensive Tanzfür junges Publikum
+
+----
+
+Date: 2020-04-07
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Our symposium \"The other body?\", organised by TANZKOMPLIZEN as part of the Offensive Tanz, would have had dealt with racist structures in dance and was at the very beginning of the Corona period. It was the first event that we had to cancel and postpone indefinitely. The camera recording Nora Amin's keynote speech on March 13th also captured the impressive dance performance by Raha Nejad in the middle of an empty room (recording above). Afterwards, we took the opportunity to talk to the German-Persian dancer and choreographer via call.",
+        "id": "_8rijth1pz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Raha, how do you deal with the current situation, are you losing many jobs, too?</strong>",
+        "id": "_xKH4K0gsv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I think, life in general currently falls apart. Many events have already been cancelled. But I thought we could manage that. Artists are survivors. It hit hard tho when the symposium in the context of Offensive Tanz was cancelled. This was very important for me personally so that day was a very emotional one. Doing the performance in the middle of this empty space of Schillertheater Werkstatt \u2013 I don't know exactly what it was. It is a feeling you cannot control. And the song that was played also did something to me.",
+        "id": "_Pmkyu0l3j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Speaking about the music, what made you pick this piece?</strong>",
+        "id": "_JnMaUIc1M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It is the \"Four Seasons\" by Vivaldi. I generally enjoy working with classical music, I used to play the violin and saxophone a lot. Music is extremely important for me, especially when I'm working as a soloist. I have chosen \"Four Seasons\" because of their increasing character. <em>The \"Four Seasons\" by Vivaldi \u2013 it is a sad piece of music but the sadness opens up so that you want to break free.</em>This is how it feels to me \u2013 to put it in a nutshell.",
+        "id": "_pluk4j931",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>You work with many different dance styles and you are known for your versatility. What do you think about these divisions of styles?</strong>",
+        "id": "_CZRpiD8NU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The more a dancer is dealing with different styles, the more the own dance style develops. As a young girl it was very important for me to be able to do everything I wanted to do. You also have to deal with one thing first to be able to say - ok, I understand that. Then you move on to something else. I always liked being someone who jumps between different styles. But hip hop, urban dance, that was always my priority. And then of course there is my background that I bring along, my roots. I think we are all much too busy thinking in separate boxes. And in only one way. I cannot do that. There's not just the one way.",
+        "id": "_VKlSbn8k8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>You are also active in the educational context, how do you teach dance?</strong>",
+        "id": "_RNVftKr3p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Besides my work at dance school, I also teach at grammar school, i.e. in a school club. That is of course something completely different. I cannot expect that all of these students want to become great artists. I have to convey it tho in a way that they know what dance is all about.",
+        "id": "_KHrnYx3JN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>What it dance all about (laughing)?</strong>",
+        "id": "_4kF5hKAe7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "First, dance it is about the development of an understanding of what the dancer wants to convey. About being open and observing what dance does to you.",
+        "id": "_ia7jtsxqy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Openness is a very important term in this context. I want to give something to people.",
+        "id": "_m9ho9he4z",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_sod6znqqx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Musicality and the styles that exist. And the freedom we have to mix those styles. That is what I want to letto children know. What you do - that is you. When dancing, you create your own base, your own environment. It is up to you how to communicate this. Dance enriches, it's a medicine. If we would not have art in the current situation, it would be very difficult. Artists Ary lucky, they are able to rely on something that brings joy in other people's life. That is worth a lot. Even on the day when the symposium had to be cancelled, we went home from the Schillertheater Werkstatt and I was very sad. It was a mixture of sadness, but also tenderness somewhere. Sadness and happiness merging in terms of being allowed to do what I do. I have a feeling that artists are also getting a remarkable voice in this situation. We live from ourselve's presentation and it is professionalism to make this look easy. But there is another kind of effort too, coming with a very special quality.",
+        "id": "_6pqq61xg9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>I like what you are saying, that dance is about openness at first. Does that also have something to do with the fight against racism in dance, in schools, in everyday life?</strong>",
+        "id": "_jYvENGekE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I can use the openness and the freedom that comes with dance to make me feel better. It also protects me. Whether it is protection against racism or any other conflict you have in life.",
+        "id": "_ukoqzam0r",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I cannot avoid being a foreigner. But as an artist I can make a statement.",
+        "id": "_etia221zz",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_wb3z30c36",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For me as a Persian, freedom also has an important meaning whilst playing with hair. We usually must keep our hair covered, and that's what I play with.",
+        "id": "_4ikombort",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Do you have a vision of dance? A feeling where this could lead to?</strong>",
+        "id": "_pRzfAUVsr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Right now we have time to think about what this vision of dance could look like. It is a pause in which everyone related to dance can reflect on the way it could further develop. That is easier said than it is done. I think the vision for many is also to simply continue as before, but perhaps with different, or clearer eyes. The performance at the empty Schillertheater Werkstatt was a very conscious moment for me. It was as if I was dancing for the last time for a long time.",
+        "id": "_4QVf5SQUl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+video/files/image00002.jpeg",
+            "src": "https://offensive-tanz.de/media/pages/articles/video/-510819049-1586443699/image00002.jpeg",
+            "id": "articles/video/image00002.jpeg",
+            "ratio": 1.4996911673872761472381398561992682516574859619140625,
+            "caption": "Raha Nejad, Foto: \u00a9 Anelia Janeva"
+        },
+        "content": "",
+        "id": "_ytzf4np9j",
+        "type": "image"
+    }
+]
+
+----
+
+Subtext: 

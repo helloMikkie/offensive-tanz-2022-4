@@ -1,0 +1,69 @@
+Title: Auftaktveranstaltung
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Veranstaltung
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-01-19
+
+----
+
+Time: 18:30:00
+
+----
+
+Duration: 02:30:00
+
+----
+
+Location: Uferstudios Wedding, Badstr. 41a, Tor 1
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Am 19.01.2020 startet das Kooperationsprojekt <strong>Offensive Tanz f\u00fcr junges Publikum<\/strong> offiziell im Rahmen von PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum. Zu der \u00f6ffentlichen Veranstaltung sind Interessierte herzlich ab 18:30 Uhr im Studio 1 der Uferstudios in Berlin-Wedding eingeladen. Im Anschluss an die Projektvorstellung und den Website-Launch gibt es ein kleines Get-Together f\u00fcr den Austausch.<\/p>"},"id":"6efb2749-9709-4e1f-ab0e-fb24bdd54276","isHidden":false,"type":"text"},{"content":{"text":"<p>Alle Partner der <strong>Offensive Tanz f\u00fcr junges Publikum <\/strong>werden bei PURPLE-Internationales Tanzfestival f\u00fcr junges Publikum pr\u00e4sent sein; finanziert durch die Initiative wird die Produktion <em>Can touch this<\/em> von Theater Strahl am 21. Januar uraufgef\u00fchrt. Weitere Vorstellungen gibt es von TANZKOMPLIZEN mit <em>Normen, Normen, Normen<\/em> und <em>fliegen&amp;fallen<\/em> von Theater o.N.<\/p>"},"id":"95178ec8-6be0-4ada-b9f7-91fce1b23099","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

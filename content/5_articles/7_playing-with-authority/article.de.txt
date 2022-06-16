@@ -1,0 +1,421 @@
+Title: Playing with Authority
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Keynote Speech von Nora Amin
+
+----
+
+Featured: true
+
+----
+
+Author: Nora Amin
+
+----
+
+Date: 2021-02-26
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Keynote \u2013 gehalten am 08.11.2020 im Rahmen des Symposiums \"Race \u2013 Class \u2013 Gender. Intersektionale Perspektiven in Tanz und Theater f\u00fcr die J\u00fcngsten\"</strong>",
+        "id": "_in7r28f4h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Autorit\u00e4t hat in der gesamten Geschichte der Performance \u2013 von Theater \u00fcber Musik bis hin zu Tanz \u2013 immereine Rolle gespielt, so wie sie es bei jeder Form des \u00f6ffentlichen Ausdrucks tut. Der \u00f6ffentliche Aspekt dieser Ausdrucksformen macht es unabdingbar, das Dargebotene zu \u00fcberpr\u00fcfen und zu \u00fcberwachen, da es einesichtbare Kommunikation etabliert und gesellschaftspolitische Aussagen trifft, die einen Einfluss auf die \u00f6ffentliche Meinung haben k\u00f6nnen. Die Autorisierung von Inhalten und Formen lag dabei schon immer in der Macht des Staates, der kulturellen Elite und der herrschenden Systeme im Allgemeinen. So haben mancheStaaten auch offizielle Zensurbeh\u00f6rden geschaffen \u2013 einige davon dem Kulturministerium untergeordnet \u2013und andere haben sich daf\u00fcr entschieden, die \u00dcberpr\u00fcfung und \u00dcberwachung indirekt oder gar vertraulich durchzuf\u00fchren. Auch die Macht der Gesellschaft kann eine Autorit\u00e4t sein, eine Autorit\u00e4t, die erlaubt oder verbietet. Das herrschende ethische System und die b\u00fcrgerlichen Konventionen machen es m\u00f6glich,bestimmte Inhalte durch Ablehnung, Verdr\u00e4ngung und Besch\u00e4mung auszuschlie\u00dfen. Alles, was in die Kategorie einer Opposition zum herrschenden politischen oder ethischen System f\u00e4llt, k\u00f6nnte so wahrscheinlich zum ausgeschlossenen Inhalt werden. Das Wort Tabu wird seit jeher nicht nur mit bestimmten Taten und Handlungen, sondern auch mit \u00c4u\u00dferungen in Verbindung gebracht.",
+        "id": "_zS0r2PCgB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche Tabus haben wir im Bereich der \u00f6ffentlichen Meinungs\u00e4u\u00dferung?</strong>",
+        "id": "_TBaiGp3nJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Wort Tabu ist wahrscheinlich sogar st\u00e4rker mit \u00c4u\u00dferungen bzw. der Bekundung von Taten verbunden als mit der tats\u00e4chlichen Ausf\u00fchrung dieser Taten. Die \u00f6ffentliche \u00c4u\u00dferung einer Sache kann st\u00e4rker sein als die Sache selbst. Die \u00f6ffentliche \u00c4u\u00dferung und Streuung hat die Macht, sich auszubreiten und zu beeinflussenund wird so zu einem politischen Werkzeug. Eine Kraft<a href=\"applewebdata://C40BC7B0-97A6-4FCF-A82A-1B930EC0C937#_edn1\">[i]</a> ist eine F\u00e4higkeit, etwas zu tun. Als Kind und Teenager hatte ich die Kraft, auf den Stra\u00dfen von Kairo zu tanzen, ich war erf\u00fcllt von dieser Kraft, sie n\u00e4hrte mich \u2013 aber konnte ich wirklich auf der Stra\u00dfe tanzen? Nein. Ich hatte nicht die Befugnis, also die Autorit\u00e4t, meine Kraft in die Tat umzusetzen, sie geschehen zu lassen. Jemand anderes hatte \u2013 und hat noch immer \u2013diese Autorit\u00e4t; die Autorit\u00e4t, die Aus\u00fcbung meiner Kraft und solcher Handlungen im Allgemeinen zu erlauben. Die meiste Zeit meiner Karriere durfte ich weder tanzen noch Stra\u00dfenperformances machen \u2013 obwohl das mein Traum mit dem Theater der Unterdr\u00fcckten in \u00c4gypten war \u2013, weil es ein sogenanntes Notstandsgesetz gab, das 35 Jahre lang \u2013 bis zur Revolution 2011 \u2013 galt und Stra\u00dfenperformances nicht erlaubte, da es sie als \u00f6ffentliche politische Handlungen einstufte. Demnach gab es keine Unterscheidung zwischen einem Protest und einer Tanzveranstaltung. Jede:r, die:der die Kraft und die Veranlagung hatte, etwas zu tun, brauchte eine Genehmigung. Autorit\u00e4t, autorisiert und Autorisierung.",
+        "id": "_juQQRFeMM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche Bedeutung hat die Autorisierung in deinem eigenen Leben?</strong>",
+        "id": "_gPkJYbVu4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wer aber hatte die Macht zu autorisieren? Wer hatte die Macht, die Machthabenden zu autorisieren? Nat\u00fcrlich war dies der Staat, das Regime, die Regierung, das Rechts- und Justizsystem, die religi\u00f6sen Institutionen, die Eltern, die Lehrer:innen, die geistlichen F\u00fchrer:innen, die politischen F\u00fchrer:innen, der Chef der politischen Partei, der Intendant des Theaters. Autorit\u00e4t war eine M\u00f6glichkeit, Macht zu instrumentalisieren, sie zu filtern, auszubeuten und zu unterwerfen. In Wirklichkeit gab es damals also keine Macht, sondern nur Autorit\u00e4t. Gilt dies auch f\u00fcr Deutschland? F\u00fcr Europa? Gilt es f\u00fcr demokratische Staaten? Meiner Meinung nach gilt das Konzept der Autorit\u00e4t \u00fcberall und jederzeit, da es eine Voraussetzung f\u00fcr das Regieren ist. Es gibt kein Regieren ohne Autorit\u00e4t. Aber wenn die Demokratie beansprucht wird, kann Autorit\u00e4t vielleicht durch Transparenz und Gleichheit erreicht werden, wobei Transparenz und Gleichheit zugleich Prinzipien und Schutzma\u00dfnahmen sind. Die Legitimit\u00e4t derjenigen, die die Autorit\u00e4t innehaben, die die Macht haben zu autorisieren, wird durch Wahlen, Engagement, \u00f6ffentliche Diskussion, Gerechtigkeit und Transparenz g\u00fcltig gemacht. Damit wird die Legitimit\u00e4t selbst durch das Volk autorisiert. Und nur in dieser Situation k\u00f6nnen wir die Mentalit\u00e4t der Menschen und ihr Denksystem hinterfragen. Unser gesamtes Denksystem wird von Vorstellungen von Normativit\u00e4t und Normalit\u00e4t beherrscht. Diese Vorstellungen sind nicht unabh\u00e4ngig von unserer universellen Geschichte der Unterdr\u00fcckung, Diskriminierung und Hierarchie. Diese Vorstellungen sind nicht unschuldig. Wie alle Bereiche der Ethik und Moral sind sie kontaminiert miteiner traumatischen Geschichte dessen, was \u201enormal\u201c ist, was \u201eakzeptabel\u201c ist, was \u201ein Ordnung\u201c ist und was \u201enicht in Ordnung\u201c ist, was \u201esch\u00f6n\u201c ist und was \u201eh\u00e4sslich\u201c, was \u201e\u00fcberlegen\u201c ist und was \u201eminderwertig\u201cist. Diese universelle Geschichte h\u00e4tte nicht bis heute \u00fcberlebt \u2013 denn sie ist bis heute lebendig \u2013, wenn es nicht die P\u00e4dagogik g\u00e4be. Die P\u00e4dagogik ist das Werkzeug zum Schutz der Normen, der herrschenden Ethik und des Struktur von Pers\u00f6nlichkeit und Identit\u00e4t. Die P\u00e4dagogik umfasst den gesamten Bereich der Wissensvermittlung, alle Lernsysteme und was auch immer unser Verst\u00e4ndnis der Welt und unserer selbst von Geburt an pr\u00e4gt und speist. Diese P\u00e4dagogik ist eine Schutzma\u00dfnahme der Autorit\u00e4t. Sie sichert die Macht der Autorit\u00e4t. Deshalb werden Wissen, Traditionen und Normen von einer Generation zur n\u00e4chstenweitergegeben und durch die P\u00e4dagogik aufrechterhalten. Dabei kann die P\u00e4dagogik an sich alles sein, sie kann chaotisch sein, sie kann s\u00e4kular oder religi\u00f6s sein, sie kann eine unterdr\u00fcckende oder eine befreiende und bef\u00e4higende P\u00e4dagogik sein.",
+        "id": "_MIik2pl5D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche Arten von P\u00e4dagogik hat deine Gesellschaft durchlaufen?</strong>",
+        "id": "_BFiZpQxzg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "F\u00fcr jede Ideologie und jedes Herrschaftssystem gibt es eine passende P\u00e4dagogik. Nichtsdestotrotz kann eine P\u00e4dagogik durch au\u00dferordentliche und langwierige Bem\u00fchungen auch revidiert werden. Sie kann von einer unterdr\u00fcckenden zu einer befreienden verkehrt werden und umgekehrt. Auch dies hat wiederum die Autorit\u00e4t in der Hand. Paulo Freire (ein gro\u00dfer Denker, P\u00e4dagoge und Philosoph) und Augusto Boal (der Begr\u00fcnder des Theaters der Unterdr\u00fcckten) arbeiteten Hand in Hand, um die P\u00e4dagogik der Unterdr\u00fcckten in eine P\u00e4dagogik der Selbstbefreiten zu verwandeln. Das damalige autorit\u00e4re System in Brasilien \u2013 also die Diktatur \u2013 hatte sich durch eine P\u00e4dagogik der Unterdr\u00fcckung abgesichert. Paulo Freire schuf 1968 einen grundlegenden Text der kritischen P\u00e4dagogik, sein ber\u00fchmtes Buch \u201eP\u00e4dagogik der Unterdr\u00fcckten\u201c, in dem er eine detaillierte <a href=\"https://en.wikipedia.org/wiki/Class_analysis\">marxistische Klassenanalyse</a> in seine Untersuchung des Verh\u00e4ltnisses zwischen Kolonisator und Kolonisierten einbezieht. In dem Buch bezeichnet Freire die traditionelle P\u00e4dagogik als das \u201e<a href=\"https://en.wikipedia.org/wiki/Banking_model_of_education\">Bankenmodell der Erziehung</a>\u201c, weil sie Sch\u00fcler:innen wie ein leeres Gef\u00e4\u00df behandelt, das mit Wissen gef\u00fcllt werden soll. Er argumentiert, dass die P\u00e4dagogik stattdessen die Lernenden als Mitsch\u00f6pfer:innen von Wissen behandeln sollte.",
+        "id": "_HPKZ4NARL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ich schlage vor, dass wir mittels der kritischen P\u00e4dagogik \u2013 als Element des kritischen Diskurses im Allgemeinen \u2013 unsere Praktiken und Umgebungen neu untersuchen. Zum Beispiel instrumentalisieren die unterdr\u00fcckerischen P\u00e4dagogiken \u2013 die an vielen Orten der Welt existieren \u2013 die B\u00fcrger:innen in der Regel, indem sie diese dazu bringen, die Systeme ihrer eigenen Unterdr\u00fcckung zu reproduzieren. Wie ich einmal \u00fcber \u00c4gypten gesagt habe, reicht es nicht aus, die Spitze des Regimes zu entfernen, wir m\u00fcssen vielmehr als B\u00fcrger:innen darauf hinarbeiten, unser eigenes Denksystem zu ver\u00e4ndern, sonst laufen wir Gefahr, dieselbeUnterdr\u00fcckung immer wieder zu reproduzieren. Deshalb ist der lange Kampf f\u00fcr Ver\u00e4nderung und Gleichheit derjenige, der im Bereich der P\u00e4dagogik stattfindet.",
+        "id": "_spC91d1TS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche Form(en) der kritischen P\u00e4dagogik gibt es in unserer Gesellschaft?</strong>",
+        "id": "_ZIeD4j00F",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wenn wir uns \u2013 in unserer Gesellschaft \u2013 immer noch mit Fragen und Problemen der Vielfalt, Gleichheit und Gerechtigkeit besch\u00e4ftigen, dann m\u00fcssen wir unsere P\u00e4dagogik \u00fcberpr\u00fcfen. Denn auch wenn wir in einem demokratischen Staat leben, gibt es keine Garantie daf\u00fcr, dass unsere P\u00e4dagogik frei von \u00dcbeln ist. Die Demokratie an sich reicht nicht aus, wenn das gesamte Denken und die \u00dcberzeugungen der Mehrheit nicht auf den Prinzipien der Gleichheit und Gerechtigkeit beruhen. Ein langer Prozess des Hinterfragens und \u00dcberpr\u00fcfens hat uns heute hierhergebracht, hat uns zusammengebracht und uns in den Bereich der Performance f\u00fcr junges Publikum gef\u00fchrt. Denn die Arbeit f\u00fcr Kinder undi Jugendliche bringt uns direkt in die Dom\u00e4ne der Infragestellung von Werten und Normativit\u00e4t.",
+        "id": "_s6Pu0T80O",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Stellen wir Normen infrage?</strong>",
+        "id": "_YtsWgQs3B",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Und stellen wir unsere Positionen im Rahmen unserer professionellen Arbeit infrage?",
+        "id": "_ubnTE3beO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Stellen wir unsere professionellen Positionen infrage?</strong>",
+        "id": "_Ijzy8M9k7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wenn wir mit und f\u00fcr ein Publikum arbeiten, das sich im Prozess des Wachstums und der Transformation befindet, muss uns bewusst sein, dass jede Information, jede Bewegung, jeder Dialog und jede visuelle Komposition dazu beitr\u00e4gt, das Bewusstsein dieser jungen Zuschauenden zu erweitern und ihre Identit\u00e4ten, ihre Vorstellung von Normalit\u00e4t und ihre Weltsicht zu formen. Das ist eine gigantische Verantwortung. Eine Verantwortung, die nicht die Tatsache ausklammert, dass wir \u2013 als erwachsene Kunstschaffende, Administrator*innen und Arbeitende \u2013 selbst noch im Prozess der Hinterfragung unserer Identit\u00e4ten, Wertesysteme und professionellen Positionen stecken \u2013 ich w\u00fcrde sagen \u201eunserer intersektionalen Positionen\u201c. Denn jede*r von uns ist VIELE.",
+        "id": "_kGjh9LwsB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche Rollen spiele ich t\u00e4glich?</strong>",
+        "id": "_6tv77FVEr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Rollen, die wir spielen, und die Geschichten, die wir mit uns herumtragen, bilden bei jedem von uns ein intersektionales Feld von Identit\u00e4t und Selbstpositionierung. Aber kommen diese Intersektionalit\u00e4t und Pluralit\u00e4t bei der Schaffung unserer Arbeit auch zum Tragen? Und wie? Begegnen wir Einschr\u00e4nkungen? Vorurteilen? Tabus? Stellen wir die allgemeine P\u00e4dagogik, innerhalb derer wir arbeiten, h\u00e4ufig infrage? Warum stellen wir sie infrage? Wie stellen wir sie infrage? Tun wir das, weil unsere Positionen \u2013 intersektionale Positionen \u2013 uns zu dieser Hinterfragung bringen? Tun wir es aufgrund politischer \u00dcberzeugungen? Tun wir es, weil wir \u2013 in unserem pers\u00f6nlichen Leben \u2013 verfolgt, diskriminiert, etikettiert, entmachtet und bedroht worden sind? Wo liegt die Antwort? Oder ist auch die Antwort intersektional?",
+        "id": "_r2qrWpejG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche pers\u00f6nlichen K\u00e4mpfe f\u00fchre ich?</strong>",
+        "id": "_IhNaz9tdn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mich \u00fcberrascht es sehr, dass die Bereiche von Bildung und Kunst so stark voneinander unterschieden werden. F\u00fcr mich ist es unm\u00f6glich, diese Unterscheidung vorzunehmen. Darauf zu beharren \u2013 ja sie sogar zu erzwingen \u2013 kann nur aus einer Mentalit\u00e4t heraus geschehen, die mit Trennungen, Unterbrechungen und Grenzen arbeitet. Es offenbart ein Bed\u00fcrfnis danach, st\u00e4ndig Kategorien zu erschaffen und sie voneinander zu trennen.",
+        "id": "_Gow3ph3FQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Innerhalb welcher Kategorien bewege ich mich selbst?</strong>",
+        "id": "_UaCME4oe9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eine solche Mentalit\u00e4t der Unterteilung und Kategorisierung repr\u00e4sentiert eine Vision der Welt, die nicht ganzheitlich und intersektional sein kann.",
+        "id": "_Vr6RQ6lUR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Was bedeutet \u201eganzheitlich\u201c f\u00fcr dich auf einer professionellen Ebene?</strong>",
+        "id": "_RkqXxRpG5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist eine Vision der Welt, die nicht den nat\u00fcrlichen Fluss widerspiegelt, wie Identit\u00e4ten wachsen, verschmelzen, sich verbinden, verflechten und \u00fcberschneiden. Eine Vision der Welt, die ein fragmentiertes Selbst als \u201enormal\u201c ansieht.",
+        "id": "_XVl9msKps",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Was bedeutet \u201eein fragmentiertes Selbst\u201c f\u00fcr dich?</strong>",
+        "id": "_1XtqdBo6p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ein:e Lehrer:in kann auch ein:e Schauspieler:in sein, ein:e T\u00e4nzer:in kann ein:e Lehrer:in sein, ein:eVermittler:in und ein:e Heiler:in. Eine Performance kann die M\u00f6glichkeit einer Transformation vermitteln, einer Selbstverwirklichung, einer imagin\u00e4ren Tat, eines Wertes, der der gesellschaftlichen Normativit\u00e4t widerstrebt. Eine Performance, die von und mit Jugendlichen geschaffen wird, ist ein Statement \u00fcber M\u00f6glichkeiten.",
+        "id": "_wgcylyeoY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Erzeuge ich \u201eStatements \u00fcber M\u00f6glichkeiten\u201c?</strong>",
+        "id": "_RGuKjDvww",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist auch ein Statement \u00fcber die Anerkennung und Validierung dessen, was noch werden soll.",
+        "id": "_AoR2FkQEY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Was erkenne ich an und best\u00e4tige ich?</strong>",
+        "id": "_S2Fyei86K",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist ein Statement \u00fcber die Anerkennung der Jugend als Wissenstr\u00e4gerin, als Sch\u00f6pferin und Mitgestalterin der P\u00e4dagogik. In dieser Aussage steckt ein riesiges Potenzial, die Grenzen zwischen Bildung und Kunst zu verschieben und die B\u00fchne mit der P\u00e4dagogik zu verschmelzen und beide zu transformieren. Denn wir sollten nicht vergessen, dass auch die B\u00fchne selbst kein Ort ist, der frei von Autorit\u00e4t ist,",
+        "id": "_zz7iytkpe",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_dfeahfaqx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_m90x5b0kk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche Formen der Autorit\u00e4t gibt es in unserem Theaterbereich?</strong>",
+        "id": "_1OogYH1RO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "nicht frei von Hierarchien",
+        "id": "_lrq4gQTJc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welche Formen der Hierarchie gibt es in unserem Theaterbereich?</strong>",
+        "id": "_P2LOBiSEC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "und nicht frei von Unterdr\u00fcckung.",
+        "id": "_iQgifb1sh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Geschichte der Performance tr\u00e4gt die traumatischen Erfahrungen von Ablehnung, Besch\u00e4mung und Ausschluss in sich. Jede Gesellschaft hat ihre eigenen Wunden, die sich auch auf der B\u00fchne in Form von Tabus niederschlagen.Die Tabus verbergen und verleugnen die Wunde und weiten und vertiefen sie dadurch.",
+        "id": "_eic17ejtl",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_dvxyedbbs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Was soll man zeigen und was nicht? Und wenn wir es hinnehmen, etwas \u201enicht zu zeigen\u201c, w\u00fcrde das nicht bedeuten, dass wir Kompliz:innen beim Verstecken der Wahrheit sind und bei der Auswahl der zu(re)pr\u00e4sentierenden Realit\u00e4t? L\u00e4sst das p\u00e4dagogische System diese Wahl \u00fcberhaupt zu? Oder sind wir durch eine Art von Autozensur konditioniert, Themen und Erfahrungen ausschlie\u00dfen, ohne sie mit uns selbst zu diskutieren?",
+        "id": "_cdunyyybn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auch innerhalb des Kunstsystems funktioniert Autorit\u00e4t wie eine Diktatur, in der einige Kunstformen v\u00f6llig besch\u00e4mt und ausgeschlossen werden und in der es immer vorgefasste Vorstellungen davon gibt, was \u201eakzeptable Kunst\u201c ist, was \u201egute Qualit\u00e4t\u201c und was \u201eExzellenz\u201c ist. Als Migrantin habe ich das Privileg, nicht alles zu wissen, immer zu hinterfragen und nach dem \u201eWarum\u201c zu fragen. Warum gilt dies als gutes Theaterst\u00fcck, und warum wird diese Form als Folklore oder kulturspezifische Kunst angesehen und nicht als universelle? Warum ist es nicht m\u00f6glich, eine Baladi-Tanzauff\u00fchrung f\u00fcr Jugendliche zu pr\u00e4sentieren oder sie einzuladen, Dabke zu \u00fcben? Warum wird das Publikum als lediglich zuschauend begriffen oder konstruiert? Und \u2013 da jede Auff\u00fchrung auf einem Prinzip des \u201eBlicks\u201c beruht \u2013 mit welchem Blick haben wir es hier zu tun? Aus welcher Perspektive? Wer besitzt die Autorit\u00e4t, \u00fcber die Perspektive des Blicks zu entscheiden? Sind wir irgendwie konditioniert auf einen bestimmten Blick, der nicht wirklich unserer ist? Und wie kann man dem jungen Publikum erm\u00e4chtigen, seinen eigenen freien Blick zu finden?",
+        "id": "_hvzRDX0gv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jeder Auff\u00fchrung liegt ein Konzept zugrunde, wie sie betrachtet werden sollte. Wie formulieren wir beiunserem jugendlichen Publikum die Art und Weise, wie unsere Auff\u00fchrungen gesehen werden sollen? Nach welchem System der Autorit\u00e4t? Aus welcher Position heraus? Und wie passt das alles mit den sozialen und humanen Werten von Gleichheit und Solidarit\u00e4t zusammen? Wie funktioniert das innerhalb eines Wissenssystems, das auf Othering<a href=\"applewebdata://C40BC7B0-97A6-4FCF-A82A-1B930EC0C937#_edn2\">[ii]</a> beruht? Wie gehen wir mit Fragen der Identit\u00e4t um, wenn es um ein junges Publikum geht, wo wir doch wissen, dass wir auch an der allgemeinen P\u00e4dagogik der Staatsb\u00fcrgerschaft, der Rechte und der Pflichten und Freiheiten beteiligt sind? Welche Perspektive brauchen wir, um unsere kreativen Prozesse hin zu mehr Offenheit, Fluidit\u00e4t und Pluralit\u00e4t zu lenken?",
+        "id": "_hMTSLke96",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wie viel Offenheit, Fluidit\u00e4t und Pluralit\u00e4t liegt in meiner Praxis?</strong>",
+        "id": "_4v3SNAlyz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Race, Gender und Klasse: Dies sind die Hauptbegriffe der Kategorisierung, der Trennung und des Otherings. Das Wort \u201eRasse\u201c sollte aus jeder Verfassung gestrichen werden und definitiv auch aus unserer Wahrnehmung des Menschseins. Es gibt nur eine \u201eRasse\u201c, und das ist die menschliche Spezies. W\u00e4hrend wir uns im st\u00e4ndigen Kampf mit dem Rassismus befinden, d\u00fcrfen wir aber auch den Sexismus und die Autorit\u00e4t des Patriarchats nicht vergessen, eine universelle Autorit\u00e4t, die die Welten der durch Rassismus Unterdr\u00fcckenden und Unterdr\u00fcckten vereint. Und w\u00e4hrend die privilegierte sozio\u00f6konomische Klasse sich der Autorit\u00e4t immer entziehen kann, indem sie zu denen geh\u00f6rt, die die Regeln und Gesetze schaffen, werden diejenigen, die wirtschaftlich benachteiligt sind, zu sozialen Au\u00dfenseiter:innen. Alles h\u00e4ngt mit allem zusammen. Intersektionalit\u00e4t ist keine neue Erfindung, die uns wachger\u00fcttelt hat; sie war schon immer da, in ihrer negativen Geschichte und in ihrem positiven Potenzial. Intersektional zu denken bedeutet, unser Verst\u00e4ndnis von unseren Identit\u00e4ten und der Welt, in der wir leben, zu erweitern. Es bedeutet, die grunds\u00e4tzlichen Vorstellungen von unserer Arbeit und unserem Leben zu \u00fcberdenken und sie als miteinander verbunden und verwoben zu definieren. Es bedeutet auch, an die Schnittmenge zwischen der B\u00fchne und den Menschenrechten sowie der weltweit wachsenden Aggression gegen\u00fcber Kindern zu ber\u00fccksichtigen, die wir in ihrer ganzen Komplexit\u00e4t und Sensibilit\u00e4t ansprechen m\u00fcssen, denn selbst Kinder in Kitas scheinen mittlerweile traumatische Erfahrungen gemacht zu haben, wenn auch in seltenen F\u00e4llen, und dies ist entscheidend f\u00fcr die Bewusstseinsbildung in Bezug auf Selbstst\u00e4ndigkeit, Schutz und Rechte.",
+        "id": "_tlYIfexC2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Intersektional zu denken hei\u00dft auch, intersektional zu handeln und die eigenen Geschichten und Traumaerfahrungen nie aus den Augen zu verlieren. Intersektional zu denken hei\u00dft, Performances als P\u00e4dagogik zu denken und die P\u00e4dagogik als Performance von Autorit\u00e4t zu denken. Es hei\u00dft, unser kreatives Selbst als ein zuschauendes und sch\u00f6pfendes zugleich, als ein erwachsenes und jugendliches zugleich zu denken.",
+        "id": "_xkcccvz69",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_lb7rgdxds",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Intersektional zu denken bedeutet, unsere eigene Identit\u00e4t zu befragen und die verschiedenen Wege des Selbst zu verorten, die alle noch lebendig sind und funktionieren und sich \u00fcberschneiden. \u00dcber die \u00dcberschneidungen von Race, Gender und Klasse nachzudenken, bedeutet auch, \u00fcber die \u00dcberschneidungen von Unterdr\u00fcckungen, die \u00dcberschneidungen von Privilegien sowie die \u00dcberschneidungen von Unterdr\u00fcckungen und Privilegien nachzudenken. Es bedeutet auch, dar\u00fcber nachzudenken, wer \u00fcberhaupt ins Theater geht, wer uns sieht, wer uns h\u00f6rt, und wen wir ansprechen? Und wir: Mit wem reden wir? Wie stellen wir uns unsere Gesellschaft vor? Und wie tr\u00e4umen wir von der zuk\u00fcnftigen B\u00fcrger:innenschaft?",
+        "id": "_cxw76x4sw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Was w\u00fcnsche ich mir f\u00fcr die Zukunft?</strong>",
+        "id": "_fZaYxsv7y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist auch unerl\u00e4sslich, an die Intersektionalit\u00e4t von Autorit\u00e4ten zu denken. Es gibt viele Autorit\u00e4ten, die unseren k\u00fcnstlerischen Bereich beeinflussen: staatliche Autorit\u00e4ten, wirtschaftliche und soziale Autorit\u00e4ten und politisch-historische Autorit\u00e4ten. Wer hat das letzte Wort? Wer trifft die finale Entscheidung? Was sind die Kriterien? Was ist die Norm, wenn es eine gibt? Und warum brauchen wir \u00fcberhaupt eine Norm?",
+        "id": "_iTY11LJHf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "K\u00fcnstler:in zu werden, ist ein Umstand, der mit Autorit\u00e4t einhergeht. Es bedeutet, Zugang zu den K\u00fcnsten zu haben, in die Kunstwelt aufgenommen zu werden, von dieser Gemeinschaft akzeptiert zu werden, und die M\u00f6glichkeit zu haben, die darstellenden K\u00fcnste zu studieren \u2013 sofern man das m\u00f6chte \u2013 und sie professionell auszu\u00fcben? Wie gro\u00df ist meine Chance, T\u00e4nzerin zu werden, wenn ich eine Frau of Colour in einer unterprivilegierten \u00f6konomischen Situation, mit einem massigen K\u00f6rper und einer leichten Behinderung bin? Welche Chance hatte ich als Kind, Ballett im Stadttheater zu sehen? Und welche Chance hatte ich, auf der B\u00fchne eine T\u00e4nzerin zu sehen, die meiner intersektionalen Identit\u00e4t \u00e4hnlich war? Manche Situationen sind einfach nicht vorstellbar. Und solange sie nicht vorstellbar sind, gibt es keine Gleichberechtigung und keine Solidarit\u00e4t. Denn auf diese unvorstellbaren Szenarien hinzuarbeiten, hei\u00dft auch, auf eine zuk\u00fcnftige Gesellschaft hinzuarbeiten, in der die P\u00e4dagogik von der Kolonialgeschichte, \u00f6konomischen Privilegien und patriarchaler Herrschaft befreit ist. Die B\u00fchnen der darstellenden K\u00fcnste, ob f\u00fcr Jugendliche oder f\u00fcr Erwachsene, sind immer noch v\u00f6llig kontaminiert von diesen historischen Entwicklungen, diesen (intersektionalen) Entwicklungen. Und vielleicht bedeutet das Vorw\u00e4rtskommen \u2013 an einem gewissen Punkt \u2013auch, Privilegien aufzugeben, oder zumindest einen kleinenTeil davon. Es w\u00e4re ein ziemlich gro\u00dfer Gewinn, da es als politischer Akt betrachtet werden kann, der das Gef\u00fchl der Solidarit\u00e4t wiederherstellt und dabei hilft, eine Art von Zusammengeh\u00f6rigkeit zu schaffen, die eine bessere Zukunft f\u00fcr alle in Gang setzen kann.",
+        "id": "_JzLxv6Hlx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ist nicht all dies mit Autorit\u00e4t verbunden? Mit Race, Gender und Klasse? Sicherlich leben wir in einer vielf\u00e4ltigen Gesellschaft, aber bedeutet diese Vielfalt auch Gleichheit?",
+        "id": "_aBeKY335K",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>L\u00e4sst sich diese Vielfalt auch in Gleichheit umwandeln?</strong>",
+        "id": "_VnxoSMmPf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>L\u00e4sst sie sich in eine Pluralit\u00e4t der k\u00fcnstlerischen Praktiken und des Zugangs \u00fcbersetzen?</strong>",
+        "id": "_FSruMUi46",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Oder ist es eine Vielfalt, die kategorisiert und \u201eautorisiert\u201c wird, wie ein Etikett?</strong>",
+        "id": "_o3FNOsq21",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ist Jugendtheater eine Kategorie, die dem Erwachsenentheater unterlegen ist? Warum ist das so? Woher kommt diese Hierarchie, wenn sie nicht von der Annahme ausgeht, dass ein Kind im Vergleich zu einem Erwachsenen ein minderwertiges Wesen ist? Und damit auch der ganze Bereich des Jugendtheaters? Wie kann man aus einem \u201eTheater f\u00fcr die Jugend\u201c ein \u201eTheater DER Jugend\u201c machen, eine p\u00e4dagogische Dom\u00e4ne, die der Gesellschaft und der Kulturpolitik voraus ist, ein p\u00e4dagogisches Feld von morgen?",
+        "id": "_zdKRBsWFJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wie k\u00f6nnen wir Autorit\u00e4t nutzen, um Autorit\u00e4t zu dekonstruieren und die Legitimit\u00e4t des kreativen Selbst wiederherzustellen und so zur Autorit\u00e4t der Nicht-Autorit\u00e4t zu gelangen?</strong>",
+        "id": "_3UrLEtBvm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie k\u00f6nnen wir mit Autorit\u00e4t spielen? K\u00f6nnen wir gegen die Autorit\u00e4t spielen? Oder k\u00f6nnen wir mit einer Haltung der Autorit\u00e4t spielen?",
+        "id": "_nLOZhz4gG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Bildet das Spielerische eine potentiell transformative Kraft in unserem Feld?</strong>",
+        "id": "_Qk4lUrXRP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "All diese Fragen heute und hier gemeinsam zu diskutieren bedeutet, sich vorw\u00e4rts zu bewegen. Es ist eine Bewegung, in der es keine Trennung zwischen k\u00fcnstlerischer Kreativit\u00e4t und Aktivismus gibt, denn kollektive Aktionen, die ein klares Ziel und eine Strategie haben, sind bereits Aktivismus. Jenseits des traditionellen Bildes von Protesten und Demonstrationen k\u00f6nnen wir \u2013 als K\u00fcnstler:innen \u2013 unsere eigene Form des Aktivismus schaffen. Nur ein Buchstabe unterscheidet ART und ACT. Wir k\u00f6nnen unsere Ideen, Antworten, Vorschl\u00e4ge in einen Plan zur Weitergabe von Aktionen transformieren und entwickeln, wobei jede Person/Institution die Frage/Aussage erweitern und durch eine weitere symbolische oder k\u00fcnstlerische Aktion erg\u00e4nzen kann. Lasst uns das Hinterfragen als Grundlage jeder zuk\u00fcnftigen Handlung und Aktion anstreben und lasst uns danach streben, mehr zu tun. Lasst uns darauf zielen, alle gemeinsam zu spielen. Lasst uns spielen!",
+        "id": "_bNB7w94yF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_Pn5fTTAvB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "[1] Im englischen Original: \u201ePower\u201c. \u201ePower\u201c hat die doppelte Bedeutung von Kraft und Macht. Hier benutzt in Abgrenzung zu Autorit\u00e4t im Sinne einer Autorisierung.",
+        "id": "_d75sGT78y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "[2] Das Konzept des Othering ist aus dem Kontext der postkolonialen Theorie entstanden. Es wurde vor allem durch Autoren wie Edward Said und Gayatri C. Spivak gepr\u00e4gt. Bei Othering handelt es sich um einen permanenten Akt der Grenzziehung, bei dem Menschen mittels Stereotypisierung zu den \u201eAnderen\u201c gemacht werden. \u201eDie Anderen\u201c werden dabei als nichtzugeh\u00f6rig und abweichend kategorisiert und abgewertet. Der Prozess des Othering geschieht h\u00e4ufig innerhalb eines Machtgef\u00e4lles.",
+        "id": "_20dkb9rxi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vgl. <a href=\"https://www.ikud.de/glossar/othering-definition.html\">https://www.ikud.de/glossar/othering-definition.html</a>",
+        "id": "_52xsfraq8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Keynote wurde gehalten am 08.11.2020 im Rahmen von <strong>Fratz International 2020</strong> und dem Symposium <strong><a href=\"https://offensive-tanz.de/de/events/internationalitat-und-diversitat-im-tanz-fur-junges-publikum-kopie\">Race \u2013 Class \u2013 Gender. Intersektionale Perspektiven in Tanz und Theater f\u00fcr die J\u00fcngsten</a>. </strong>Die Aufzeichnung kann \u00fcber <a href=\"https://www.youtube.com/watch?v=oK3bJ0-yWcs&amp;feature=emb_logo\">diesen Link</a> angesehen werden.",
+        "id": "_zs18uph0g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nora Amins neuestes Buch \"Tanz der Verfolgten\" erscheint am 18.03 bei <a href=\"https://www.matthes-seitz-berlin.de/buch/tanz-der-verfolgten.html\">Matthes &amp; Seitz</a>.",
+        "id": "_x8d3semzl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://offensive-tanz.de/media/pages/articles/playing-with-authority/699566505-1615547148/bildschirmfoto-2020-11-08-um-19.02.48.png",
+            "id": "articles/playing-with-authority/bildschirmfoto-2020-11-08-um-19.02.48.png",
+            "ratio": 1.3928035982008994952963121249922551214694976806640625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_4utco3ais",
+        "type": "image"
+    }
+]
+
+----
+
+Subtext: 

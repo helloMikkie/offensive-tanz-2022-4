@@ -1,0 +1,80 @@
+Title: Der Bau
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Tanzstück
+
+----
+
+Author: Theater o.N mit Isabelle Schad
+
+----
+
+Date: 
+
+----
+
+End-date: 2021-10-24
+
+----
+
+Time: 16:00:00
+
+----
+
+Duration: 00:40:00
+
+----
+
+Location: Wiesenburg Halle (Berlin-Wedding)
+
+----
+
+Tickets: karten@theater-on.de
+
+----
+
+Age: 3
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-10-23
+  zeit: 16:00:00
+- 
+  datum: 2021-10-24
+  zeit: 16:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Eine B\u00fchne voller schwarzer S\u00e4cke. Langsam erwachen sie zum Leben, sie richten sich auf, bewegen sich fort, erkunden den Raum. Pl\u00f6tzlich erscheint ein Arm, dann ein Bein, schlie\u00dflich ein ganzer Mensch. In Franz Kafkas unvollendeter Erz\u00e4hlung \u00bbDer Bau\u00ab wird ein Tierbau beschrieben, gebaut von einem Tier, das in den unterirdischen H\u00f6hlen und G\u00e4ngen Schutz sucht und sich dann zunehmend darin verliert. Die Erz\u00e4hlung dient als titelgebende Metapher und Ausgangsbasis f\u00fcr die Erforschung einer besonderen Beziehung zwischen K\u00f6rper und Raum. Die 40 formbaren, gro\u00dfformatigen Sitzs\u00e4cke sind das Material f\u00fcr die Gruppenarbeit <em>DER BAU-Gruppe \/ Kids<\/em>, das von 5 Performer*innen zu komplexen Gebilden und choreografischen Ordnungsgef\u00fcgen geformt wird. <br><em>DER BAU<\/em> war als Gruppenst\u00fcck zun\u00e4chst eine Performance f\u00fcr erwachsenes Publikum, f\u00fcr <em>FRATZ 2020<\/em> adaptierte <em>Isabelle Schad<\/em> das St\u00fcck f\u00fcr Kinder ab 3 Jahren.<\/p>"},"id":"a39da9cc-aa6c-41a6-a7d1-f569d6c864b7","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Konzept \/ Choreografie:<\/strong> Isabelle Schad<br><strong>Tanz \/ Performance:<\/strong> Nina Kurtela, Sonja Pregrad, Lena Lux, Manuel Lindner, Jan Lorys<br><strong>Komposition \/ Sound:<\/strong> Damir Simunovic<br><strong>Licht \/ Technik:<\/strong> Emma Juliard<br><strong>Produktionsleitung:<\/strong> Heiko Schramm<\/p>"},"id":"6a3b8dcf-8b5d-434d-8e68-ee6fb8490d61","isHidden":false,"type":"text"},{"content":{"text":"<p>Eine Produktion von Isabelle Schad in Kollaboration mit de facto, Zagreb und Studentski Centar Sveucilista u Zagrebu.<br>Gef\u00f6rdert durch das NATIONALE PERFORMANCE NETZ (NPN) Koproduktionsf\u00f6rderung Tanz aus Mitteln des Beauftragten der Bundesregierung f\u00fcr Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestags und durch die Berliner Senatsverwaltung f\u00fcr Kultur und Europa. <br>Erm\u00f6glicht durch die Unterst\u00fctzung von Wiesen55 e.V. und Uferstudios Berlin.<\/p>"},"id":"7a12c974-6f65-4eff-8cf6-8e5ea22e5792","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Adaption f\u00fcr Zuschauer:innen ab 3 Jahre entstand im Auftrag des Theater o.N. im Rahmen der \u00bbOffensive Tanz f\u00fcr junges Publikum Berlin\u00ab, gef\u00f6rdert von TANZPAKT Stadt-Land-Bund und Berliner Senat f\u00fcr Kultur und Europa (Kofinanzierungsfonds) in Kooperation mit FRATZ International.<\/p>"},"id":"a29b1f74-3849-4f52-8ed3-263f0c11c9de","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

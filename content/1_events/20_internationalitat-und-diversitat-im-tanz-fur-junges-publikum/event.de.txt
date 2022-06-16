@@ -1,0 +1,76 @@
+Title: race - class - gender. Intersektionale Perspektiven in Tanz und Theater für die Jüngsten
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Symposium / neuer Termin
+
+----
+
+Author: Theater o.N. und Offensive Tanz
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-10-23
+
+----
+
+Time: 18:00:00
+
+----
+
+Duration: 02:00:00
+
+----
+
+Location: Verschiedene Orte & online
+
+----
+
+Tickets: accreditation@fratz-festival.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-10-24
+  zeit: 18:00:00
+- 
+  datum: 2020-10-25
+  zeit: 11:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Beim diesj\u00e4hrigen Symposium werden wir fragen: Wie werden Race, Class und Gender repr\u00e4sentiert \u2013 auf der B\u00fchne, hinter der B\u00fchne, in den Inhalten und der Vermittlung f\u00fcr (sehr) junges Publikum? Reproduzieren wir vorhandene Machtstrukturen, indem wir versuchen, sie aufzubrechen? Wie gelingt Tanz und Theater auf Augenh\u00f6he?<br>Unter anderem stellen drei FRATZ Forschungslabore aus Berlin, Kapstadt und Lagos sowie das FRATZ Atelier von Milla Koistinen, Paul Valikoski und Ladislav Zajac ihre Arbeiten vor.<br>Auf den Podien diskutieren und sprechen Joshua Alabi, Nora Amin, Shelley Etkin, Malgven Gerbes, Thalia Laric, Isabelle Schad, Iury Salustiano Trojaborg, Marie Yan, u.v.m.<\/p>"},"id":"02f9526e-0ce0-4ff9-8dc1-2e3b529b233f","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Teilnahme ist vor Ort m\u00f6glich, an den meisten Veranstaltungen kann auch online via Zoom teilgenommen werden.<\/p>"},"id":"72b7b518-cfa8-435b-a6e2-d17ee507bf47","isHidden":false,"type":"text"},{"content":{"text":"<p>Sowohl bei den Inszenierungen als auch im Symposium vor Ort sind die Platzkapazit\u00e4ten gering - also meldet euch schnell!<\/p>"},"id":"dcf0e702-ce75-4965-b793-10b9760ab8c8","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>PROGRAMM<\/strong><\/p>"},"id":"b16950b5-1102-4f99-a2fa-ca49c7037908","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Freitag, 23. Oktober 2020<\/strong><\/p>"},"id":"7c7212d8-0857-4c20-8e06-f0bee3b3ad86","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>18 - 20 Uhr<\/strong><br><strong>Er\u00f6ffnung FRATZ International \u2013 Festival und Symposium<\/strong><br>Tanzhalle Wiesenburg, Wedding &amp; Online<br><em>Begr\u00fc\u00dfung durch Theater o.N. und Offensive Tanz f\u00fcr junges Publikum <\/em><br><em>Impulsvortrag zu Intersektionalit\u00e4t<\/em><br><em>K\u00fcnstler*innen des diesj\u00e4hrigen Festivals im Gespr\u00e4ch: Perspektiven auf Intersektionalit\u00e4t und darstellende K\u00fcnste f\u00fcr (sehr) junges Publikum<br>Mit Josuha Alabi, Nora Amin, Shelley Etkin, Thalia Laric, Iury Salustiano Trojaborg, Marie Yan<\/em><\/p>"},"id":"bdf84f2e-dce0-4c28-a797-0e8ce3109f8e","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Samstag, 24. Oktober 2020<\/strong><\/p>"},"id":"3e945990-d7d6-4dc8-aa43-3cf5c819dced","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>20 - 22 Uhr<\/strong><br><strong>Klein, aber oho! Choreograf*innen \u00fcber die Arbeit f\u00fcr ein (sehr) junges Publikum<\/strong><br>Tanzhalle Wiesenburg, Wedding &amp; Online<br><em>Mit Choreograf*innen aus den Projekten FRATZ und Offensive Tanz f\u00fcr junges Publikum: Florian Bilbao, Malgven Gerbes, shifts \u2013 art in movement, Jasmin \u0130hra\u00e7, Milla Koistinen, Isabelle Schad<\/em><\/p>"},"id":"64b478a0-7512-4c9c-aad1-a24f526092e8","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Sonntag 25. Oktober 2020<br><br>11 - 11:30 Uhr<br>Laborpr\u00e4sentation: Die Superkr\u00e4fte der bisher nicht-gefeierten Superheld*innen<\/strong><br><strong>12 - 13 Uhr<\/strong><br><strong>Austausch<\/strong><br>Podewil (Saal), Mitte &amp; Online<\/p>"},"id":"2797d18d-7e4e-48f1-b472-a3a14f6ddc09","isHidden":false,"type":"text"},{"content":{"text":"<p><em>Caroline Alves (BR), Mareike Jung (DE) und Iury Salustiano Trojaborg (BR\/DK\/DE) suchen unter dem Titel \"Die Superkr\u00e4fte der bisher nicht-gefeierten Superheld*innen\" nach neuen Vorbildern in einer nicht-bin\u00e4ren Welt.<br>Austausch mit den K\u00fcnstler*innen des Forschungslabors und der Dramaturgin Marie Yan.<\/em><\/p>"},"id":"9c92acc3-2b09-477e-896a-19b9cc44065b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>14 - 14:30 Uhr<\/strong><br><strong>CAN TOUCH THIS [Einige Von Uns] von performing:group<\/strong><em><br><\/em>Drau\u00dfen n\u00e4he Podewil<\/p>"},"id":"deb8d390-ae7e-4fc5-9909-7cee23b06fc0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>14 - 19 Uhr (jeweils 40-min\u00fctige Einzelslots)<br>Landing Sessions mit Shelley Etkin<br><\/strong>Podewil (Studio 3), Mitte<br><em>Eine K\u00f6rperreise zu Orten unserer Herkunft, Imagination und Gegenwart<\/em><\/p>"},"id":"01e66edd-27a4-473a-a2a6-7b8b99ae349f","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>20 - 22 Uhr<\/strong><br><strong>Podium: Die Utopie ber\u00fchren: Neue Beziehungen lernen und lehren<\/strong><br>Podewil (Saal), Mitte &amp; Online<br><em>In dieser Podiumsdiskussion bringt das FRATZ Symposium die Gr\u00fcnder*innen mehrerer lokaler Initiativen zusammen, die sich zum Ziel gemacht haben, innerhalb eines bestimmten Gebiets reale R\u00e4ume der Ver\u00e4nderung zu schaffen: ein Kindergarten, ein Stadtviertel, \u2026 <br>Mit u.a. Tebogo Nimind\u00e9-Dundadengar (Tebalou - Online-Shop f\u00fcr mehr Vielfalt im Kinderzimmer, <a href=\"https:\/\/nl.kulturkurier.de\/goto?clientId=89&amp;listId=1346&amp;newsletterId=71255&amp;sendingId=83890&amp;trackingUrlId=387472\">www.tebalou.shop<\/a>)<br>Moderation: Marie Yan und Vera Strobel<\/em><\/p>"},"id":"31d315f5-5660-4acb-b222-18d6ca673e27","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: [{"content":{"text":"<p>Das Symposium <strong><em>race - class \u2013 gender<\/em>: Intersektionale Perspektiven in Tanz und Theater f\u00fcr die J\u00fcngsten<\/strong> ist ein Projekt der Offensive Tanz f\u00fcr junges Publikum Berlin und FRATZ International.<\/p>"},"id":"15903d9d-92bf-4ece-940c-1c73d0a627fe","isHidden":false,"type":"text"},{"content":{"text":"<p>FRATZ International wird veranstaltet vom Theater o.N. In Kooperation mit GRIPS Theater Berlin und Kulturprojekte Berlin. Mit freundlicher Unterst\u00fctzung von: Familienzentrum Adalbertstra\u00dfe (Kreuzberg), Podewil (Mitte), Wiesenburg Halle (Wedding).<\/p>"},"id":"dd85ecf7-48ec-47ca-8ebf-042c452804b5","isHidden":false,"type":"text"},{"content":{"text":"<p>Gef\u00f6rdert durch das Land Berlin \u2013 Senatsverwaltung f\u00fcr Kultur und Europa im Rahmen der F\u00f6rderung von stadtpolitisch relevanten Festivals 2020 bis 2023 | Die \u00bbOffensive Tanz f\u00fcr junges Publikum Berlin\u00ab wird gef\u00f6rdert von TANZPAKT Stadt-Land-Bund aus Mitteln der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien sowie kofinanziert aus Mitteln des Landes Berlin \u2013 Senatsverwaltung f\u00fcr Kultur und Europa. | Mit freundlicher Unterst\u00fctzung des Institut fran\u00e7ais und des franz\u00f6sischen Ministeriums f\u00fcr Kultur \/ DGCA im Rahmen vom Objets &amp; Marionnettes Fokus 2020.<\/p>"},"id":"4dc05ba2-be04-4633-b6d3-6f7753c38365","isHidden":false,"type":"text"}]

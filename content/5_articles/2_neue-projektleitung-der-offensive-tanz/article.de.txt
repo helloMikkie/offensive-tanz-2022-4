@@ -1,0 +1,92 @@
+Title: Neue Projektleitung der Offensive Tanz
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Nora Amin und Elisa Ricci übernehmen ab Juni 2022
+
+----
+
+Featured: true
+
+----
+
+Author: Offensive Tanz
+
+----
+
+Date: 2022-04-08
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_qaqiaej1y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir freuen uns sehr, dass wir <strong>Nora Amin</strong> und <strong>Elisa Ricci</strong> als neue Projektleitung der Offensive Tanz gewinnen konnten. Ab Juni 2022 werden die beiden die Position im Co-Management \u00fcbernehmen \u2013 ein neues Modell, das Vielfalt und kollaborative Strukturen unterst\u00fctzt. Canan Erek, die diese Position bisher innehatte, widmet sich anderen Aufgaben, bleibt der Offensive Tanz als k\u00fcnstlerische Leiterin des Projektpartners PURPLE Tanzfestival aber weiterhin verbunden.",
+        "id": "_bjkxy16oj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bereits im April und Mai ebnet das Duo den Weg f\u00fcr seine bevorstehenden Aufgaben, indem es beginnt, den Schwerpunkt \"<strong>Equity</strong>\" innerhalb der Offensive Tanz zu st\u00e4rken.",
+        "id": "_dcuskhl2u",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"Equity\" im Sinne von Gleichberechtigung, Chancengerechtigkeit und machtkritischer Diversita\u0308t steht in der zweiten F\u00f6rderperiode der Offensive Tanz (2022/23) im Fokus aller Aktivit\u00e4ten \u2013 nicht als ein einmaliges Projekt oder isolierte Praxis, sondern als aktive Haltung, die uns auffordert, fu\u0308r mehr Gerechtigkeit bei unserem Tun zu sorgen. Die Arbeit an einem gleichberechtigten Zugang zu Kultur, speziell Tanz, erfordert, dass wir diese Sichtweise in jeden Aspekt unseres Handelns als Organisation integrieren.",
+        "id": "_retsoig94",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Projektleitung an das Duo Elisa Ricci und Nora Amin zu \u00fcbergeben, tr\u00e4gt dieser Haltung Rechnung und bef\u00f6rdert den langfristigen Aufbau von diskriminierungskritischen Strukturen.",
+        "id": "_u5h0d6nqh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+neue-projektleitung-der-offensive-tanz/files/was-ist-dei-scaled.jpeg",
+            "src": "https://offensive-tanz.de/media/pages/articles/neue-projektleitung-der-offensive-tanz/2525954474-1649402587/was-ist-dei-scaled.jpeg",
+            "id": "articles/neue-projektleitung-der-offensive-tanz/was-ist-dei-scaled.jpeg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": "Zum Unterschied von Equality und Equity, <a href=\"https://global-digital-women.com/diversity-equity-oder-inclusion-wann-benutze-ich-welchen-begriff/\">Quelle</a>"
+        },
+        "content": "",
+        "id": "_r6o7jb7ck",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Kurzbiografien",
+        "id": "_cnjwxmxkh",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Nora Amin</strong> ist Choreografin, Autorin, Performerin und Expertin f\u00fcr Kulturmanagement und Kulturpolitik. Seit 2016 ist sie in der Tanzszene Berlins aktiv. Autorin der feministischen Essays \u201eWeiblichkeit im Aufbruch\u201c und \u201eTanz der Verfolgten\u201c (MSB Matthes &amp; Seitz), Mitglied der Steuerungsgruppe f\u00fcr ein zuk\u00fcnftiges Berliner <em>Tanzvermittlungszentrum</em>, ehemalige Mentorin und Expertin beim Flausen+Bundesnetzwerk und bei PAP/LAFT, Hauptkuratorin des Symposiums \u201eCreating Access Diversity\u201c im Dachverband Tanz 2021. Derzeit Vorstandsmitglied des Deutschen Zentrums des Internationalen Theaterinstituts. In ihrer k\u00fcnstlerischen Arbeit und in ihrem Schreiben/Forschung konzentriert sie sich auf marginalisierte Formen und Perspektiven in Tanz und Performance sowie auf den kritischen Diskurs zu Rassismus, Patriarchat und Kolonialit\u00e4t.<br>",
+        "id": "_y9d2kf14m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Elisa Ricci </strong>arbeitet seit 15 Jahren mit Tanz als Kuratorin, Dramaturgin und Tanzwissenschaftlerin. Sie versteht Kuratieren und kulturelle Arbeit als kritische, radikal kollektive Praxis. Sie hat Pr\u00e4sentations- und Austauschformate sowie Lernr\u00e4ume mitkonzipiert und co-kuratiert: u.a. <em>Performing Translation</em> (Genua 2010); <em>Rehearsing Collectivity - Choreography Beyond Dance</em> (Berlin 2011). Als Dramaturgin hat sie u.a. das Kollektiv LIGNA begleitet, bei dem <em>Projekt The Great Refusal</em> (2014-16). Sie ist Mitherausgeberin des Buches <em>Rehearsing Collectivity - Choreography Beyond Dance</em> (2012). Sie forscht und schreibt \u00fcber das Kuratieren im Tanz: u.a. <em>Festival That Listen!</em> (2018); <em>Can We Curate Dance Without Making a Festival?</em> (2019). Von 2017 - 2022 ist sie Promotionsstipendiatin der Rosa-Luxemburg-Stiftung f\u00fcr ihre tanzwissenschaftliche Dissertation (Freie Universit\u00e4t Berlin) zu Tanzkuratieren und Dekolonialit\u00e4t. Seit 2019 ber\u00e4t sie institutionelle Transformations- und Ver\u00e4nderungsprozesse mit Fokus auf Gerechtigkeit, Arbeitskulturen, kollektiver Leadership, u. a. hat sie die Steuerungsgruppe f\u00fcr ein zuk\u00fcnftiges <em>Tanzvermittlungszentrum</em> in Berlin begleitet und beraten (2020-21).",
+        "id": "_o1khur4k7",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

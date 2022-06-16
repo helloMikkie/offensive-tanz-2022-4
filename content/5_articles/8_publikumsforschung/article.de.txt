@@ -1,0 +1,356 @@
+Title: Ergebnisse Publikumsbefragung
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Auswertung und Ausblick
+
+----
+
+Featured: true
+
+----
+
+Author: PURPLE – Internationales Tanzfestival für junges Publikum
+
+----
+
+Date: 2021-02-26
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Im Auftrag der Offensive Tanz f\u00fcr junges Publikum hat das PURPLE Tanzfestival \u00fcber das gesamte Jahr 2020 mehrere Umfragen durchgef\u00fchrt, um vertiefte Erkenntnisse dar\u00fcber zu gewinnen, wie die Kunstform Tanz in Zukunft noch mehr junge Menschen erreichen und begeistern kann. Zu diesem Zweck wurden zwei verschiedene Frageb\u00f6gen erstellt. Einer richtete sich speziell an Kinder und Jugendliche, der andere an Lehrer*innen, Erzieher*innen und Eltern. Beide Umfragen wurden selbstverst\u00e4ndlich anonym behandelt.",
+        "id": "_PsWixioBV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+publikumsforschung/files/oft_bsp1.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/publikumsforschung/-363714471-1614338933/oft_bsp1.jpg",
+            "id": "articles/publikumsforschung/oft_bsp1.jpg",
+            "ratio": 1.1360544217687074119993440035614185035228729248046875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_7362u4oq7",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Folgende Teilprojekte wurden in 2020 durchgef\u00fchrt:",
+        "id": "_5eyoot7y1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>A </strong>Befragung von Kindern und Jugendlichen<strong> </strong>(Einzelinterviews und Online-Befragung)",
+        "id": "_749k8i5U3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>B </strong>Multiplikator*innen: Eltern, LehrerInnen, ErzieherInnen (Online-Befragung)",
+        "id": "_wgkcvjnp3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>C </strong>Besucher*innen des PURPLE Tanzfestivals (Foyer-Befragung)",
+        "id": "_6clgot6sm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><u>1. Befragung von Kindern und Jugendlichen (Interviews und Online-Befragung)</u></strong>",
+        "id": "_1a5ryqqus",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zielgruppen: Kinder und Jugendliche<br>Laufzeit: 19.01.2020 bis 31.12.2020<br>Anzahl der Teilnehmer*innen: 7 + 45 = 52",
+        "id": "_3wa7335ir",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ziele der Befragung</strong>",
+        "id": "_fnXl1Pelt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Ermittlung kulturelle Vorlieben und Kultur Nutzungsverhalten",
+        "id": "_PEK1y9C3a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Kulturkonsum in sozialen und digitalen Medien",
+        "id": "_GrO9yfKak",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf \u00c4sthetische und inhaltliche Pr\u00e4ferenzen sowie Sehgewohnheiten in Bezug <br>auf die Kunstform Tanz",
+        "id": "_QhlqLpOLn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Wahrnehmung und Einordnung der Kunstform Zeitgen\u00f6ssischer Tanz",
+        "id": "_fAGds9HUd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Verortung der Kunstform Zeitgen\u00f6ssischer Tanz in den Bereichen Schule &amp; Freizeit",
+        "id": "_KlDaMGW9h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wichtigste Erkenntnisse</strong>",
+        "id": "_YJl5TKwL3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Alle Befragten, die bereits auf einer Tanzvorstellung waren (83 %), gaben an, wieder eine Vorstellung dieser Kunstform besuchen zu wollen bzw. w\u00fcrden.",
+        "id": "_8tyysBare",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf 85 % der Befragten, auch jene, die noch keine Vorstellung besucht hatten, w\u00fcrden gerne eine professionelle Vorstellung an bzw. in ihrer Schule sehen.",
+        "id": "_uaaq8ie7t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Zeitgen\u00f6ssische Tanzvorstellung liegen in puncto Kulturkonsum bei insgesamt sieben aufgez\u00e4hlten Kultursparten gleich mit Museen. Am h\u00e4ufigsten werden jedoch Kinos und Konzerte/Musicals angegeben.",
+        "id": "_xRxKOcLCt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Viele junge Menschen k\u00f6nnen zeitgen\u00f6ssischen Tanz als Kunstform nicht einordnen oder haben irref\u00fchrende Assoziationen, die eine Auseinandersetzung behindern.",
+        "id": "_ocLvTai9V",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Die Kunstform Tanz wird oft mit Selbst Tanzen oder klassischen Formen wie Ballett gleichgesetzt, was in gewissen sozialen Kontexten nicht als \u201ecool\u201c gilt. Die Assoziationen \u00e4ndern sich zumeist nach intensiverer Besch\u00e4ftigung/Auseinandersetzung.",
+        "id": "_zgAhwouRY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Streetdance und seine Subformen erfreuen sich gro\u00dfer Beliebtheit. Zeitgen\u00f6ssischer Tanz belegt den zweiten Platz von f\u00fcnf angebotenen Tanzstilen in dieser Auswertung.",
+        "id": "_9VeFeJY3E",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Hinsichtlich der Inhalte der Vorstellungen werden narrative und humorvolle sowie Themen rund um die Lebensbereiche bevorzugt. Auch k\u00fcnstlerische und abstrakte Themen werden gew\u00fcnscht.",
+        "id": "_IEsHP5M6f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Empfehlungen aus dem eigenen Umfeld gelten als Hauptkriterium zum Besuch von Kulturveranstaltungen.",
+        "id": "_lcCM8eJFv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Soziale Medien erreichen bei der Bewerbung von Angeboten das Zielpublikum nicht effektiv. Die Jugendlichen konsumieren jedoch h\u00e4ufig kurze Tanzvideos auf Kan\u00e4len wie Youtube, Instagram und Tiktok.",
+        "id": "_ZN26H8CET",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Abgeleitete Handlungsempfehlungen</strong>",
+        "id": "_Hrs6l4RGd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Es bedarf direkter Kommunikation und einen kontinuierlichen Austausch auf Augenh\u00f6he mit den Jugendlichen, um Zug\u00e4nge zu schaffen, Interesse zu wecken und o. g. Barrieren abzubauen. Hierbei scheinen Formen der \u201epeer-to-peer\u201c-Kommunikation am erfolgreichsten. Dazu m\u00fcssen neue Formate entwickelt werden.",
+        "id": "_6xUeyoBmr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Eine aufgebaute bzw. verst\u00e4rkte Bindung zu den Institutionen bzw. zur Kunstform Zeitgen\u00f6ssischer Tanz ist erforderlich, damit die Jugendlichen den Aktivit\u00e4ten eigenst\u00e4ndig folgen (auch in Sozialen Medien).",
+        "id": "_wH1IoTdsJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf In den Sozialen Medien herrscht ein hohes Interesse f\u00fcr k\u00fcnstlerische und t\u00e4nzerische Elemente. Die bei den Jugendlichen vertrauten Formate dieser Plattformen wie kurze (15 bis 60 Sek.) \u201eTeaser-\u201cVideos, \u201eChallenges\u201c oder Aufrufe zur eigenen k\u00fcnstlerischen Produktion k\u00f6nnten genutzt werden, um an die \u00c4sthetiken und Themen heranzuf\u00fchren.",
+        "id": "_KdXTULIb3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+publikumsforschung/files/collage2d.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/publikumsforschung/-480063312-1614339167/collage2d.jpg",
+            "id": "articles/publikumsforschung/collage2d.jpg",
+            "ratio": 2.01694915254237283619431764236651360988616943359375,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ktpeh16u6",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><u>2. Befragung von Multiplikator*innen (Online-Befragung)</u></strong>",
+        "id": "_hmPCWULYK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zielgruppen: Eltern, Erzieher*innen &amp; Lehrer*innen <br>Laufzeit: 19.01.2020 bis 31.12.2020 Anzahl der Teilnehmer*innen: 148",
+        "id": "_8shlf8jym",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Ziele der Befragung</strong>",
+        "id": "_7pGriKyet",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Ermittlung kulturelle Vorlieben und Kultur Nutzungsverhalten (mit Kindern / Sch\u00fcler*innen)",
+        "id": "_izMqu5kOL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Faktoren &amp; Entscheidungsprozesse f\u00fcr die Auswahl von kulturellen Angeboten",
+        "id": "_WjD90utbm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Reichweite und Nutzung von verschiedenen Kommunikationskan\u00e4len",
+        "id": "_Ylb8FnLyx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Wahrnehmung &amp; Einordnung der Kunstform Zeitgen\u00f6ssischer Tanz",
+        "id": "_gEGXMohH4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Ermittlung inhaltlicher und \u00e4sthetischer Pr\u00e4ferenzen bei Tanzkonsum",
+        "id": "_qwfO56UBZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Verortung der Kunstform Zeitgen\u00f6ssischer Tanz in den Bereichen Schule &amp; Freizeit",
+        "id": "_uOzqERcxs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ermittlung Relevanz von kultureller Bildung in den Bereichen Schule &amp; Freizeit",
+        "id": "_eKCCZ1vFF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wichtigste Erkenntnisse</strong>",
+        "id": "_jg1u5icFD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Der Besuch von zeitgen\u00f6ssischen Tanzvorstellungen mit Kindern liegt in puncto Kulturnutzung im oberen Mittelfeld. Am h\u00e4ufigsten werden Museen/Ausstellungen, Theatervorstellungen und Konzerte besucht.",
+        "id": "_5ApQgmb0P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Als wichtigstes Entscheidungskriterien f\u00fcr Kulturveranstaltung gelten das Interesse der Kinder, die Themen der Vorstellungen, bisherige Erfahrungen und die Ticketpreise.",
+        "id": "_0jKECbjbX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Empfehlungen aus dem privaten und beruflichen Umfeld sind die wichtigsten Kommunikationskan\u00e4le f\u00fcr Kulturveranstaltungen. Klassische Kan\u00e4le wie Newsletter und Flyer / Plakate werden auch h\u00e4ufig genutzt. Weniger relevant scheinen Veranstaltungsmagazine und -portale sowie Anzeigen in den Sozialen Medien.",
+        "id": "_TYwhHiiV8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Fast alle Befragten haben den Besuch von Tanzvorstellungen als Bereicherung f\u00fcr sich und die Kinder empfunden, w\u00fcrden diese weiterempfehlen und wieder besuchen.",
+        "id": "_vpMCWN2bT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Ein gr\u00f6\u00dferes Angebot f\u00fcr Kinder und Jugendliche in der N\u00e4he, mehr Informationen zu den Veranstaltungen sowie mehr Vermittlungsformate und Informationen zur Vor- und Nachbereitung w\u00fcrden h\u00e4ufigere Besuche von zeitgen\u00f6ssischen Tanzvorstellungen f\u00f6rdern.",
+        "id": "_HTe6XEbSd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Themen rund um die Lebensbereiche junger Menschen, narrative Elemente und Inhalte, die sich auf Diversit\u00e4t beziehen sowie unterrichtsnahe Themen bei Lehrpersonen werden gew\u00fcnscht.",
+        "id": "_V8ItDa0Jc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Fast alle Befragten w\u00fcnschen sich Tanzvorstellungen an der Schule und erachten dies als m\u00f6glich.",
+        "id": "_Mz4qvusaj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Kulturelle Bildung und durch Tanz gef\u00f6rderte Entwicklung der Kinder und Jugendlichen genie\u00dfen eine hohe Relevanz.",
+        "id": "_REAir7trx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Abgeleitete Handlungsempfehlungen</strong>",
+        "id": "_4Y8zqQ5D7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Die Frequenz der Besuche von Tanzvorstellungen korreliert nicht mit der \u00fcberaus positiven Bewertung der Kunstform. Diese muss als Teil des schulischen Repertoires im Bereich der kulturellen Bildung noch (besser) etabliert werden. Dazu k\u00f6nnen mehr Informationen und Austauschprozesse mit Akteur*innen aus dem Bildungsbereich und Elternvertretungen kontinuierlich zwecks Beziehungsaufbau angeboten werden, um so auch eine Empfehlungskultur <br>zu f\u00f6rdern und den Zeitgen\u00f6ssischen Tanz in Schulen als festen Bestandteil kultureller Bildung zu konstituieren.",
+        "id": "_QNQb3LZ4b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Die Multiplikator*innen besitzen zumeist wenig Erfahrungen im Umgang (mit Kindern und) der Kunstform. Es sollten regelm\u00e4\u00dfige Fortbildungen und Workshops angeboten werden, die einen Zugang, eine Vermittlung an die Kinder und eine Integration in den Lehrplan erm\u00f6glichen.",
+        "id": "_MtDfoCrcp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u00c4hnlich wie bei \u201eKlassenzimmer-St\u00fccken\u201c im Theater, sollte es auch im Tanz m\u00f6glich sein, Vorstellungen in den Schulen anzubieten, daf\u00fcr bedarf es neue Kooperationen mit Schulen.",
+        "id": "_7IoieQHhf",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

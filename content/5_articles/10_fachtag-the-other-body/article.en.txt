@@ -1,0 +1,182 @@
+Title: "The other Body"
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Steps of Change
+
+----
+
+Featured: true
+
+----
+
+Author: TANZKOMPLIZEN and Offensive Tanz
+
+----
+
+Date: 2020-10-02
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<em>\u201cIn everyday life, like in theatre and performance spaces, there is a dramaturgy of power and privilege, which is also a dramaturgy of hierarchy, separation, rupture and elimination. Racism is embedded in all those domaines, racism is an intersectional sphere in itself, a vast area of transcultural intersectionality.\u201d</em>",
+        "id": "_x74qwxse4",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Nora Amin",
+        "id": "_jsujokrw8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To kick off the Offensive Tanz f\u00fcr junges Publikum, the TANZKOMPLIZEN team conducted numerous interviews with artists and institutions in order to define fields of action for the overall project of the Offensive. It became clear how necessary it is to address structural racism in dance and to work towards greater diversity or more \"equality\" in training and production.",
+        "id": "_yQ1qdcHAC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The first event of the Offensive on the topic of \"Dance and Racism\" took place in September 2020 in the Schillertheater Workshop and as a <a href=\"https://youtu.be/vmPQu7VjdXE\">livestream on YouTube</a>, initiated and organized by TANZKOMPLIZEN. The symposium \"<a href=\"https://offensive-tanz.de/en/events/the-other-body\">The other body</a>\" brought together dance professionals, dance experts, dance educators and interested audiences to analyze racist strategies in dance education and in the aesthetic traditions of choreographed dance.",
+        "id": "_RJ2f1i36g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The conference was conceived and curated by the Egyptian dancer, choreographer and author Nora Amin, who in her <a href=\"https://youtu.be/rRVx9CCvodg\">opening speech</a> spoke about mechanisms of inclusion and exclusion in dance, about hierarchy and ownership and about her very personal commitment to changing current structures:",
+        "id": "_vjG4uAK5U",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-nora-amin-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/1476976360-1601629399/the-other-body-nora-amin-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-nora-amin-still.png",
+            "ratio": 1.78045112781954895098124325159005820751190185546875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_h141clomj",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "The symposium was divided into three thematic blocks. In the first session \"<a href=\"https://youtu.be/E_GjIket9jk\">Critical initiatives by emerging artists</a>\", dance educator Amelie Mallmann spoke with the two artists* Zwoisy Mears-Clarke and T\u00fcmay K\u0131l\u0131n\u00e7el about their work. What experiences do they have as dance makers with racism and how do they process this in their art?",
+        "id": "_mBN1nXoOC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-session1-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/-1124157498-1601629601/the-other-body-session1-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-session1-still.png",
+            "ratio": 1.7789473684210526105431426913128234446048736572265625,
+            "caption": ""
+        },
+        "content": "\"We have realized that especially in the current state of emergency brought about by the pandemic, we have to look for new ways beyond stage performances and thus act offensively and live up to our name\".",
+        "id": "_c7kpf0hbm",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "The second session \"<a href=\"https://youtu.be/qVbs1Zb-IgY\">Dance pedagogy from a socio-political perspective</a>\" focused on training structures. Nora Amin spoke with the dance scholar Nina H\u00e4nel and the artistic director of TanzZeit, Livia Patrizi, about contents and methods of teaching and access barriers on the way to becoming a professional dancer:",
+        "id": "_q8iO2qfxX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-session2-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/622645703-1601629829/the-other-body-session2-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-session2-still.png",
+            "ratio": 1.7789473684210526105431426913128234446048736572265625,
+            "caption": ""
+        },
+        "content": "Participation and inclusion also require the recognition of other perspectives and a respectful approach to differences. By bringing together the various experiences, expertise and resources of its partners, the Offensive Tanz has been carrying this principle within itself since the start of the project at the beginning of this year, making the network idea the guiding principle of its work.",
+        "id": "_pv6u30nkj",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "In the third session \"<a href=\"https://www.youtube.com/watch?v=-LEM87oczsw\">The performative political body of today</a>\" Michael Freundt, chairman of the Dachverband Tanz, discussed with the artists Hannah Ma and Mey Seifan. Among other things, they discussed the question of how the funding landscape in dance must be set up to take into account structures that promote diversity.",
+        "id": "_EomyGWPdG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-session3-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/-460190201-1601629892/the-other-body-session3-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-session3-still.png",
+            "ratio": 1.78045112781954895098124325159005820751190185546875,
+            "caption": ""
+        },
+        "content": "The Offensive Tanz program therefore deals intensively with the topics of diversity and equality - whether in a conceptual-curatorial, artistic, dance pedagogical or mediatory way. Contemporary dance is characterized by a creative approach to physicality beyond normative guidelines, the breaking up of fixed vocabulary or forms, as well as collective working methods. Thus contemporary dance assumes an ideal mediating function for openness and diversity.",
+        "id": "_y03ri98ap",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "After each of the three thematic blocks, the audience was invited to exchange views in small groups on the questions that had been opened up. The day ended with a <a href=\"https://youtu.be/fT_8JxpnnO0\">performative session</a> with 10-minute contributions by the dancers Raphael Hillebrand, Mohammed Diban, Pasquale Rotter, Josep Garcia Caballero and Raha Nejad.",
+        "id": "_U2bP6d1vQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-performativesession-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/-41398699-1601629944/the-other-body-performativesession-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-performativesession-still.png",
+            "ratio": 1.7789473684210526105431426913128234446048736572265625,
+            "caption": ""
+        },
+        "content": "These formats serve to build bridges and create a lively platform for exchange between professionals, young people and artists.",
+        "id": "_yz40t3rm0",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "The idealistic and challenging goals are approached by Offensive Tanz f\u00fcr junges Publikum with courageous and offensive steps. They offer numerous opportunities for participation and networking and for new ways of reunion, whether for Berlin's dance professionals, the young audience, those interested in dance, or those still to be inspired.",
+        "id": "_NuG2XYOv9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "With this conference, the Offensive Tanz has set out on a path that will lead to further events and a deeper professional exchange. The questions discussed will first be taken up again at the symposium \"<a href=\"https://offensive-tanz.de/en/events/internationalitat-und-diversitat-im-tanz-fur-junges-publikum\">race - class - gender: intersectional perspectives in dance and theater for the youngest</a>\", which Theater o.N. will organize as part of the Festival FRATZ International in October/November 2020.",
+        "id": "_gf3k9Etaw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In January 2021 the theme will be transferred to a stage dance production: With \"A Human Race\" TANZKOMPLIZEN will show a piece by the French KRUMP dancer and choreographer Grichka Caruge as part of the Offensive, which deals with the power of dance in rebelling against injustice and racism.",
+        "id": "_bt9JgDJdP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We are on our way. And take steps of change.",
+        "id": "_sAiuJV8rr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>\u201cTo develop dance for youth and dance in education is to work towards the future situation of the dance field in general, and to empower an equal and participatory domaine where dance creation can expand and meet the new horizon of a growing society.\u201d</em>",
+        "id": "_wh1vodvam",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Nora Amin",
+        "id": "_nudhl0gio",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

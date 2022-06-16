@@ -1,0 +1,48 @@
+Title: Theater o.N.
+
+----
+
+Subtitle: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Theater o.N.</strong> is an independent theater in Berlin that produces works for children aged 0-10 and for adults. In the past decade, the theater has made a name for itself in Berlin and throughout Germany in the field of theater for the very young, producing plays, organizing festivals and conducting research in this area. The theater itself has a longer history. Founded in 1979/80 as Theater Zinnober, it was the first (and for a long while, the only) independent theater in the GDR. Operating as a democratic collective, the actors, puppeteers, directors, playwrights and dramaturgs developed groundbreaking productions such as \"Traumhaft\" (English<em>: Dreamy</em>) (1985) and \"Die Bremer Stadtmusikanten\" (<em>The Bremen Town Musicians</em>) (1986).",
+        "id": "_eZvgpIcAu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In 2010, a new collective of individuals from former East and West Germany and from several generations came together as the revitalized Theater o.N. ensemble. This team established two fresh concepts in its artistic work: Theater for the very young, as well as \"beyond the neighborhood,\" focusing on participatory projects in less privileged Berlin districts.",
+        "id": "_WI7hKsBv3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In 2014, we received the George Tabori Award for the impulses we have been setting in the field of theater, both regionally and internationally, since our founding. Starting in 2013, we have been organizing the biennial FRATZ International, a festival of performing arts for the very young. The invited productions and installations are shown in six Berlin districts. Thus, we support decentralized arts programs through the FRATZ festival structure. Our aim is to take an artistic stand against social divisions and exclusion. FRATZ envisions itself as a festival for the public. At the same time, the festival offers a forum for artistic and professional exchange, draws national and international experts to Berlin and creates new, experimental working contexts.",
+        "id": "_Sav3IhNUT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In 2016, Theater o.N. developed the project \"Berliner Schaufenster\" to fill a gap in the Berlin children's theater scene. The autonomous scene often lacks performance and presentation opportunities, as well as forums for artistic networking and further professional development. Therefore, this festival focuses on research and networking, especially within the Berlin area.",
+        "id": "_qdSLONjTX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "As a producer, Theater o.N. develops 1-2 new productions every year, many of them for very young audiences and others for audiences aged 6 to 10, as well as ensemble works for adults. The theater works with a fixed ensemble as its core and continually seeks external inspiration by inviting artists from various genres to join the team and by forming collaborations, such as with Deutsche Oper Berlin for research into music theater for the very young (2016-18) or, currently, with partners in Offensive Tanz f\u00fcr junges Publikum (<em>Dance offensive for young audiences</em>), to further develop contemporary dance for very young audiences (2019-21).",
+        "id": "_i8DBaHuRl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2192 <a href=\"https://www.theater-on.de/en/news/\">Theater o.N.</a>",
+        "id": "_faoc3tvd2",
+        "type": "paragraph"
+    }
+]

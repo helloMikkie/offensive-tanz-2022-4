@@ -1,0 +1,108 @@
+Title: Home
+
+----
+
+Introtext:
+
+[
+    {
+        "attrs": [],
+        "content": "OFFENSIVE TANZ F\u00dcR JUNGES PUBLIKUM",
+        "id": "_nt6htmqag",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Welcome to the website of Offensive Tanz (OfTa). We are a cooperation project of four partners from the dance and theater scene for children and young people in Berlin: <a href=\"https://www.offensive-tanz.de/de/about/purple\">PURPLE Tanzfestival</a>, <a href=\"https://www.offensive-tanz.de/de/about/tanzkomplizen\">TANZKOMPLIZEN</a>, <a href=\"https://www.offensive-tanz.de/de/about/theater-strahl\">Theater STRAHL</a> und <a href=\"https://www.offensive-tanz.de/de/about/theater-o-n\">Theater o.N</a>.",
+        "id": "_osutxq2oo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We develop innovative dance formats for young audiences between 0 and 18 years. Our goal is to strengthen dance as an art form within Berlin's cultural landscape, to break down barriers and to create better access. To this end, we produce new productions, organize symposia and workshops, and network with relevant institutions, training centers, schools, scenes and festivals.",
+        "id": "_aKq1KGw0X",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "One pillar of our work is the \"Offensive Kulturbus,\" which has enabled us to transport more than 10,000 children and young people safely and free of charge through Berlin since September 2021 - from their schools or daycare centers on the outskirts of the city to over 40 participating venues. More info <a href=\"https://offensive-tanz.de/en/events/kulturbus\">here</a>.",
+        "id": "_tv11qlp2z",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Vimeo: https://vimeo.com/687130232
+
+----
+
+Featured: true
+
+----
+
+Badgetext:
+
+[
+    {
+        "attrs": [],
+        "content": "Subscribe to our newsletter",
+        "id": "_n43shbmrc",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Badgelink: #newsletter
+
+----
+
+Badgefeatured: false
+
+----
+
+Badge-link: https://www.w3schools.com/cssref/sel_nth-child.asp
+
+----
+
+Badge-featured: false
+
+----
+
+Badge-text:
+
+[
+    {
+        "attrs": [],
+        "content": "Hallo Welt",
+        "id": "_ur1s0840e",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Gallery:
+
+- collaboration_3.jpg
+- billy_4_klein.jpeg
+
+----
+
+Intro:
+
+[
+    {
+        "attrs": [],
+        "content": "Wer wir sind",
+        "id": "_5na2wt1zl",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Die \u201eOffensive Tanz f\u00fcr Junges Publikum Berlin\u201c entwickelt innovative Tanz- und Vermittlungsformate f\u00fcr Menschen zwischen zwei und 18 Jahren. Als Zusammenschluss von vier erfahrenen Partnern aus der zeitgen\u00f6ssischen Tanz- und Theaterszene f\u00fcr Kinder und Jugendliche (PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum, TANZKOMPLIZEN, Theater STRAHL und Theater o.N.) verbessern wir Austausch und Vernetzung und etablieren den Tanz f\u00fcr junges Publikum nachhaltig in der Berliner \u00d6ffentlichkeit.",
+        "id": "_4gz6ft1z8",
+        "type": "paragraph"
+    }
+]

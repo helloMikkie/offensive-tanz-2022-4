@@ -1,0 +1,76 @@
+Title: race - class - gender. Intersektionale Perspektiven in Tanz und Theater für die Jüngsten
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Symposium
+
+----
+
+Author: Theater o.N. und Offensive Tanz
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-11-06
+
+----
+
+Time: 10:30:00
+
+----
+
+Duration: 
+
+----
+
+Location: Podewil Berlin, Klosterstraße 68
+
+----
+
+Tickets: accreditation@fratz-festival.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-11-07
+  zeit: 11:00:00
+- 
+  datum: 2020-11-08
+  zeit: 11:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Beim diesj\u00e4hrigen Symposium werden wir fragen: Wie werden Race, Class und Gender repr\u00e4sentiert \u2013 auf der B\u00fchne, hinter der B\u00fchne, in den Inhalten und der Vermittlung f\u00fcr (sehr) junges Publikum? Reproduzieren wir vorhandene Machtstrukturen, indem wir versuchen, sie aufzubrechen? Wie gelingt Tanz und Theater auf Augenh\u00f6he?<br>Unter anderem stellen drei FRATZ Forschungslabore aus Berlin, Kapstadt und Lagos.<br>Auf den Podien diskutieren und sprechen Joshua Alabi, Nora Amin, Shelley Etkin, Malgven Gerbes, Thalia Laric, Isabelle Schad, Iury Salustiano Trojaborg, Marie Yan, u.v.m.<\/p>"},"id":"7d29cc68-d2b7-46f8-a096-73df8225ef18","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Hinweis:<\/strong> Aufgrund der aktuellen Situation rund um Covid-19 findet dieses Event ausschlie\u00dflich online statt! Anmeldung \u00fcber die o.g Email-Adresse.<\/p>"},"id":"1e21e2a1-4525-40c0-a8ff-1d017b3aa67d","isHidden":false,"type":"text"},{"content":{"text":"<p>Sowohl bei den Inszenierungen als auch im Symposium vor Ort sind die Platzkapazit\u00e4ten gering - also meldet euch schnell!<\/p>"},"id":"0c72a7ce-bcab-4589-8902-d1a9c895ff9b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>PROGRAMM<\/strong><\/p>"},"id":"73e12f37-7b69-491c-a2f1-771a7e42d24f","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Freitag, 6. November 2020<\/strong><\/p>"},"id":"813695a3-c572-4fa5-a535-1db38e9260cd","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>10:30 - 12 Uhr (15 - 16:30 Uhr Indische Zeit)<br>Neue Beziehungen lernen und darstellen - Intersektionale Perspektiven in Tanz und Theater f\u00fcr die J\u00fcngsten<br><\/strong>Online im Rahmen von ENGAGE : International Forum on the Arts for Children &amp; Young People<strong><br><\/strong><em>Vera Strobel teilt Eindr\u00fccke und Ergebnisse aus dem ersten Wochenende des FRATZ Symposium 2020<\/em><\/p>"},"id":"d010c857-baa5-4f32-8d7a-77ab31438824","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir freuen uns, euch auf das Programm unserer Kolleg*innen hinzuweisen:<br><strong>Think Arts <\/strong><br><strong>ENGAGE : International Forum on the Arts for Children &amp; Young People<\/strong><br>5.-7. November 2020<br><a href=\"https:\/\/nl.kulturkurier.de\/goto?clientId=89&amp;listId=1346&amp;newsletterId=71255&amp;sendingId=83890&amp;trackingUrlId=387473\">http:\/\/www.thinkarts.co.in\/engage.html#http:\/\/www.thinkarts.co.in\/engage.html#<\/a><\/p>"},"id":"72d3bed3-d7c3-4f5f-9ac6-d28bf3916902","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>17 - 20:30 Uhr <\/strong><u>(verbindliche Anmeldung bis Donnerstag 16 Uhr n\u00f6tig)<\/u><br><strong>Anarchie \u2260 Chaos \u2013 Un:gleichheit<\/strong><br>Podewil (Saal), Mitte<br><em>Anarchie \u2260 Chaos - Un:gleichheit ist ein kreativer Workshop, in dem die Teilnehmer*innen, fiktionalen Geschichten von Gleichheit und Ungleichheit austauschen und dar\u00fcber reflektieren. Gemeinsam, jung und alt, werden wir versuchen, einen tempor\u00e4ren Raum zu schaffen, um generationen\u00fcbergreifend zu teilen, was Gleichheit oder Gleichberechtigung f\u00fcr uns bedeutet und wie sich unsere Perspektiven gegenseitig bereichern k\u00f6nnen.<\/em><br><em>Konzept: Marie Yan und Johanna Hawighorst, Moderation: Marie Yan, Theaterp\u00e4dagogik: Cindy Ehrlichmann<\/em><\/p>"},"id":"b1c63bf4-d609-4f24-9723-1d5cb44a504b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Samstag 7. November 2020<\/strong><\/p>"},"id":"b152ec18-3485-4b16-9e0f-bc7009150404","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>11 - 13 Uhr<\/strong><br><strong>Laborpr\u00e4sentation: TAH DAM! (together at home, dance and music)<\/strong><br>Podewil (Saal), Mitte &amp; Online<br><em>Im Labor TAH DAM! (together at home, dance and music) untersuchten Nicola Elliott, Coila Enderstein, Faye Kabali-Kagwa, Thalia Laric, Vintani Nafassi, Sumalgy Nuro und Manuela Tessi aus Kapstadt (ZAF) wie man mit Kindern und ihren Begleitpersonen in Kontakt treten kann, wenn diese Zuhause bleiben m\u00fcssen, z.B. durch Videobotschaften. TAH DAM! findet in Kooperation mit MusicDance Cape Town und ASSITEJ South Africa statt.<\/em><\/p>"},"id":"182ab115-c912-4098-9e0a-b819f35377c1","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>14 - 16 Uhr (jeweils 40-min\u00fctige Einzelslots)<\/strong><br><strong>Landing Sessions mit Shelley Etkin<\/strong><br>Podewil (Studio 1), Mitte<\/p>"},"id":"4ef47dc8-5177-4a9f-a8c5-9befbfe82446","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>16 - 16:45 Uhr<\/strong><br><strong>FRATZ Atelier: where many birds sing<\/strong><br><strong>19 Uhr<\/strong><br><strong>Film-Screening zum Thema des Forschungslabors \u00bbSkin-Tone\u00ab<\/strong><br>Podewil (Saal), Mitte<\/p>"},"id":"e62f5870-13ec-403d-9b9c-a98971140c31","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Sonntag, 8. November 2020<\/strong><br><strong>11 - 14 Uhr<\/strong><br><strong>Laborpr\u00e4sentation: Skin-Tone<\/strong><br>Podewil (Saal), Mitte &amp; Online<br><em>Screening einer mitgeschnittenen Diskussions-Veranstaltung mit k\u00fcnstlerischen Interventionen in Lagos. <\/em><br><em>Live-Austausch mit den K\u00fcnstler*innen in Lagos.<\/em><br><em>Mit Joshua Alabi und KiNiNso Koncepts, Lagos, Nigeria.<\/em><br><strong>14 - 16 Uhr<\/strong><br><strong>Landing Sessions mit Shelley Etkin<\/strong><br>Podewil (Studio 1), Mitte<br><strong>16 - 19 Uhr <\/strong><u>(verbindliche Anmeldung bis Freitag 15 Uhr n\u00f6tig)<\/u><br><strong>Anti-Rassismus \u2013 Fortsetzung des Fachtages \u00bbTHE OTHER BODY\u00ab vom 10.09.2020 von und mit Nora Amin, TANZKOMPLIZEN und Offensive Tanz f\u00fcr junges Publikum<br><\/strong>Podewil (Saal), Mitte &amp; Online<br>16 Uhr<br>Impulsvortr\u00e4ge von Livia Patrizi (Tanzkomplizen) und Nora Amin (T\u00e4nzerin, Choreografin und Schriftstellerin)<br>17 Uhr<br>Gruppenarbeit &amp; Workshops<br>18 Uhr<br>Action Steps | Was sind n\u00e4chste Schritte zu mehr Gleichheit, Gleichberechtigung, Gleichw\u00fcrdigkeit?<\/p>"},"id":"3b48a6cd-2269-47cf-a33c-623be28397e4","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: [{"content":{"text":"<p>Das Symposium <strong><em>race - class \u2013 gender<\/em>: Intersektionale Perspektiven in Tanz und Theater f\u00fcr die J\u00fcngsten<\/strong> ist ein Projekt der Offensive Tanz f\u00fcr junges Publikum Berlin und FRATZ International.<\/p>"},"id":"b4369dc9-c2a2-49fd-a4fe-306095e18a4b","isHidden":false,"type":"text"},{"content":{"text":"<p>FRATZ International wird veranstaltet vom Theater o.N. In Kooperation mit GRIPS Theater Berlin und Kulturprojekte Berlin. Mit freundlicher Unterst\u00fctzung von: Familienzentrum Adalbertstra\u00dfe (Kreuzberg), Podewil (Mitte), Wiesenburg Halle (Wedding).<\/p>"},"id":"88036a3f-2013-4c4b-bc4b-93e5a79ad6bd","isHidden":false,"type":"text"},{"content":{"text":"<p>Gef\u00f6rdert durch das Land Berlin \u2013 Senatsverwaltung f\u00fcr Kultur und Europa im Rahmen der F\u00f6rderung von stadtpolitisch relevanten Festivals 2020 bis 2023 | Die \u00bbOffensive Tanz f\u00fcr junges Publikum Berlin\u00ab wird gef\u00f6rdert von TANZPAKT Stadt-Land-Bund aus Mitteln der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien sowie kofinanziert aus Mitteln des Landes Berlin \u2013 Senatsverwaltung f\u00fcr Kultur und Europa. | Mit freundlicher Unterst\u00fctzung des Institut fran\u00e7ais und des franz\u00f6sischen Ministeriums f\u00fcr Kultur \/ DGCA im Rahmen vom Objets &amp; Marionnettes Fokus 2020.<\/p>"},"id":"2d8ebfae-af98-47e6-bee6-598576910b95","isHidden":false,"type":"text"}]

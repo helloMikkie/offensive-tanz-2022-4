@@ -1,0 +1,44 @@
+Title: Projekttrailer
+
+----
+
+Vimeo: https://vimeo.com/446772085
+
+----
+
+Subtitle: 
+
+----
+
+Featured: true
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-08-12
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Etwas \u00fcber ein halbes Jahr Offensive Tanz f\u00fcr junges Publikum: Nach einem gelungenen Auftakt starteten wir im Januar 2020 frohen Mutes und mit viel Motivation in die hei\u00dfe Projektphase, bis uns die Corona-Pandemie wie so viele andere Kunst- und Kulturschaffende ausbremste.",
+        "id": "_jasbd2b5c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir haben dennoch weitergemacht, nach vorne geschaut, so viel digitales Material zur Verf\u00fcgung gestellt wie m\u00f6glich \u2013 Probenmitschnitte, Videos, Streamings. Wir haben Interviews mit Jugendlichen zum Thema Bewegung, Ber\u00fchrung und Tanz in Zeiten der Pandemie gef\u00fchrt und mit dem Team im Treptower Park getanzt. Diese aufregenden Momente f\u00e4ngt unser erster Offensive Tanz Trailer nun in knapp zwei Minuten ein.",
+        "id": "_na70tfpnh",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

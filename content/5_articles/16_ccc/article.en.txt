@@ -1,0 +1,92 @@
+Title: Can Touch This
+
+----
+
+Vimeo: https://vimeo.com/409185375
+
+----
+
+Subtitle: Trailer und Workshops
+
+----
+
+Featured: false
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-04-18
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "During these times, when we are not allowed to come closer than 1.5 metres, the title \"Can Touch This\" takes on a whole new meaning. Planned performances and accompanying school workshops cannot take place. Therefore we would like to give a digital insight with the release of the trailer and a small contribution.",
+        "id": "_20seviqn1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Touch is provocation. Touch is beautiful. Touch is out of place. Touch is vital for survival. Cultures and traditions determine whether a touch is pleasant or embarrassing. Or are we the ones who determine that?",
+        "id": "_bxsjqwkc7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In \"Can Touch This\", which is the first dance piece produced as part of the Offensive Tanz f\u00fcr junges Publikum from 12 years of age, it is about precisely these questions, about closeness and distance and the dilemma of modern humanity. Because on the one hand we long for touch and on the other hand we want to be protected from injury. Five performers allow closeness and lose control. They test their own and other people's limits, stumble over blunders and embarrassments and gently catch the audience again at the end.",
+        "id": "_NQbHlSWBh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In addition to the performances of \"Can Touch This\", Theater Strahl offers dance pedagogical workshops for young people, in order to meet the \"touch points\", which are often ambivalent for them, with humour, joy and curiosity. The choreographer and dancer Florian Bilbao leads the workshops and was able to conduct one or the other on site in the schools even before the developments in connection with Covid-19.",
+        "id": "_cdfioTVm7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "During the two-hour exchange, the young people are introduced to the art form of dance theatre in a playful way, through practical research and by taking up the theme of touch.",
+        "id": "_pcqpdani2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"My aim is that the students discover the artistic freedom of a creative process themselves and that there are taught also elements of the history of dance.\"",
+        "id": "_a479bxcns",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Florian Bilbao",
+        "id": "_ywcbya3in",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For this purpose, photos of important choreographers serve as a basis for the mediation. In a next step, the movements shown on the photos are re-enacted by the students. The principle of improvisation, research and discovery plays a central role and for Florian, this is the key to exposing the creative process.",
+        "id": "_yh68r8nob",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The theme of touch, which is central to the play Can Touch This, is also brought to the fore in the workshops. The students create 30-second long scenes with or without voice and in groups of 3-4 people. They are completely free in their execution. The basis are again photos from the play: \"I can say that this freedom was used in a wonderful way! The pupils made real scenes with beginning, development and end.\"",
+        "id": "_xsC9whryn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "More information about Can Touch This and the workshops can be found <a href=\"https://offensive-tanz.de/en/events/can-touch-this\">here</a>. Under the hashtag #ZuhauseSTRAHLen Theater Strahl currently also offers homeschooling tasks for your own four walls. For questions and/or suggestions the team of Theater Strahl is always available at strahl@offensive-tanz.de.",
+        "id": "_flt603iy6",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

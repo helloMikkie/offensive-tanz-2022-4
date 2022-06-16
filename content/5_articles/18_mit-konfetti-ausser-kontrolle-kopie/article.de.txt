@@ -1,0 +1,150 @@
+Title: „Gemeinsam können wir mehr bewegen“
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Interview mit Canan Erek
+
+----
+
+Featured: false
+
+----
+
+Author: PURPLE
+
+----
+
+Date: 2020-02-10
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Sp\u00e4testens seit der Gr\u00fcndung von PURPLE ist es Canan Ereks Anliegen, Tanz f\u00fcr junges Publikum zu f\u00f6rdern. Als Theater o.N. 2018 Erek fragte, ob man nicht gemeinsam einen F\u00f6rderantrag beim TANZPAKT Stadt-Land-Bund stellen k\u00f6nnte, holte sie kurzerhand Theater Strahl und TANZKOMPLIZEN mit ins Boot. Gemeinsam riefen sie \u201eOffensive Tanz f\u00fcr junges Publikum\u201c ins Leben. Der F\u00f6rderantrag beim TANZPAKT wurde bewilligt und vom Berliner Senat f\u00fcr Kultur und Europa ko-finanziert. Erek ist koordinierende Projektleiterin und sprach mit PURPLE dar\u00fcber.</strong>",
+        "id": "_yvc59y79h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Canan, was ist Offensive Tanz f\u00fcr junges Publikum?</strong>",
+        "id": "_mqbb5tvm5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gemeinsam mit TANZKOMPLIZEN, Theater o.N. und Theater Strahl gr\u00fcndete PURPLE \u201eOffensive Tanz f\u00fcr junges Publikum\u201c. Das Kooperationsprojekt l\u00e4uft bis Oktober 2021. Unser Ziel ist es, Tanz f\u00fcr junges Publikum sichtbar zu machen und nachhaltige Strukturen zu schaffen. Innerhalb des Projektzeitraums produzieren wir sechs Tanzst\u00fccke, f\u00fchren drei Symposien durch, organisieren Fachtage, entwickeln innovative Vermittlungsformate. Zudem bieten wir Workshops f\u00fcr Lehrer*innen und Erzieher*innen an. \u201eCan Touch This\u201c, die erste Tanzproduktion der Offensive, wird im Rahmen des diesj\u00e4hrigen PURPLE uraufgef\u00fchrt. Im April findet dann das erste Symposium zum Thema \u201eInternationalit\u00e4t und Diversit\u00e4t im Tanz\u201c im Rahmen des Fratz-Festivals statt.",
+        "id": "_ejj1hvlmj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Sind die Tanzproduktionen inhaltlich \u00e4hnlich?</strong>",
+        "id": "_26iwrae98",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nein, ganz im Gegenteil, sie sind sehr divers. Und das nicht nur, weil sich die Institutionen an unterschiedliche Altersgruppen richten, sondern auch, weil jeder Projektpartner selbst entscheidet, mit welchen Choreografen er arbeitet. Es entstehen Tanzst\u00fccke f\u00fcr Kinder zwischen 0 und 18 Jahren. Theater o.N. richtet sich an die j\u00fcngsten, Tanzkomplizen wendet sich an Kinder im Grundschulalter und Theater Strahl hat Jugendliche (ab 12 Jahren) als Zielgruppe.",
+        "id": "_CGQthCrFi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Uns ist es wichtig, dass es auch Synergieeffekte gibt",
+        "id": "_o32zy7lql",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_svhex0pwa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Und was ist die Rolle von PURPLE?</strong>",
+        "id": "_0n18ply5t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "PURPLE widmet sich der Publikumsforschung, demzufolge haben wir eine <a href=\"http://bit.ly/besucherbefragung_ofta\">Besucherbefragung</a> online gestellt, die sich explizit an Eltern, Lehrer<em>innen und Erzieher</em>innen wendet. 2021 wird PURPLE eine internationale Produktion koproduzieren und die Deutschlandpremiere im Rahmen von PURPLE zeigen.",
+        "id": "_03rbbkxu9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wie arbeiten die verschiedenen H\u00e4user zusammen?</strong>",
+        "id": "_00hhmp9v6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Uns ist es wichtig, dass es auch Synergieeffekte gibt. Gemeinsam k\u00f6nnen wir mehr bewegen. Wir m\u00f6chten etwas erschaffen, was eine eigene Pr\u00e4senz in der Stadt hat. Ich m\u00f6chte, dass man bei \u201eOffensive Tanz\u201c sofort wei\u00df, worum es geht und wer daran beteiligt ist. Wie wollen voneinander lernen und von Erfahrungen profitieren. Jede Institution hat eine andere Expertise und sitzt in einem anderen Stadtteil. Wir erforschen im Namen des Tanzes gemeinsam, wie man Sch\u00fcler*innen und Lehrer*innen f\u00fcr Tanz interessiert und ihnen den Zugang zum Tanz einfacher gestaltet. Wir m\u00f6chten ihre Offenheit und Neugierde gegen\u00fcber Tanz f\u00f6rdern.",
+        "id": "_jow2jz65p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Soll die Offensive nach zwei Jahren verl\u00e4ngert werden?</strong>",
+        "id": "_peqvw2pp0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nat\u00fcrlich, planen darf man ja. TANZPAKT als bundesweit agierendes F\u00f6rderprogramm ist verl\u00e4ngert worden. Prinzipiell gibt es also die M\u00f6glichkeit, dass wir Ende 2020 den n\u00e4chsten Antrag f\u00fcr eine m\u00f6gliche Verl\u00e4ngerung vorbereiten. Die F\u00f6rderung l\u00e4uft \u00fcber die Stadt, Land und \u00fcber den Bund. Das hei\u00dft, wir m\u00fcssten dann auch erneut eine Ko-finanzierung aus Berlin bekommen, dann h\u00e4tten wir weitere Jahre, um unsere Ziele zu verfolgen.",
+        "id": "_nhni6nbck",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Sind bundesweite Kooperationen geplant?</strong>",
+        "id": "_g11pf34lo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Auch das TANZPAKT-Projekt \u201eExplore dance\u201c hat den Schwerpunkt Tanz f\u00fcr junges Publikum. Wir tauschen uns aus und \u00fcberlegen, ob man sich verst\u00e4rkt zusammensetzt und mit den Projektpartnern in M\u00fcnchen, Hamburg und Potsdam kooperiert. Wir wollen aus der Hauptstadt heraus ein Zeichen setzen.",
+        "id": "_mrdsb0zd5",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "Dieser Artikel erschien urspr\u00fcnglich auf der Website des PURPLE Festivals und ist weiterhin \u00fcber <a href=\"https://purple-tanzfestival.de/blog/interview-offensive-tanz-fuer-junges-publikum-canan-erek/\">diesen Link</a> abrufbar.",
+        "id": "_e947ksk4f",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Mit Konneftts",
+        "id": "_cqrsw6qsp",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist 9:30 Uhr, eine Stunde vor Auff\u00fchrungsbeginn. Ich befinde mich in der Mensa der Neuen Grundschule Potsdam. Hier wird gleich die Vorstellung ONONON stattfinden. Gestern war Premiere in der Freien Schule in Potsdam. Der Raum ist noch sehr leer. Nur ein paar Erwachsene sitzen an den Tischen und trinken Kaffee, w\u00e4hrend das Team der Produktion das B\u00fchnenbild zusammenbaut. Eine Kiste aus Naturholz bestehend aus wenigen Versatzst\u00fccken, ungef\u00e4hr 2 mal 2 Meter gro\u00df, bilden das Fundament des mobilen Pop-Up B\u00fchnenbildes. Die Kiste ist praktisch und multifunktional. Sp\u00e4ter wird sie den Performer*innen C\u00e9cile Bally und Nir Vidanals B\u00fchne und Abtauchstation und den vielen Objekten als Stau- und Versteckraum dienen. Eine kleine Luke mit Klappe ist das Verbindungselement zwischen drinnen und drau\u00dfen, zwischen off und on.",
+        "id": "_16zp7pkfe",
+        "type": "paragraph"
+    }
+]

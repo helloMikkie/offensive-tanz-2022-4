@@ -1,0 +1,111 @@
+Title: Kleine große Sprünge
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: false
+
+----
+
+Label: Tanzstück / Neue Daten + Interview im Blog
+
+----
+
+Author: TANZKOMPLIZEN und Jasmin İhraç
+
+----
+
+Date: 
+
+----
+
+End-date: 2021-09-30
+
+----
+
+Time: 10:30:00
+
+----
+
+Duration: 
+
+----
+
+Location: Podewil, Klosterstraße 68, 10179 Berlin-Mitte
+
+----
+
+Tickets: tickets@tanzkomplizen.de
+
+----
+
+Age: 6
+
+----
+
+Caption: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-10-01
+  zeit: 10:30:00
+- 
+  datum: 2021-10-02
+  zeit: 15:00:00
+- 
+  datum: 2021-10-03
+  zeit: 15:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Vier T\u00e4nzer*innen und ein Musiker machen sich auf die Suche nach dem letzten Baum der Welt. Sie durchqueren W\u00fcsten- und Vulkanlandschaften, tauchen ab in Tiefen des Meeres und erfahren, wie es ist, im Weltall zu schweben. Sie machen einen Schritt, wagen einen Sprung, z\u00f6gern, fallen, laufen und entdecken, was in ihnen steckt. Auf dieser phantastischen Reise entwickeln sie Wege, Hindernisse zu \u00fcberwinden \u2013 solche, denen sie in ihrer Umwelt begegnen, aber auch jene, die in ihren K\u00f6pfen sind. Welche Herausforderungen gehen uns alle an? Und wie k\u00f6nnen wir uns gegenseitig Mut machen, kleine gro\u00dfe Spr\u00fcnge zu wagen?<\/p>"},"id":"9577bb89-da68-437e-9a42-ad70b7672ec4","isHidden":false,"type":"text"}]
+
+----
+
+Artists:
+
+- 
+  role: Choreografie
+  name: Jasmin İhraç
+- 
+  role: Tanz
+  name: >
+    Mbegne Kassé (Ben-J)/Abel Navarro, Ana
+    Laura Lozza/Tamara Saphir, Juan Corres
+    Benito, Tatiana Mejia
+- 
+  role: Dramaturgie
+  name: Joachim Schlömer
+- 
+  role: Livemusik/Komposition
+  name: 'Ketan Bhatti '
+- 
+  role: Bühne/Kostüm
+  name: Giulia Paolucci
+- 
+  role: Text
+  name: Sibylle Schmidt
+- 
+  role: Stimme
+  name: Alina Hünting
+- 
+  role: Licht
+  name: Martin Pilz
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

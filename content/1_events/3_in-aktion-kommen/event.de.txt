@@ -1,0 +1,69 @@
+Title: FUTUR TANZ II: In Aktion kommen
+
+----
+
+Vorlage: Neutral
+
+----
+
+Featured: true
+
+----
+
+Label: Symposium
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-05-15
+
+----
+
+Time: 12:00:00
+
+----
+
+Duration: 04:00:00
+
+----
+
+Location: TANZKOMPLIZEN im Podewil, Klosterstraße 68, 10179 Berlin
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: https://forms.gle/M2jnXHuPyy6Nz9zaA
+
+----
+
+Description: [{"content":{"level":"h2","text":"Was f\u00fcr ein Netzwerk wollen wir kreieren?"},"id":"d4751201-b854-48b1-869e-02540d853c27","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Arbeitstreffen zur Verortung und Vernetzung von \u00bbTanz fu\u0308r junges Publikum\u00ab<\/strong><\/p>"},"id":"d0bc335a-4a8b-40bc-a702-9af687ce7f70","isHidden":false,"type":"text"},{"content":{"text":"<p><em>im Rahmen von <a href=\"https:\/\/www.fratz-festival.de\/de\/symposium-fratz-festival\/futur-tanz-ii\/\">FRATZ Festival und Symposium<\/a><\/em><\/p>"},"id":"c15f26fa-df56-4f86-baa0-2d5c8bdc5423","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"2776699f-5735-4245-a2e4-4470b382548a","isHidden":false,"type":"text"},{"content":{"text":"<p>Am 23. Januar 2022 trafen sich ca. 60 Tanzschaffende, F\u00f6rderer und Produzent:innen zu einer ersten Standortbestimmung und zu einem Gedankenaustausch zu folgenden Fragen: Wo steht der Tanz f\u00fcr junges Publikum in Beziehung zum Kinder- und Jugendtheater und zur Szene des zeitgen\u00f6ssischen Tanz? Wo \u00fcberschneiden sich die Bedarfe und wo unterscheiden sie sich? Wo gibt es bereits eine Basis f\u00fcr gemeinsame kulturpolitische Arbeit und wo muss diese erst noch geschaffen werden?<\/p>"},"id":"c60edd66-b45a-4478-bd6a-ec8657340a99","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<a href=\"https:\/\/www.offensive-tanz.de\/de\/articles\/futur-tanz-1\">\u2192 zum Ergebnisbericht im Blog<\/a>"},"id":"7e9e5fd7-ead7-4877-a37c-8fa0c3c8a62b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Antworten waren so vielf\u00e4ltig wie die teilnehmenden Akteur:innen. Dennoch hat sich gezeigt, dass ein gro\u00dfer Wunsch und eine Notwendigkeit besteht, sich in einem Netzwerk zu verbinden, das in Austausch miteinander und in Anlehnung an und Abgrenzung vom Kinder- und Jugendtheater und der Tanzszene die Interessen von Tanz f\u00fcr junges Publikum vertritt und diese besondere Kunstform st\u00e4rkt.<\/p>"},"id":"12c17c98-1421-41b3-a30f-0fb6d11558f6","isHidden":false,"type":"text"},{"content":{"text":"<p>Am<strong> 15. Mai<\/strong> laden wir erneut ein. In einem Arbeitstreffen wollen wir den n\u00e4chsten Schritt gehen und fragen: <strong>Wie soll ein Netzwerk Tanz f\u00fcr junges Publikum aussehen?<\/strong><\/p>"},"id":"824e74c3-1ce1-459d-94a4-2c0f08fc849e","isHidden":false,"type":"text"},{"content":{"text":"<p>Dabei werden uns <strong>folgende Schwerpunkte<\/strong> besch\u00e4ftigen:<\/p>"},"id":"04a19aaf-e692-472f-aac3-028fd18c375c","isHidden":false,"type":"text"},{"content":{"text":"Wie kann ein Netzwerk daf\u00fcr sorgen, dass der Tanz f\u00fcr junges Publikum mehr \u00f6ffentliche <strong>Aufmerksamkeit und Unterst\u00fctzung<\/strong> erf\u00e4hrt und dass die gesellschaftliche Wirkung unserer Arbeit wahrgenommen wird?","citation":""},"id":"711b4769-ff6a-4deb-ad5a-0ad72ef2e183","isHidden":false,"type":"quote"},{"content":{"text":"Wie k\u00f6nnen wir ein Netzwerk schaffen, das <strong>inspirierend<\/strong>, kreativ, vielf\u00e4ltig und offen f\u00fcr alle ist?","citation":""},"id":"143b2202-0ee3-48c9-a15a-34b2bfee5aaa","isHidden":false,"type":"quote"},{"content":{"text":"Was sind die konkreten <strong>Ziele<\/strong> eines Netzwerkes? Welche Aufgaben soll es \u00fcbernehmen? Welche Forderungen vertreten? Wer soll dieses Netzwerk bilden?","citation":""},"id":"2df265a3-4de6-41f2-991e-64e5f8f38fe1","isHidden":false,"type":"quote"},{"content":{"text":"Welche <strong>Organisationsstruktur<\/strong> wollen wir dem neuen Netzwerk geben? Orientieren wir uns an Beispielen bestehender kulturpolitischer Verb\u00e4nde? Oder schaffen wir etwas Neues?","citation":""},"id":"6e514f9b-413f-4cce-8c87-788be3c8db49","isHidden":false,"type":"quote"},{"content":{"text":"<p>Nach einer Begr\u00fc\u00dfung und Vorstellung der Ergebnisse von FUTUR I, wollen wir uns zun\u00e4chst von einem Input von Design-Thinkern anregen und inspirieren lassen, bevor wir in Arbeitsgruppen Entw\u00fcrfe zu den o.g. Fragenkomplexen erarbeiten und miteinander teilen.<br><br><\/p>"},"id":"d985fae0-e34e-4c8e-8220-b567aa25d447","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Veranstaltung ist gut kombinierbar mit einem Vorstellungsbesuch von <a href=\"https:\/\/www.fratz-festival.de\/de\/inszenierungen-fratz-festival\/detailseite-inszenierungen-ff\/kolofu-2\/72c4a14e9171850ec9ae2cfdf8fcdbc3\/\">KOLOFU<\/a> der nigeriansichen Gruppe Kininso Koncepts um 10:30 Uhr im TANZKOMPLIZEN Studio im Podewil und <a href=\"https:\/\/www.fratz-festival.de\/de\/inszenierungen-fratz-festival\/detailseite-inszenierungen-ff\/flip-flop-2\/07b491d95868f7477639ca2ca24763ef\/\">FLIP-FLOP<\/a> von Nasheeka Nedsreal &amp; Theater o.N. um 17:30 Uhr im FELD Theater f\u00fcr junges Publikum in Sch\u00f6neberg. Karten hierf\u00fcr sind im <a href=\"https:\/\/www.fratz-festival.de\/de\/tickets-service-fratz-festival\/tickets\/#c1735\">FRATZ-Ticketshop<\/a> erh\u00e4ltlich.<\/p>"},"id":"43390931-f2a8-4a4c-94a0-35f2fed6ba97","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"ff17f4e2-d684-4499-8463-d7520d5205cf","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Zeit:<\/strong> 15.05.22, 12:00 - 16:00 Uhr<br><strong>Ort:<\/strong> <a href=\"https:\/\/www.fratz-festival.de\/de\/tickets-service-fratz-festival\/spielorte\/#c789\">TANZKOMPLIZEN Studio im Podewil<\/a> (Mitte)<br><\/p>"},"id":"3c42e7f6-d95a-4aca-aab9-b0b72cac85cf","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

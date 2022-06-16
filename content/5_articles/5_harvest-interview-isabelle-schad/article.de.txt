@@ -1,0 +1,146 @@
+Title: HARVEST
+
+----
+
+Vimeo: https://vimeo.com/604707002
+
+----
+
+Subtitle: Interview mit Isabelle Schad
+
+----
+
+Featured: true
+
+----
+
+Author: Christine Matschke für Offensive Tanz für junges Publikum
+
+----
+
+Date: 2021-09-14
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Isabelle, Du hast eine besondere Vorliebe f\u00fcr Materialien. Seit \u201eUnturtled #1\u201c (2010) arbeitest Du mit weiten Kleidungsst\u00fccken und langen Stoffbahnen. F\u00fcr \u201eDer Bau \u2013 Gruppe\u201c (2014), von dem es mittlerweile auch zwei Kinderadaptionen gibt, hast Du Sitzs\u00e4cke benutzt.</strong> <strong>In \u201eHarvest\u201c, Deiner ersten Produktion f\u00fcr junges Publikum, tanzen die Performer*innen mit Weidenzweigen. Wie ist es dazu gekommen?</strong>",
+        "id": "_MwPdxPxRB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ich habe nach einem nat\u00fcrlichem Material gesucht, das man recyceln und mit dem man nachhaltig arbeiten kann. Also nach etwas, das in gewisser Weise lebendig bleibt. Als wir die gro\u00dfe Weide im Garten der Wiesenburg heruntergeschnitten haben, war das faszinierend. Es entsteht von ganz allein eine sch\u00f6ne Proportionalit\u00e4t: wie viele lange gro\u00dfe \u00c4ste es dann gibt und wie viele mittlerer L\u00e4nge entstehen, die peitschenartiger und biegsamer sind, und wie viele kleine Zweige dann noch bleiben. Die Mengenverh\u00e4ltnisse waren von der Natur quasi \"vorstrukturiert\". Wir haben dann alles nach Gr\u00f6\u00dfen sortiert und geb\u00fcndelt wie bei einer Ernte. Dieses ganze Handling des Materials, damit umzugehen, sich Zeit zu lassen, das war ein wichtiger Faktor f\u00fcr die Arbeit.",
+        "id": "_z7I2SFHZn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Welchen Einfluss hatte das Weidenmaterial dabei auf Eure Bewegungen bzw. welche Bewegungen habt Ihr gefunden, um mit diesem f\u00fcr Euch noch neuen Material tanzen zu k\u00f6nnen?</strong>",
+        "id": "_PapvYRFoI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vielfach ging es darum, wie man diese B\u00fcndel transportieren, wie man sie greifen kann. Welche Ger\u00e4usche sie erzeugen und wie biegsam sie sind. Die Eigenschaften der Zweige ver\u00e4ndern sich im Lauf der Zeit. Sie werden trockener und br\u00fcchiger oder auch wieder biegsamer, wenn man sie in den Regen stellt. Ich arbeite lange im Voraus mit Recherchen, ohne Druck, damit ich solche Prozesse verfolgen kann.",
+        "id": "_4LDz6IphL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Die Weidenzweige sind zum Teil recht lang. Mit welchen Ausma\u00dfen habt Ihr es da zu tun und wie bew\u00e4ltigt Ihr diese beim Tanzen?</strong>",
+        "id": "_VAUYRJV8z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die l\u00e4ngsten Weidenzweige passen gerade in die Breite der Tanzhalle Wiesenburg, sind also sechs Meter lang. In der gemeinsamen Bewegung mit den Zweigen geht es viel um Gewichtsverlagerung und darum, zu sp\u00fcren, wo der eigene Schwerpunkt im K\u00f6rper ist, um dann beim Greifen den Schwerpunkt unter oder hinter die Hand zu bringen. Wenn man sie sich gut platziert, stimmt die Balance. Wir haben in der Zeit regelm\u00e4\u00dfig Aikido-Stocktraining gemacht. Und das hat viel zum Verst\u00e4ndnis im Umgang mit den Weiden beigetragen.",
+        "id": "_S11ZbM5WG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>In einem k\u00fcrzlich von Dir verfassten Essay erw\u00e4hnst Du, dass Du beim Arbeiten nichts von st\u00e4ndigem Produzieren und Neukreieren h\u00e4ltst. Daf\u00fcr spricht auch, dass Du in Deinen St\u00fccken gerne Bewegungssequenzen wiederholst wie etwa in \u201eTurning Solo\u201c und \u201eDouble Portr\u00e4t\u201c (2017). Hast Du im Laufe der Jahre f\u00fcr Dich so eine Art Arbeitsphilosophie gefunden und wie w\u00fcrdest Du diese beschreiben?</strong>",
+        "id": "_k1DkxJIur",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ich habe auf jeden Fall etwas, das methodisch angelegt ist und sich durch die Jahre durchzieht. Dazu geh\u00f6rt die Kontinuit\u00e4t im Trainingsansatz und in der Bewegungslehre, die bei mir durch somatische Praxen beeinflusst ist und durch mein t\u00e4gliches Aikido-Training. Die andere Achse ist die Frage danach, wie etwas sichtbar gemacht wird: wie verliert es sich nicht einfach im Raum oder in t\u00e4nzerischen Abl\u00e4ufen, sondern wie wird etwas ganz pr\u00e4zise im Raum skulptural \u2013 auf eine nat\u00fcrliche Art und Weise, durch Beobachtung von Bewegungsprozessen. Dabei geht es weniger um ein konkretes, willentliches Schauen als um ein ganzheitliches und intuitives, das man in ein eigenes Erkennen einordnen kann und das einem erm\u00f6glicht, immer wieder auch Neues zu entdecken. Ich habe auf jeden Fall etwas, das methodisch angelegt ist und sich durch die Jahre durchzieht. Dazu geh\u00f6rt die Kontinuit\u00e4t im Trainingsansatz und in der Bewegungslehre, die bei mir durch somatische Praxen beeinflusst ist und durch mein t\u00e4gliches Aikido-Training. Die andere Achse ist die Frage danach, wie etwas sichtbar gemacht wird: wie verliert es sich nicht einfach im Raum oder in t\u00e4nzerischen Abl\u00e4ufen, sondern wie wird etwas ganz pr\u00e4zise im Raum skulptural \u2013 auf eine nat\u00fcrliche Art und Weise, durch Beobachtung von Bewegungsprozessen. Dabei geht es weniger um ein konkretes, willentliches Schauen als um ein ganzheitliches und intuitives, das man in ein eigenes Erkennen einordnen kann und das einem erm\u00f6glicht, immer wieder auch Neues zu entdecken. Ich habe auf jeden Fall etwas, das methodisch angelegt ist und sich durch die Jahre durchzieht. Dazu geh\u00f6rt die Kontinuit\u00e4t im Trainingsansatz und in der Bewegungslehre, die bei mir durch somatische Praxen beeinflusst ist und durch mein t\u00e4gliches Aikido-Training. Die andere Achse ist die Frage danach, wie etwas sichtbar gemacht wird: wie verliert es sich nicht einfach im Raum oder in t\u00e4nzerischen Abl\u00e4ufen, sondern wie wird etwas ganz pr\u00e4zise im Raum skulptural \u2013 auf eine nat\u00fcrliche Art und Weise, durch Beobachtung von Bewegungsprozessen. Dabei geht es weniger um ein konkretes, willentliches Schauen als um ein ganzheitliches und intuitives, das man in ein eigenes Erkennen einordnen kann und das einem erm\u00f6glicht, immer wieder auch Neues zu entdecken.",
+        "id": "_2SXBPmuiG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Auf typische direkte Interaktion zwischen Performer*innen und Zuschauenden wie man es aus dem Kindertheater kennt, verzichtest Du in Deiner Arbeit f\u00fcr junges Publikum. Was besch\u00e4ftigt Dich, wenn Du f\u00fcr Kinder choreografierst?</strong>",
+        "id": "_lr6nNvpYt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir sprechen die Kinder nicht direkt an, das ist richtig. Andererseits war es schon Thema f\u00fcr uns, mit Blicken zu arbeiten und zu schauen, wie es ist, sich \u00fcber die Kinder zu spiegeln. Wahrscheinlich geht es bei einem kindlichen Publikum darum, nicht selektiv auf es zuzugehen, sondern bei sich zu bleiben und den Raum und die Kinder als Ganzes wahrzunehmen.",
+        "id": "_vuHQEeMYe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist ganz viel Arbeit an der eigenen Erwartungshaltung. F\u00fcr kleine Kinder ist alles gleich wichtig. Wenn sie w\u00e4hrend der Vorstellung abhauen und spielen und dann zur\u00fcckkehren, hei\u00dft das nicht, dass das was auf der B\u00fchne geschieht, langweilig ist. Damit muss man erst einmal umgehen. Denn von erwachsenen Zuschauer*innen sind wir das nicht gewohnt",
+        "id": "_HpXU02fhk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gehst Du anders an ein St\u00fcck heran, wenn Du f\u00fcr Kinder choreografierst?</strong>",
+        "id": "_6RfddTaB7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ganz wichtig war mir, nicht explizit etwas f\u00fcr Kinder zu machen. Was nicht ganz einfach ist, denn es ist ja eine Auftragsarbeit f\u00fcr Kinder ab drei Jahren. Es war also eine permanente Auseinandersetzung. Ich habe immer wieder beobachtet, wo ich mich zu sehr auf die Kinder ausrichte. Man macht dann gerne etwas Didaktisches oder geht zu verkopft an das Ganze heran, eben zu gewollt. Ich versuche, die Kinder auf dem Schirm zu haben, aber mich da nicht zu sehr einzuengen.",
+        "id": "_wJkNmKYb3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>In Deinen Gruppenst\u00fccken bleiben alle T\u00e4nzer*innen Individuen. Auch wenn sie dieselben Bewegungen vollf\u00fchren, schimmert immer etwas pers\u00f6nliches hindurch \u2013 ohne dass ihre Gesichter besonders pr\u00e4sent w\u00e4ren oder dass Du hier Charaktere hervorkehren w\u00fcrdest. Man erlebt sie in ihrer Gesamtheit, als ganze K\u00f6rper und aus einer gewissen nat\u00fcrlichen Zur\u00fcckhaltung heraus.</strong>",
+        "id": "_2DaC5B5YK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das ist genau der Punkt. Ich m\u00f6chte, dass jeder \u00fcber die Arbeit an der Bewegung so weit wie m\u00f6glich, er bzw. sie selbst sein, und auch bei sich sein kann. Ich reagiere relativ allergisch darauf, Dinge zu bespielen oder etwas \"draufzusetzen\". Wenn sich jemand freut, kommt ein L\u00e4cheln oder Lachen zum Vorschein, aus einer inneren Regung oder einer lustigen Situation heraus. Authentizit\u00e4t als etwas, das in der Bewegung verankert ist, spielt f\u00fcr mich eine wichtige Rolle. Mir ist es wichtig, nichts f\u00fcr das Au\u00dfen zu machen und f\u00fcr die Form. Deswegen versuche ich die Abl\u00e4ufe auch immer recht schnell am Anfang im Prozess zu finden, um damit lange genug und vielschichtig arbeiten zu k\u00f6nnen. Denn je mehr diese aus dem Kopf sind, weil sie oftmals durchlaufen und automatisiert wurden, desto mehr hat jeder Einzelne die M\u00f6glichkeit, im Tun und im Sein zu sein und die Form zu verlassen.",
+        "id": "_7hjR0eJN3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+harvest-interview-isabelle-schad/files/isabelleschad4_46ba.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/harvest-interview-isabelle-schad/3498653366-1631615611/isabelleschad4_46ba.jpg",
+            "id": "articles/harvest-interview-isabelle-schad/isabelleschad4_46ba.jpg",
+            "ratio": 1.1999999999999999555910790149937383830547332763671875,
+            "caption": "Isabelle Schad, \u00a9 Bettina St\u00f6ss"
+        },
+        "content": "",
+        "id": "_kuygdyaey",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Die Tanzerin und Choreografn Isabelle Schad studierte zunachst Ballett an der John Cranko Schule in Stuttgart. Nach sechs Jahren in klassischen Ensembles wechselte sie in zeitgenossische Kompanien, u. a. nach Brussel zu Wim Vandekeybus. Ab 1999 initiierte sie eigene Projekte. Im Zentrum ihrer Arbeit stehen der Korper in seiner Materialitat, Prozesshaftigkeit und Erfahrbarkeit, aber auch das Verhaltnis zwischen Korper, Choreografe und (Re-)Pr\u00e4sentation sowie die Themen Gemeinschaftsbildung und politisches Engagement.",
+        "id": "_8rm2n3f0y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_Y5pC0fueo",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

@@ -1,0 +1,182 @@
+Title: Race - Class - Gender. Intersectional Perspectives in Dance and Theater for the Youngest
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Symposium
+
+----
+
+Author: Theater o.N. and Offensive Tanz
+
+----
+
+Date: 2020-10-23
+
+----
+
+Time: 18:00
+
+----
+
+Duration: 02:00
+
+----
+
+Location: Different venues & online (see full schedule below)
+
+----
+
+Tickets: theater-on@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-10-24
+  zeit: 20:00
+- 
+  datum: 2020-10-25
+  zeit: 11:00
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "From October 23 to 27 and from November 6 to 9, the festival FRATZ International and the symposium on representations of race, class and gender in dance and theater for young audiences of Theater o.N. and Offensive Dance, originally planned for April 2020, will finally take place.",
+        "id": "_7U7IpZVQL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "At this year's symposium we will ask ourselves: How are race, class and gender represented - on stage, in the contents and the educational formats for (very) young children? Do we reproduce existing power structures by trying to break them up? How do dance and theater succeed at eye level? Among others, three FRATZ research laboratories from Berlin, Cape Town and Lagos as well as the FRATZ Atelier of Milla Koistinen, Paul Valikoski and Ladislav Zajac will present their work. On the podiums Joshua Alabi, Nora Amin, Shelley Etkin, Malgven Gerbes, Thalia Laric, Isabelle Schad, Iury Salustiano Trojaborg, Marie Yan and many more will discuss and speak.",
+        "id": "_umGPEhtA1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Participation is possible on site, but most events can also be attended online via zoom.",
+        "id": "_DpAjgScOo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For the productions as well as for the symposium on site, seat capacities are limited - so get in touch quickly!",
+        "id": "_6EO8poMFn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>PROGRAM</strong>",
+        "id": "_aqagzpa59",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Friday, October 23, 2020</strong>",
+        "id": "_K5JjvYxDF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>6 - 8 pm</strong><br><strong>Opening FRATZ International - Festival and Symposium</strong><br>Tanzhalle Wiesenburg, Wedding &amp; Online<br><em>Welcome by Theater o.N. and Offensive Tanz f\u00fcr junges Publikum </em><br><em>Impulse lecture on intersectionality</em><br><em>Artists of this year's festival in conversation: Perspectives on intersectionality and performing arts for (very) young audiences</em><br><em>With Josuha Alabi, Nora Amin, Shelley Etkin, Thalia Laric, Iury Salustiano Trojaborg, Marie Yan</em>",
+        "id": "_sy5wb6aRG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Saturday, October 24, 2020</strong>",
+        "id": "_OK10JclQk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>8 - 10 pm</strong><br><strong>Small, but Mighty! Choreographers about the work for (very) young audiences</strong><br>Tanzhalle Wiesenburg, Wedding &amp; Online<br><em>With choreographers from the projects FRATZ and Offensive Tanz f\u00fcr junges Publikum: Florian Bilbao, Malgven Gerbes, shifts - art in movement, Jasmin \u0130hra\u00e7, Milla Koistinen, Isabelle Schad.</em>",
+        "id": "_hqDPw8w5s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Sunday, October 25, 2020</strong>",
+        "id": "_2KtRN9zm1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>11 - 11:30 am</strong><br><strong>Laboratory presentation: The Superpowers of the so far not-celebrated Super-heroines</strong><br><strong>12 - 13 pm</strong><br><strong>Exchange</strong><br>Podewil (Saal), Mitte &amp; Online<br><em>Caroline Alves (BR), Mareike Jung (DE) and Iury Salustiano Trojaborg (BR/DK/DE) search for new role models in a non-binary world under the title The Superpowers of the so far not-celebrated Super-heroines.</em><br><em>Exchange with the artists of the research laboratory and the dramaturg Marie Yan.</em>",
+        "id": "_lZe6eZwgG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2 - 2:30 pm</strong><br><strong>CAN TOUCH THIS [Some of us] from performing:group</strong><br>Outside near Podewil",
+        "id": "_ncssxZuLw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2 - 7 pm (40-minute individual slots each)</strong><br><strong>Landing sessions with Shelley Etkin</strong><br>Podewil (Studio 3), Mitte<br><em>A journey of the body to the lands of our heritage, imagination and present</em>",
+        "id": "_tS00eI9s0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>8 - 10 pm</strong><br><strong>Podium: Touching Utopia: Learning and Teaching New Relations</strong><br>Podewil (Saal), Mitte &amp; Online<br><em>In this panel discussion, the FRATZ Symposium brings together the founders of several local initiatives that have set themselves the goal of creating real spaces of change within a certain area: a kindergarten, a neighbourhood, ...</em><br><em>With among others Tebogo Nimind\u00e9-Dundadengar (Tebalou - online store for more variety in the children's room, <a href=\"https://nl.kulturkurier.de/goto?clientId=89&amp;listId=1346&amp;newsletterId=71255&amp;sendingId=83890&amp;trackingUrlId=387475\">www.tebalou.shop</a>)</em><br><em>Moderation: Marie Yan and Vera Strobel</em>",
+        "id": "_mPsqlXdv5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_zrj36q0l1",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>The symposium race - class - gender: intersectional perspectives in dance and theater for the youngest</strong> is a project of the Offensive Tanz f\u00fcr junges Publikum Berlin and FRATZ International.",
+        "id": "_ohdqthbvr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>FRATZ International is organized by Theater o.N. In cooperation with GRIPS Theater Berlin and Kulturprojekte Berlin. With friendly support of: Familienzentrum Adalbertstra\u00dfe (Kreuzberg), Podewil (Mitte), Wiesenburg Halle (Wedding).",
+        "id": "_4td4qpsph",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Supported by the State of Berlin - Senate Department for Culture and Europe as part of the support for festivals relevant to urban policy 2020 to 2023 | The \"Offensive Tanz f\u00fcr junges Publikum Berlin\" is supported by TANZPAKT Stadt-Land-Bund with funds from the Federal Government Commissioner for Culture and Media and co-financed by funds from the State of Berlin - Senate Department for Culture and Europe. | With the kind support of the Institut fran\u00e7ais and the French Ministry of Culture / DGCA within the framework of Objets &amp; Marionnettes Focus 2020.",
+        "id": "_llpxtujg4",
+        "type": "paragraph"
+    }
+]

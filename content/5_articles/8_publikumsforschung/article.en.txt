@@ -1,0 +1,368 @@
+Title: Outcome Audience Research
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Evaluation and Summary
+
+----
+
+Featured: true
+
+----
+
+Author: PURPLE – International Dance Festival for a Young Audience
+
+----
+
+Date: 2021-02-26
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "On behalf of the Offensive Tanz f\u00fcr junges Publikum, the PURPLE Dance Festival conducted several surveys throughout 2020 to gain in-depth insights into how the art form of dance can reach and inspire even more young people in the future. To this end, two different questionnaires were created. One was aimed specifically at children and young people, the other at teachers, educators and parents. Both surveys were, of course, treated anonymously.",
+        "id": "_drljxHxni",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+publikumsforschung/files/oft_bsp1.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/publikumsforschung/-363714471-1614338933/oft_bsp1.jpg",
+            "id": "articles/publikumsforschung/oft_bsp1.jpg",
+            "ratio": 1.1360544217687074119993440035614185035228729248046875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_7362u4oq7",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "The following subprojects were carried out in 2020:",
+        "id": "_5eyoot7y1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>A </strong>Survey of children and adolescents (individual interviews and online survey)",
+        "id": "_749k8i5U3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>B </strong>Multipliers: Parents, teachers, educators (online survey)",
+        "id": "_wgkcvjnp3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>C </strong>Visitors of the PURPLE dance festival (foyer survey)",
+        "id": "_6clgot6sm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><u>1. Survey of children and adolescents (interviews and online survey)</u></strong>",
+        "id": "_1a5ryqqus",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Target groups: Children and teenagers<br>Duration: 19.01.2020 until 31.12.2020<br>Number of participants: 7 + 45 = 52",
+        "id": "_3wa7335ir",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Goals of survey</strong>",
+        "id": "_fnXl1Pelt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Identify cultural preferences and culture usage patterns",
+        "id": "_PEK1y9C3a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Cultural consumption in social and digital media",
+        "id": "_GrO9yfKak",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Aesthetic and content preferences as well as viewing habits in relation to the art form of dance.",
+        "id": "_QhlqLpOLn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Perception and classification of the art form contemporary dance",
+        "id": "_fAGds9HUd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Localization of the art form of contemporary dance in the areas of school &amp; recreation",
+        "id": "_KlDaMGW9h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Key findings</strong>",
+        "id": "_YJl5TKwL3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf All respondents who had already been to a dance performance (83%) said they would or would want to attend a performance of this art form again.",
+        "id": "_8tyysBare",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf 85% of respondents, including those who had not yet attended a performance, would like to see a professional performance at or in their school.",
+        "id": "_k2qfwpbfn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Contemporary dance performances are on a par with museums in terms of cultural consumption for a total of seven cultural categories listed. However, cinemas and concerts/musicals are cited most frequently.",
+        "id": "_xRxKOcLCt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Many young people cannot classify contemporary dance as an art form or have misleading associations that hinder engagement.",
+        "id": "_ocLvTai9V",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf The art form of dance is often equated with self-dancing or classical forms such as ballet, which is not considered \"cool\" in certain social contexts. The associations usually change after more intensive occupation/examination.",
+        "id": "_zgAhwouRY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Street dance and its sub-forms enjoy great popularity. Contemporary dance takes second place out of five dance styles offered in this evaluation.",
+        "id": "_9VeFeJY3E",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf With regard to the content of the performances, narrative and humorous as well as topics related to the areas of life are preferred. Artistic and abstract themes are also desired.",
+        "id": "_IEsHP5M6f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Recommendations from one's own environment are considered the main criterion for attending cultural events.",
+        "id": "_lcCM8eJFv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Social media does not effectively reach the target audience when advertising offers. However, young people frequently consume short dance videos on channels such as YouTube, Instagram, and Tiktok.",
+        "id": "_ZN26H8CET",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Derived recommendations for action</strong>",
+        "id": "_Hrs6l4RGd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Direct communication and a continuous exchange at eye level with the young people are needed to create access, arouse interest and break down the above-mentioned barriers. Forms of peer-to-peer communication seem to be the most successful. New formats must be developed for this purpose.",
+        "id": "_6xUeyoBmr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf A built or strengthened bond with the institutions or the art form of contemporary dance is necessary for young people to follow the activities independently (also in social media).",
+        "id": "_wH1IoTdsJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf There is a high level of interest in artistic and dance elements in social media. The formats familiar to young people on these platforms, such as short (15 to 60 sec.) \"teaser\" videos, \"challenges\" or calls for their own artistic production, could be used to introduce them to the aesthetics and themes.",
+        "id": "_KdXTULIb3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+publikumsforschung/files/collage2d.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/publikumsforschung/-480063312-1614339167/collage2d.jpg",
+            "id": "articles/publikumsforschung/collage2d.jpg",
+            "ratio": 2.01694915254237283619431764236651360988616943359375,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ktpeh16u6",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><u>2. Survey of multipliers (online survey)</u></strong>",
+        "id": "_hmPCWULYK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Target groups: Parents, educators &amp; teachers",
+        "id": "_76wkih0yb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Duration: 19.01.2020 to 31.12.2020",
+        "id": "_q37q3d8k6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Number of participants: 148",
+        "id": "_q1a7mpn73",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Goals of survey</strong>",
+        "id": "_7pGriKyet",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Identification of cultural preferences and culture usage behavior (with children / students)",
+        "id": "_izMqu5kOL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Factors &amp; decision-making processes for the selection of cultural offerings.",
+        "id": "_WjD90utbm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Reach and use of different communication channels",
+        "id": "_Ylb8FnLyx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Perception &amp; Classification of the Art Form Contemporary Dance",
+        "id": "_gEGXMohH4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Identifying content and aesthetic preferences in dance consumption.",
+        "id": "_qwfO56UBZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Localization of the art form of contemporary dance in the areas of school &amp; recreation",
+        "id": "_uOzqERcxs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Identify relevance of arts education in school &amp; leisure settings.",
+        "id": "_v13krtm13",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Key findings</strong>",
+        "id": "_jg1u5icFD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Attending contemporary dance performances with children is in the upper middle range in terms of cultural use. Museums/exhibitions, theater performances and concerts are most frequently attended.",
+        "id": "_5ApQgmb0P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf The most important decision-making criteria for cultural events are children's interest, the themes of the performances, previous experience and ticket prices.",
+        "id": "_0jKECbjbX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Recommendations from the private and professional environment are the most important communication channels for cultural events. Classic channels such as newsletters and flyers / posters are also frequently used. Less relevant seem to be event magazines and portals as well as advertisements in social media.",
+        "id": "_TYwhHiiV8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Almost all respondents found attending dance performances enriching for themselves and the children, would recommend them to others, and would attend again.",
+        "id": "_vpMCWN2bT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Greater proximity to children and youth, more information about events, and more outreach formats and pre- and post-performance information would encourage more frequent attendance at contemporary dance performances.",
+        "id": "_HTe6XEbSd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Topics around young people's lives, narrative elements, and content related to diversity, as well as instructional topics among teachers are desired.",
+        "id": "_V8ItDa0Jc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Almost all respondents would like to see dance performances at the school and consider this possible.",
+        "id": "_Mz4qvusaj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Cultural education and development of children and young people promoted by dance enjoy a high relevance.",
+        "id": "_REAir7trx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Derived recommendations for action</strong>",
+        "id": "_4Y8zqQ5D7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf The frequency of attendance at dance performances does not correlate with the extremely positive evaluation of the art form. It must be (better) established as part of the school repertoire in the field of cultural education. For this purpose, more information and exchange processes with actors from the educational sector and parents' representatives can be offered continuously for the purpose of relationship building, in order to also promote a culture of recommendation and to constitute contemporary dance in schools as an integral part of cultural education.",
+        "id": "_QNQb3LZ4b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf The multipliers usually have little experience in dealing (with children and) the art form. Regular training and workshops should be offered to enable access, communication with children and integration into the curriculum.",
+        "id": "_MtDfoCrcp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u25cf Similar to \"classroom plays\" in theater, it should also be possible in dance to offer performances in schools, and new collaborations with schools are needed for this.",
+        "id": "_7IoieQHhf",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

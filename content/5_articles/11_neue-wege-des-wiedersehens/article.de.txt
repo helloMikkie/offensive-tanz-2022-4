@@ -1,0 +1,122 @@
+Title: Neue Arten des Wiedersehens
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Ausblick der Offensive Tanz
+
+----
+
+Featured: true
+
+----
+
+Author: Elisabeth Leopold für die Offensive Tanz
+
+----
+
+Date: 2020-08-30
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Neue Arten des Wiedersehens</strong>",
+        "id": "_8uqu6mf8o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mit dem nahenden Herbst und den neuen Spielpl\u00e4nen der vier Partner-Institutionen, geht die <em>Offensive Tanz f\u00fcr junges Publikum</em> in die zweite Runde ihres Bestehens und gibt uns, mit R\u00fcckblick auf ihre Mission, einen Ausblick auf das, was kommt.",
+        "id": "_yQ1qdcHAC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die <em>Offensive Tanz </em>sieht sich als prozessorientierte Initiative, die die Pr\u00e4senz des zeitgen\u00f6ssischen Tanzes f\u00fcr ein junges Publikum nachhaltig st\u00e4rken will.",
+        "id": "_E0Q2hcnz1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dieses Vorhaben birgt den Wunsch nach gr\u00f6\u00dferer Teilhabe von Menschen aus verschiedensten Kontexten und mit unterschiedlichsten Erfahrungshorizonten in Bezug auf die Kunstform Tanz. Um diesen Wunsch Realit\u00e4t werden zu lassen, sind innovative und experimentierfreudige Herangehensweisen notwendig, die die Aufmerksamkeit eines diversen Publikums gewinnen und Ber\u00fchrungs\u00e4ngste abbauen.",
+        "id": "_vjG4uAK5U",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die <em>Offensive Tanz</em> hat es sich vor diesem Hintergrund zur Aufgabe gemacht, neue Orte f\u00fcr Begegnungen mit Tanz zu schaffen. Begegnungen au\u00dferhalb der gewohnten Theaterr\u00e4ume, an Orten, wo Menschen in ihrem Alltag mit Tanz konfrontiert und positiv \u00fcberrascht werden k\u00f6nnen. Trotz m\u00f6glicher Ber\u00fchrungs\u00e4ngste sollen diese Begegnungen, Momente der Zugeh\u00f6rigkeit schaffen. Performances, H\u00fcpfburg-Choreografien, oder Spielplatz Guerillas \u2013 all das wird in Zukunft unter dem Label \u201eRaus Gehen\u201c stattfinden und Orte wie Schulen, Spielpl\u00e4tze, \u00f6ffentliche Pl\u00e4tze und Parks, Jugend- und Einkaufszentren zu Orten des Tanzes machen. Sollten sich dort nicht direkt junge Zuschauer*innen aufsp\u00fcren lassen, so doch Multiplikator*innen wie Familien, Verwandte und/oder P\u00e4dagog*innen. Der Tanz bekommt ein \u00f6ffentlich wirksames Gesicht und bewegt sich aus der Szenen-Blase seines Kunst-Kontextes heraus. Zu den offensiven Tanzaktionen z\u00e4hlen dar\u00fcber hinaus die Fort- und Weiterbildungen f\u00fcr Lehrer*innen.*",
+        "id": "_JJiHpaVSS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201eWir haben festgestellt, dass wir gerade im aktuellen Ausnahmezustand, den die Pandemie mit sich bringt, nach neuen Wegen jenseits von Auff\u00fchrungen auf der B\u00fchne suchen und somit offensiv handeln und unserem Namen gerecht werden m\u00fcssen.\u201c",
+        "id": "_jp5j5upbq",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "(Canan Erek / Projektleitung)",
+        "id": "_8w1yqv75t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Durch die Pandemie hat sich programmatisch vieles f\u00fcr die <em>Offensive Tanz </em>ge\u00e4ndert, einige Produktionen sind verschoben, werden digital \u00fcbertragen oder in abgewandelter Form neu konzipiert. So auch die Produktion \u201eCan touch this\u201c von <em>Offensive Tanz </em>Partner Theater Strahl in Kooperation mit der performing : group aus K\u00f6ln. Die Gruppe erarbeitet nun eine neue Kurz-Version des Tanzst\u00fcckes, das schlie\u00dflich im \u00f6ffentlichen Raum aufgef\u00fchrt wird. Von der urspr\u00fcnglichen Besetzung werden sich zwei der Performer*innen mit zwei Neu-Einsteiger*innen \u00fcber die Videokonferenz-Plattform \u201cZoom\u201d treffen und auf diese Weise ausschlie\u00dflich digital proben. So begegnen sich jeweils eine/r der \u201ealten\u201c Performer*innen und eine/r der Neu-Einsteiger*innen zum ersten Mal im realen Raum, wenn auch das Publikum dabei ist \u2013 dadurch wird der Live-Moment umso intensiver.*",
+        "id": "_C389eB2iz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "F\u00fcr Teilhabe und Inklusion braucht es dar\u00fcber hinaus die Anerkennung anderer Perspektiven und einen respektvollen Umgang mit Diffserenzen. Durch den Zusammenschluss der verschiedenen Erfahrungen, Expertisen und Ressourcen ihrer Partner*innen, tr\u00e4gt die <em>Offensive Tanz </em>dieses Prinzip seit dem Projektstart zu Beginn dieses Jahres in sich und macht den Netzwerk-Gedanken zum Leitmotiv ihrer Arbeit.",
+        "id": "_3WREjaWbu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die gegenw\u00e4rtigen Geschehnisse sind einerseits von Distanz und R\u00fcckzug w\u00e4hrend der Pandemie gepr\u00e4gt. Andererseits erleben wir zur gleichen Zeit vermehrt Diskriminierung und Exklusion, was Solidarit\u00e4ts-Bewegungen wie \u201eBlackLivesMatter\u201c weltweit erstarken l\u00e4sst. Eine positive Haltung gegen\u00fcber Vielf\u00e4ltigkeit, die Unterschiede bewahrt und Begegnungen auf Augenh\u00f6he schafft, bekommt vor diesem Hintergrund eine besondere Dringlichkeit.",
+        "id": "_9M8ghWwAy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Programm der O<em>ffensive Tanz</em> werden die Themen Diversit\u00e4t und Gleichberechtigung daher intensiv behandelt \u2013 sei es auf konzeptuell-kuratorische, k\u00fcnstlerische, tanzp\u00e4dagogische oder vermittelnde Weise. Denn der kreative Umgang mit K\u00f6rperlichkeit abseits von normativen Vorgaben, das Aufbrechen von festgelegtem Vokabular oder Formen, sowie kollektive Arbeitsweisen charakterisieren den zeitgen\u00f6ssischen Tanz, der somit eine ideale Vermittlungsfunktion f\u00fcr Offenheit und Diversit\u00e4t \u00fcbernimmt.",
+        "id": "_Y5naY04qR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Au\u00dferdem geh\u00f6rt die Auseinandersetzung mit Themen wie rassistischen Strategien in der Geschichte der Tanzp\u00e4dagogik zum Programm der <em>Offensive Tanz</em>. So startet das Herbstprogramm mit dem nachgeholten Fachtag \u201eTanz und Rassismus \u2013 The Other Body\u201c. Fortgef\u00fchrt wird der Diskurs zur Vielf\u00e4ltigkeit im Tanz zudem im Rahmen zweier Symposien. Das erste findet unter dem Titel \"Internationalit\u00e4t und Diversit\u00e4t im Tanz f\u00fcr junges Publikum\" zusammen mit dem Festival FRATZ International statt.* Nach dem Jahreswechsel geht es weiter mit der Premiere von \u201eA Human Race\u201c im Rahmen von PURPLE, dem Internationalen Tanzfestival f\u00fcr junges Publikum.",
+        "id": "_U2bP6d1vQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Diese Formate dienen dazu, Br\u00fccken zu bauen und eine lebendige Plattform f\u00fcr Austausch zwischen Fachpublikum, jungem Publikum und K\u00fcnstler*innen zu schaffen.",
+        "id": "_Q2KM3lMid",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Diese ideellen und durchaus herausfordernden Ziele werden von der <em>Offensive Tanz f\u00fcr junges Publikum </em>mit mutigen und offensiven Schritten angegangen. Sie bieten zahlreiche M\u00f6glichkeiten der Teilhabe und Vernetzung und f\u00fcr neue Arten des Wiedersehens, sei es f\u00fcr die Berliner Tanzschaffenden, das junge Publikum, f\u00fcr Tanzinteressierte oder erst noch zu Begeisternde.",
+        "id": "_NuG2XYOv9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>*N\u00e4here Informationen und Termine zu den einzelnen Veranstaltungen finden sich auf der Website unter der Rubrik Programm.</em>",
+        "id": "_bgd0dB6Ne",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

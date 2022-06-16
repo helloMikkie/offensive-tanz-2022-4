@@ -1,0 +1,108 @@
+Title: Tanz sehen
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Workshop for everybody
+
+----
+
+Author: Amelie Mallmann
+
+----
+
+Date: 2022-04-09
+
+----
+
+Time: 15:00
+
+----
+
+Duration: 01:00
+
+----
+
+Location: TANZKOMPLIZEN im Podewil
+
+----
+
+Tickets: 
+
+----
+
+Age: 6
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "\"Seeing Dance\" is a new, free format that TANZKOMPLIZEN is developing in cooperation with Offensive Tanz. It is aimed at anyone who wants to know and understand more about the creation of dance pieces.",
+        "id": "_fazn8oyd5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The audience meets with dance mediator Amelie Mallmann before a performance to first playfully get to know the theme of the piece and then divide into specialist groups. Each group gets a special focus or assignment, e.g. to pay attention to the stage design or the sound. The goal is to sharpen the perception and to broaden the view for the interaction of different theatrical means. After the performance, the group meets again to evaluate all observations.",
+        "id": "_phQv7pjFF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>The first date is on 9.4. at 3 p.m., one hour before the start of the play F\u00dcREINANDER GEMACHT.</strong>",
+        "id": "_9nmwk8IDz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This play is about Flora. She is lonely. So she plants her friends like flowers on her own piece of land. But what now? Does she now have to raise these fresh people like children? Can she determine how they behave, what they feel like - that they like her? What happens if they suddenly want to become independent?",
+        "id": "_wJD9cxm4R",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In his piece, Australian choreographer Grayson Millwood places special emphasis on sound effects, creating a magical fantasy world that raises many an eerie question.",
+        "id": "_2YfT966se",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br>",
+        "id": "_IfISp0C1C",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

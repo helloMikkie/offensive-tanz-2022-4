@@ -1,0 +1,69 @@
+Title: Aikido-Workshop mit Isabelle Schad im Park Humboldthain
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Workshop
+
+----
+
+Author: Isabelle Schad
+
+----
+
+Date: 2022-05-11
+
+----
+
+End-date: 2022-05-04
+
+----
+
+Time: 12:30:00
+
+----
+
+Duration: 01:30:00
+
+----
+
+Location: Park Humboldthain, Treffpunkt: Tanzhalle Wiesenburg um 12:15
+
+----
+
+Tickets: accreditation@fratz-festival.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>F\u00fcr Anf\u00e4nger, Interessierte und Fortgeschrittene: Einblick in die t\u00e4nzerische Praxis mit Mitteln des Aikido und somatischer Praktiken.<\/p>"},"id":"f377eb3a-d8d5-4eec-841a-8fe7d2ce2ca2","isHidden":false,"type":"text"},{"content":{"text":"<p>Als die Choreografin Isabelle Schad die Einladung des Theater o.N. erhielt, eine Arbeit f\u00fcr ein ganz junges Publikum zu kreieren, dachte sie sofort daran, ein Material zu suchen, mit dem sie und die T\u00e4nzer:innen sich besch\u00e4ftigen k\u00f6nnen und kam sehr schnell auf die eigene Ernte von <strong>Weidenst\u00e4ben aus dem Garten der Wiesenburg<\/strong>, wo sie ihren eigenen Arbeitsort, die Tanzhalle, aufgebaut hat.<\/p>"},"id":"85572b81-69af-451d-b5f2-ed4abf7b6d13","isHidden":false,"type":"text"},{"content":{"text":"<p>Isabelle beschreibt <a href=\"https:\/\/www.tanzraumberlin.de\/magazin\/artikel\/sinnliches-spielmaterial\/\">in einem Essay<\/a>, dass sie bei der Arbeit f\u00fcr ein junges Publikum ihre Herangehensweise gar nicht \u00e4ndern musste. Die Aspekte von <strong>energetisch-kraftvollen Bewegungen<\/strong>, die aus dem t\u00e4glichen gemeinsamen Training heraus wachsen, die visuellen und auditiven Aspekte, das Verh\u00e4ltnis von Selbst\/Welt blieben im Fokus.<\/p>"},"id":"2b2ef883-00ad-4f1e-8039-02b95cb6a22e","isHidden":false,"type":"text"},{"content":{"text":"<p>Sehr pr\u00e4zise arbeiten die T\u00e4nzer:innen mit dem Material. Die gr\u00f6\u00dften St\u00e4be passen gerade so eben in die Breite der Tanzhalle. Wenn sie auf dem Handballen in Einklang mit dem eigenen K\u00f6rperschwerpunkt balanciert werden, entsteht eine faszinierende Dynamik und Konzentration im Raum, die auf ein Publikum jeden Alters \u00fcberspringt. Es sp\u00fcrt die Intensit\u00e4t und Ausdauer, die die K\u00fcnstler:innen investiert haben, um eine <strong>Beziehung zu ihrem Material <\/strong>aufzubauen, was wiederum ein Eigenleben auf der B\u00fchne entwickelt.<\/p>"},"id":"f4bcc9cf-6905-484f-9245-9594c0bc51eb","isHidden":false,"type":"text"},{"content":{"text":"<p>Hierf\u00fcr hat das Team intensiv mit Stock und Schwert im Park trainiert:<\/p>"},"id":"9917fc28-ecfc-473e-a349-1cfdb5ae8752","isHidden":false,"type":"text"},{"content":{"text":"Ganz wichtig beim Aikido mit der Waffe ist, dass man nicht versucht, den Stock oder das Schwert zu bewegen, sondern dass man immer zuallererst sich selbst bewegt.","citation":""},"id":"80dd21e8-bc87-4776-bc35-8fdc3c91508b","isHidden":false,"type":"quote"},{"content":{"text":"<p><\/p>"},"id":"3b13a1f5-c831-44ff-a943-9e9e1566ad45","isHidden":false,"type":"text"},{"content":{"text":"<p>Hier ist das Grundverst\u00e4ndnis f\u00fcr den Umgang mit dem Material ungemein gewachsen.<\/p>"},"id":"a17e4a8f-d047-414a-9253-74fc7ac11f06","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Im Workshop<\/strong> gibt Isabelle Schad Einblicke in diese Arbeitsweise und Trainingsmethode f\u00fcr alle Interessierten. Im Mittelpunkt stehen Elemente des Aikido und somatische Praktiken, der Bezug von Selbst und Andere\/Welt sowie das Verst\u00e4ndnis f\u00fcr Bewegung und Schwerkraft, f\u00fcr Fluss und Energie \u2013 und zwar erstmal ganz unabh\u00e4ngig vom choreografischen Schaffen.<\/p>"},"id":"2a8e3558-c638-4117-b868-43d26ee44488","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"32cc2328-12da-4914-a84c-f1d7d93b4edf","isHidden":false,"type":"text"},{"content":{"text":"<p><em>Anmeldung \u00fcber <a href=\"mailto:accreditation@fratz-festival.de\">accreditation@fratz-festival.de<\/a>.<\/em><\/p>"},"id":"5c3325ea-977e-4bd2-88f4-ea20010a88fd","isHidden":false,"type":"text"},{"content":{"text":"<p><em>Bitte gebt einen kurzen Hinweis darauf, ob ihr bereits Erfahrung mit K\u00f6rperarbeit habt oder der Workshop eine erste Begegnung mit Tanz darstellt, damit Isabelle Schad sich entsprechend auf die Gruppe einstellen kann.<\/em><\/p>"},"id":"df85e229-4b61-48d6-ae84-e4bac572f00d","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"70119591-659a-4790-ae6b-4f07ba28f767","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir empfehlen, den Workshop mit einem Vorstellungsbesuch von <strong><a href=\"https:\/\/offensive-tanz.de\/de\/events\/harvest\">HARVEST<\/a> um 11:00 Uhr <\/strong>in der Tanzhalle Wiesenburg zu kombinieren. Karten hierf\u00fcr sind im <a href=\"https:\/\/www.fratz-festival.de\/de\/tickets-service-fratz-festival\/tickets\/#c748\">FRATZ Ticketshop<\/a> erh\u00e4ltlich.<\/p>"},"id":"ac9a35b8-396e-4acb-97ca-157ea11e4bba","isHidden":false,"type":"text"},{"content":{"text":"<p>Im Anschluss an die Vorstellung bieten wir einen <strong>Snack im Garten der Wiesenburg<\/strong> an (11:45-12:15), bevor wir gemeinsam von dort in den Humboldthain aufbrechen.<\/p>"},"id":"a94c7c67-eb45-4100-97a5-68f435cd9956","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

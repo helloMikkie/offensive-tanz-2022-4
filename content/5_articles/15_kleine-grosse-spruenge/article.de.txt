@@ -1,0 +1,128 @@
+Title: Kleine große Sprünge
+
+----
+
+Vimeo: https://vimeo.com/410902425
+
+----
+
+Subtitle: Probenmitschnitt und Interview
+
+----
+
+Featured: false
+
+----
+
+Author: ELISABETH LEOPOLD FÜR DIE OFFENSIVE TANZ FÜR JUNGES PUBLIKUM
+
+----
+
+Date: 2020-05-05
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Im Rahmen der Offensive Tanz f\u00fcr junges Publikum h\u00e4tte am 23. April das St\u00fcck <strong><a href=\"https://offensive-tanz.de/de/events/kleine-grosse-spruenge\">\"Kleine gro\u00dfe Spr\u00fcnge\"</a> </strong>Premiere gefeiert. Diese muss leider, aufgrund der Covid-19 Pandemie, bis auf Weiteres verschoben werden. Wir freuen uns aber schon jetzt einen spannenden Einblick in die St\u00fcckentwicklung geben zu k\u00f6nnen.",
+        "id": "_hh5nzc4gp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ausgehend davon, wie wir Menschen k\u00f6rperliche aber auch mentale Hindernisse \u00fcberwinden, entwickelt Jasmin \u0130hra\u00e7 im St\u00fcck eine Geschichte, in der die Performer*innen gemeinsam Hindernisse in phantasievollen Umwelten, wie der Unterwasserwelt oder W\u00fcste, \u00fcberwinden. Symbolisch weiten sich diese Umwelten aus, werden zur Umwelt als solche, deren Bedrohung f\u00fcr uns alle das gro\u00dfe Hindernis unserer Zeit darstellt. Mehr verraten wir euch im Interview mit der Choreographin.",
+        "id": "_uvqweagh2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Jasmin, in \u201eKleine Gro\u00dfe Spr\u00fcnge\u201c geht es um die Suche nach dem letzten Baum der Welt? F\u00fcr was steht diese Suche?</strong>",
+        "id": "_mvgV17fEy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das will ich ganz gerne offenlassen. Der Ausgangspunkt des St\u00fcckes ist die Frage danach, auf welche Weise wir mit Hindernissen umgehen. Jede*r hat andere Strategien; gleichzeitig ist jeder*r mit anderen Problemen oder Herausforderungen konfrontiert. Immer mehr habe ich bemerkt, dass es gut ist, eine Geschichte zu haben, eine Rahmung f\u00fcr das, was passiert. Was sind das f\u00fcr Hindernisse und in welchem Kontext stehen sie? Daraus wurde nun am Ende fast eine Art M\u00e4rchen.Vier Personen reisen durch verschiedene Umwelten, etwa die W\u00fcste, oder das Universum und dort begegnen ihnen unterschiedliche Hindernisse und Herausforderungen. Weitere Fragen waren, warum sie Hindernisse \u00fcberwinden und auf welcher Suche sie sind? Nach sich selbst? Wollen sie wieder nach Hause kommen? An dieser Stelle kommt die Suche nach dem letzten Baum ins Spiel und es stellt sich die Frage nach einer gemeinsamen Herausforderung, die wir \u00fcberwinden m\u00fcssen. Er steht in diesem Zusammenhang f\u00fcr unseren Umgang mit der Umwelt. Das ist die Herausforderung, die wir gemeinsam angehen m\u00fcssen, wof\u00fcr wir k\u00e4mpfen m\u00fcssen. Die Autorin Sibylle Schmidt hat diese Suche als Geschichte gerahmt und vertextet. Damit arbeiten wir im St\u00fcck.",
+        "id": "_yEmnt5Nef",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wie wird diese Suche choreografisch umgesetzt und was begegnet den vier T\u00e4nzer*innen und dem Musiker auf dieser Reise?</strong>",
+        "id": "_Ccy5GmIMz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die verschiedenen Umwelten gaben uns die M\u00f6glichkeit an unterschiedlichen Bewegungsqualit\u00e4ten zu arbeiten. Man bewegt sich anders in der W\u00fcste, im Universum, unter Wasser. Und nat\u00fcrlich sind die Herausforderungen in jeder Welt andere. Wir haben deshalb viel mit Improvisation gearbeitet. Wie bewegt man sich, wenn man sich in gro\u00dfer Hitze aufh\u00e4lt? Oder wenn man schweben k\u00f6nnte? Wie reagiert man auf bestimmte Hindernisse oder Gegebenheiten. Auf der B\u00fchne gibt es viele quadratische Holzkisten. Das sind die von Giulia Paolucci entworfenen Elemente mit denen wir das gesamte St\u00fcck \u00fcber arbeiten. So ver\u00e4ndert sich st\u00e4ndig die B\u00fchne, wird von den Performer*innen selbst umgebaut. Der Musiker, Ketan Bhatti, ist live mit dem Schlagzeug auf der B\u00fchne, setzt aber auch Vorproduziertes, Atmosph\u00e4risches, oder Textmaterial ein und hilft damit die Szenen aufzubauen.",
+        "id": "_vBDU5wRqX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Im Sprung liegt etwas sehr Mutiges und Ungewisses. Man wagt einen Sprung, wei\u00df nicht genau wo man landen wird. Wie bist du dazu gekommen, dich mit dem Springen zu besch\u00e4ftigen, kommt es auch als Bewegungsmaterial vor?</strong>",
+        "id": "_LxZBIgOzE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der Sprung, die Spr\u00fcnge sind nicht unbedingt explizit als Bewegungsmaterial im St\u00fcck, spielen aber metaphorisch eine wichtige Rolle. In der Recherche dachte ich noch daran den Parkour viel st\u00e4rker einzubringen. Ich habe das 2018 in Istanbul gemacht und es ist etwas, das mich als Bewegungspraxis sehr fasziniert. Es bringt einen dazu die Stadt, seine Umwelt also ganz anders wahrzunehmen. Was ich am Parkour auch spannend finde ist, sich selbst immer ehrlich einzusch\u00e4tzen. Traue ich mich das, kann ich das? Also das Spiel mit den eigenen Grenzen und die Entwicklung eines Gef\u00fchls daf\u00fcr, wann es Sinn macht, Angst zu \u00fcberwinden und wann es Sinn macht, sich selbst zu sagen: Nein, das mache ich lieber nicht. Weil es vielleicht noch nicht an der Zeit ist, oder weil ich es auch gar nicht zwingend machen muss.",
+        "id": "_gb1fz1sp8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Denn die grundlegende Frage ist ja, ob ich jedes Hindernis wirklich \u00fcberwinden muss. Muss ich diesen Sprung machen, damit ich mich besser f\u00fchle? Und muss es der ganz gro\u00dfe Sprung sein? Oder reichen eben auch kleine Spr\u00fcnge, die uns step by step den Weg zeigen?",
+        "id": "_eudgppa8b",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_tp50b3x61",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Deswegen auch \u201aKleine gro\u00dfe Spr\u00fcnge\u2018. Ich springe gerne, weil es etwas sehr Befreiendes hat.",
+        "id": "_0d1pffyut",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Das St\u00fcck ist f\u00fcr Kinder ab 6 Jahren. Wie \u00fcbersetzt ihr das ins Bewegungsmaterial, wie spielt das f\u00fcr euch eine Rolle?</strong>",
+        "id": "_MM2VynvXZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Am meisten stellt sich die Frage, wie sehr \u201ageschauspielert\u2018 werden muss. Wie sehr bestimmte Reaktionen \u00fcberzeichnet werden m\u00fcssen. Wenn wir durch die verschiedenen Umwelten gehen und es kommt beispielsweise ein Sandsturm, dann ist das etwas sehr Phantastisches. Im zeitgen\u00f6ssischen Tanz sind wir es nicht gew\u00f6hnt, etwas, das einem selbst widerf\u00e4hrt, mimisch darzustellen, sondern eher abstrakt. Hier wollen wir eine Balance schaffen. Die gro\u00dfe Herausforderung f\u00fcr ein so junges Publikum zu choreografieren ist es, an deren Lebensrealit\u00e4t anzukn\u00fcpfen, ohne vorher festzulegen wie das, was passiert, verstanden werden soll. Ich denke es ist gut, etwas zu entwerfen, das auf Augenh\u00f6he spricht. Aber nat\u00fcrlich habe ich andere Probleme in meinem Alltag, als eine Person, die sechs Jahre alt ist. Deswegen waren die Interviews sehr wichtig, die ich gef\u00fchrt habe. Ich habe Kinder nach ihren Hindernissen und Herausforderungen gefragt und auch nach den verschiedenen Umwelten und danach, was dort Probleme sein k\u00f6nnten.",
+        "id": "_zwuaIIOzE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "An sich hatte ich gar nicht geplant, ein St\u00fcck \u00fcber die \u00f6kologische Umwelt zu machen. Sondern dar\u00fcber, wie wir auf verschiedene Weisen Hindernisse \u00fcberwinden- Durch die unterschiedlichen phantastischen Orte hat sich das einfach organisch so entwickelt. Vielleicht auch weil es spannender ist zu sehen, was das Gemeinsame ist, als das was uns trennt.",
+        "id": "_Evhsx6dMG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+kleine-grosse-spruenge/files/harald-hoffmann-portrait.jpeg",
+            "src": "https://offensive-tanz.de/media/pages/articles/kleine-grosse-spruenge/2133346386-1588708649/harald-hoffmann-portrait.jpeg",
+            "id": "articles/kleine-grosse-spruenge/harald-hoffmann-portrait.jpeg",
+            "ratio": 1.350210970464134963009428247460164129734039306640625,
+            "caption": "Jasmin \u0130hra\u00e7 \u00a9 Foto: Harald Hoffmann"
+        },
+        "content": "",
+        "id": "_67ms89ik8",
+        "type": "image"
+    }
+]
+
+----
+
+Subtext: 

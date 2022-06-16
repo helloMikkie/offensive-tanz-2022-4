@@ -1,0 +1,104 @@
+Title: Shadow-Light-Body. Research laboratory presentation
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Lecture Performance
+
+----
+
+Author: Florian Bilbao
+
+----
+
+Date: 2022-05-14
+
+----
+
+Time: 20:00
+
+----
+
+Duration: 01:00
+
+----
+
+Location: Theater o.N. - Utas Treff
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>\"Shadow-Light-Body\" </strong>is choreographic research inspired by ancient Asian arts.",
+        "id": "_ajsdkgu2j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In his research laboratory, <strong>Florian Bilbao</strong>, collaborating with dancer <strong>Wibke Storkan</strong> and with advisory support for Japanese dance by <strong>Chihoco Yanagi </strong>and puppetry by <strong>Iduna Hegen</strong>, experiments with translating the media of kamishibai, kabuki and shadow theater into dance and body work.",
+        "id": "_kaxpn0hd4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "He is interested in different dimensions (tiny, human, huge) and the principles of metamorphoses and transformations. At what point is a human being \u2014 inwardly and outwardly \u2014 inhuman? What is within us that we don't want to show? Why not? The lab will explore these questions and develop an intergenerational performative approach, focusing on the perspective of children. How free do children feel in their expressive possibilities? Where do they experience restriction and powerlessness? How can we encourage them to get to know and accept their shadow sides?",
+        "id": "_mn8op1eey",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The dancers immerse themselves in a world of poetic narration where images speak for themselves. A dialogue emerges between two bodies and their shadows in different dimensions.",
+        "id": "_AEWF2W28v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_872sbu0t6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>afterwards: Utas Treff is open: casual gathering in the caf\u00e9 and in front of the theater</em><br><br>",
+        "id": "_IfISp0C1C",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

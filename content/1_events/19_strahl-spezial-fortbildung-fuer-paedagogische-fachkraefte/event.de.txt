@@ -1,0 +1,73 @@
+Title: STRAHL.Fortbildung im November
+
+----
+
+Vorlage: Theater Strahl
+
+----
+
+Featured: false
+
+----
+
+Label: Fortbildung
+
+----
+
+Author: Theater Strahl
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-11-27
+
+----
+
+Time: 14:00:00
+
+----
+
+Duration: 04:00:00
+
+----
+
+Location: STRAHL.Probebühne, Kyffhäuserstr. 23, 10781 Berlin
+
+----
+
+Tickets: strahl@offensive-tanz.de
+
+----
+
+Caption: Eine Veranstaltung für pädagogische Fachkräfte in Zusammenarbeit mit LISUM
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-11-27
+  zeit: 14:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p><strong>Auf Abstand - Kreative Methoden der kulturellen Bildung<\/strong><\/p>"},"id":"5248026c-be5d-4cb4-a893-83b481065c15","isHidden":false,"type":"text"},{"content":{"text":"<p>Wie k\u00f6nnen wir mit Kindern und Jugendlichen in Zeiten von Corona Tanzen und Theaterspielen?<\/p>"},"id":"16595c38-2700-447e-b6f3-00838d358441","isHidden":false,"type":"text"},{"content":{"text":"<p>In Kollaboration mit der \"Offensive Tanz f\u00fcr junges Publikum\" wird Choreograf und Tanzp\u00e4dagoge Florian Bilbao zusammen mit den Teilnehmenden Vermittlungsformate reflektieren, ausprobieren und entwickeln, die auf die Beschr\u00e4nkungen aufgrund der Corona-Krise zugeschnitten sind.<\/p>"},"id":"a6496414-d457-4fca-b669-49e669b99c7d","isHidden":false,"type":"text"},{"content":{"text":"<p>Zeiten: 3 Bl\u00f6cke im November 2020 von je 4 Stunden. Optional gemeinsamer Besuch einer Vorstellung von Theater Strahl.<\/p>"},"id":"59a592bd-fb25-4584-bafd-98074250e736","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Block 1: WAS GEHT?<\/strong><\/p>"},"id":"96d3fda5-a326-4788-92be-cdcc347d50fe","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>06.11.2020 14-18 Uhr<\/strong><\/p>"},"id":"79a03c56-8806-4a09-bb5d-82f45d151f92","isHidden":false,"type":"text"},{"content":{"text":"<p>Erfahrungsaustausch Home-Schooling:<\/p>"},"id":"e94e745a-01bb-4755-a7d2-2b543a5cd821","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00b7 Welche tools und Methoden f\u00fcr die digitale Theater- und Tanzarbeit haben<\/p>"},"id":"0190a7b7-6950-4651-95fa-5a9fbe5b7107","isHidden":false,"type":"text"},{"content":{"text":"<p>sich bew\u00e4hrt?<\/p>"},"id":"bd007c27-9d55-48a8-a86c-5aeb270e8725","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00b7 Welche Modifikationen mussten vorgenommen werden?<\/p>"},"id":"fcfe4a22-eeaa-4bb1-aec7-1e690341f3e7","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00b7 Welche neuen Formate und Formen sind daraus entstanden?<\/p>"},"id":"808c4f35-e835-4926-b639-154fef987fda","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Block 2: WAS GEHT NICHT?<\/strong><\/p>"},"id":"6cd91348-b301-45f4-abd8-e21ee6f5837a","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>20..11. 14-18 Uhr<\/strong><\/p>"},"id":"a162265c-66d1-46ba-8a50-bac16b2b8a7c","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00b7 Wo st\u00f6\u00dft digitale kulturelle Bildung in der Schule an ihre Grenzen?<\/p>"},"id":"b40f8fc2-6d5c-4454-927b-67e8b360e69e","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00b7 Worin liegen diese Grenzen begr\u00fcndet und wie kann auf diese verschiedenen Gr\u00fcnde eingegangen werden?<\/p>"},"id":"71ebc2bf-13f1-474c-9dcc-60635927bc18","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00b7 Wie k\u00f6nnen diese Grenzen produktiv gemacht oder verschoben werden?<\/p>"},"id":"caa41e32-1f0d-486c-a14a-fd7a7bcdd961","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Block 3: WEITER GEHT\u2019S!<\/strong><\/p>"},"id":"17e1708a-bfb1-4034-b2d9-b170af50cf67","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>27.11. 14-18 Uhr<\/strong><\/p>"},"id":"a0cb5d80-7d4a-4b2a-8f6e-f3ee29b53b8a","isHidden":false,"type":"text"},{"content":{"text":"<p>Hinweis: Aufgrund der aktuellen Lage rund um Covid-19 findet diese Veranstaltung online statt.<\/p>"},"id":"d4d5b6b1-07be-4601-80d1-f2c9cdbccaef","isHidden":false,"type":"text"},{"content":{"text":"<p>Basierend auf den vorangegangenen Bl\u00f6cken werden in der letzten Einheit neue Formate f\u00fcr die Theater- und Tanzarbeit in der Schule entwickelt, die auf die neuen Bedingungen zugeschnitten sind.<\/p>"},"id":"0e66525a-e964-42c4-ab81-b125d5e6fdf8","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Teilnehmer*innen sollten alle drei Einheiten wahrnehmen k\u00f6nnen.<\/p>"},"id":"113a4e48-d82f-4325-b133-2dbf122f26df","isHidden":false,"type":"text"},{"content":{"text":"<p>Tickets f\u00fcr Theater Strahl erhalten die Teilnehmenden zum Sonderpreis von 7,50 \u20ac.<\/p>"},"id":"57791367-10c2-4ff5-b85f-3cef7dff7689","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: [{"content":{"text":"<p>Die Fortbildung wird von Theater Strahl angeboten und ist als Lehrkr\u00e4ftefortbildung von der Senatsverwaltung f\u00fcr Bildung, Jugend und Familie Berlin sowie dem Land Brandenburg anerkannt und kostenlos.<\/p>"},"id":"ee1a45e4-72e6-47b3-84ba-1466517b1753","isHidden":false,"type":"text"}]

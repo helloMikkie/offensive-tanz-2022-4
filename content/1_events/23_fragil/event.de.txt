@@ -1,0 +1,106 @@
+Title: fragil
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Tanzstück
+
+----
+
+Author: Clébio Oliveira
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-05-13
+
+----
+
+Time: 10:00:00
+
+----
+
+Duration: 00:30:00
+
+----
+
+Location: Theater o.N., Kollwitzstraße 53, 10405 Berlin
+
+----
+
+Tickets: theater-on@offensive-tanz.de
+
+----
+
+Age: 3
+
+----
+
+Caption: Die hier angegebenen Altersempfehlungen sind lediglich Orientierungshilfen. Generell begrüßen wir Besucher*innen jeden Alters. Für nähere Informationen ist ein/e Ansprechpartner*in des jeweiligen Partners gerne für Sie erreichbar.
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-05-14
+  zeit: 10:30:00
+- 
+  datum: 2022-05-14
+  zeit: 16:00:00
+
+----
+
+Registration: https://www.fratz-festival.de/de/tickets/
+
+----
+
+Description: [{"content":{"text":"<p>Endlich gro\u00df und stark sein \u2013 wie toll haben wir uns als Kinder das Erwachsensein vorgestellt! Doch was hei\u00dft schon gro\u00df und stark?<\/p>"},"id":"9f749614-74e7-4775-b218-3746d5307a6f","isHidden":false,"type":"text"},{"content":{"text":"<p>Identit\u00e4t und Selbstbewusstsein stehen bei fragil im Mittelpunkt. Was bedeutet es, \u00e4lter zu werden? Was tun wir als Kind, aber als Erwachsener nicht mehr? Und was verbindet die verschiedenen Generationen miteinander?<\/p>"},"id":"8e790a45-eb2c-496d-befc-1db4496437d8","isHidden":false,"type":"text"},{"content":{"text":"<p>Am Beginn jeder Arbeit von Cl\u00e9bio Oliveira stehen umfangreiche Recherchen und Expertenbefragungen. F\u00fcr fragil arbeitete er anfangs zusammen mit dem gesamten Ensemble des Theater o.N.. Die T\u00e4nzer:innen und K\u00fcnstler:innen im Alter von 20 bis 70 Jahren boten eine Basis f\u00fcr den Erfahrungsaustausch zwischen den Generationen.<\/p>"},"id":"11e14a29-4e6d-4091-b3f3-5bb4508d34a1","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00bbEine wichtige Erkenntnis der Arbeit an fragil ist, dass Zerbrechlichkeit nicht als Gegensatz zu Stabilit\u00e4t gedacht werden muss. In vielen Bereichen des Lebens sind wir gerade erst dann stark, wenn wir uns verletzlich machen.\u00ab (Choreograf Cl\u00e9bio Oliveira)<\/p>"},"id":"d6ba83d4-36a1-4526-9e52-4474cea06f8c","isHidden":false,"type":"text"}]
+
+----
+
+Artists:
+
+- 
+  role: Choreografie
+  name: Clébio Oliveira
+- 
+  role: Spiel
+  name: Michaela Millar, Olga Ramirez Oferil
+- 
+  role: Komposition/Musik
+  name: Matresanch
+- 
+  role: Bühne
+  name: Markus Wagner
+- 
+  role: Kostüme
+  name: Atelier Liyanova Migliorati
+- 
+  role: Künstlerische Leitung
+  name: Doreen Markert
+
+----
+
+Staffs:
+
+- 
+  role: Technik
+  name: Robert Lange
+- 
+  role: Produktionsmanagement
+  name: Imma Scarpato
+
+----
+
+Subtext: [{"content":{"text":"<p>fragil wurde beauftragt von Theater o.N., produziert von der Offensive Tanz f\u00fcr junges Publikum Berlin, gef\u00f6rdert von TANZPAKT Stadt-Land-Bund und Berliner Senat f\u00fcr Kultur und Europa (Kofinanzierungsfonds).<\/p>"},"id":"6b33b11d-f7e5-46c4-a7d0-c6fe37f217fe","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"c1bacee2-f22f-4b4f-a3db-a7f0f7ba0075","isHidden":false,"type":"text"}]

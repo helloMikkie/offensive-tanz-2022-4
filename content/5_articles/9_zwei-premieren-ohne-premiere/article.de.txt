@@ -1,0 +1,158 @@
+Title: Zwei Premieren und doch keine Premiere
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: 
+
+----
+
+Featured: true
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2021-01-26
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Eigentlich h\u00e4tte vom 16. bis 24. Januar zum f\u00fcnften Mal PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum in den Berliner Uferstudios stattgefunden. Eigentlich h\u00e4tten wir dort als Offensive Tanz nicht nur unseren ersten Geburtstag, sondern auch zwei wunderbare Premieren gefeiert: \u201e<a href=\"https://offensive-tanz.de/de/events/a-human-race\">A Human Race</a>\u201c, produziert von TANZKOMPLIZEN, sowie \u201e<a href=\"https://offensive-tanz.de/de/events/strange-garden\">Strange Garden</a>\u201c, eine Co-Produktion von PURPLE Tanzfestival. Beide Tanzst\u00fccke konnten aufgrund der Corona-Situation nicht vor Publikum aufgef\u00fchrt werden. Wann das der Fall sein wird, bleibt weiterhin ungewiss. Wie es ist, als ChoreographIn unter solchen Umst\u00e4nden zu arbeiten, was mit der Produktion passiert, der pers\u00f6nlichen Kreativit\u00e4t und der eigenen Motivation? Wir haben mit Grichka Caruge (\u201eA Human Race\u201c) und Colette Sadler (\u201eStrange Garden\u201c) dar\u00fcber gesprochen.",
+        "id": "_mciiqkp5h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+zwei-premieren-ohne-premiere/files/dsc1983.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/zwei-premieren-ohne-premiere/1886009518-1611659569/dsc1983.jpg",
+            "id": "articles/zwei-premieren-ohne-premiere/dsc1983.jpg",
+            "ratio": 1.5003750937734434689474483093363232910633087158203125,
+            "caption": "Luka Austin Seydou, einer der T\u00e4nzer im Krump-St\u00fcck \u201eA Human Race\u201c von Grichka Caruge (Foto: \u00a9 Ren\u00e9 L\u00f6ffler)"
+        },
+        "content": "",
+        "id": "_j0r0qovxu",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "\"Wenn man so oft getestet wird, denkt man die ganze Zeit an Krankheit und Tod statt an das Leben. Auf der anderen Seite gibt es eine Art Lichtblick am Horizont, denn mit unserer Arbeit schaffen wir Momente der Hoffnung in dieser dunklen Zeit. Wir sind in der Lage, etwas zu tun und diese M\u00f6glichkeit befl\u00fcgelt Kreativit\u00e4t. Wir versuchen, unsere Erfahrungen in etwas Positives zu verwandeln,\" sagt Grishka \u00fcber die Arbeit w\u00e4hrend der Pandemie. Das Krump-St\u00fcck \u201cA Human Race\u201d kommt mit viel K\u00f6rperkontakt daher, regelm\u00e4\u00dfige Corona-Tests waren f\u00fcr die Proben unerl\u00e4sslich. Eine weitere Herausforderung: Die meisten der f\u00fcnf T\u00e4nzerInnen kommen nicht aus Deutschland. \"Wir wussten nicht - einige von uns sind nicht aus Deutschland: Werden die Grenzen geschlossen? M\u00fcssen wir nach Hause gehen? K\u00f6nnen wir wieder zur\u00fcckkommen? Aber in gewisser Weise ist all diese Frustration gut f\u00fcr Krump, denn Krump braucht Herausforderungen und Reibung. Daraus wurde Krump geboren.\"",
+        "id": "_ospakp393",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "F\u00fcr Colette dagegen war Corona speziell f\u00fcr die Produktion von \u201eStrange Garden\u201c gar kein so gro\u00dfes Problem: \"Da die PerformerInnen in dieser Arbeit mit Objekten arbeiten und sich in und hinter ihnen verstecken, ist es recht einfach, die Regeln des Social Distancing zu beachten, da es in dieser Arbeit kaum K\u00f6rperkontakt gibt.\" Colette sieht die Herausforderung eher in den vielen Unsicherheiten in der Planung und drum herum: Wann geht es wieder los mit den Auff\u00fchrungen, auf was m\u00fcssen wir achten, wie bringe ich Home Schooling und Choreographen-Job zusammen?",
+        "id": "_8ojwxerux",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+zwei-premieren-ohne-premiere/files/img_6028.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/zwei-premieren-ohne-premiere/30960600-1611660112/img_6028.jpg",
+            "id": "articles/zwei-premieren-ohne-premiere/img_6028.jpg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": "Szenenbild in \u201eStrange Garden\u201c von Colette Sadler (Foto: \u00a9 Mikko Gaestel)"
+        },
+        "content": "<br><br>",
+        "id": "_efwgl05ot",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Beide \u2013 sowohl Grichka als auch Colette \u2013 finden in der Arbeit mit Corona auch positive Erfahrungen: \"Generell betrifft die Pandemie uns alle auf unterschiedliche Weise, sodass jeder sp\u00fcrt, wie sich die Situation auf die pers\u00f6nliche Stimmung/Energie auswirkt \u2013 obwohl es sich gleichzeitig f\u00fcr uns alle positiv anf\u00fchlt, zusammenzuarbeiten\", sagt Colette.",
+        "id": "_tooz79n16",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Und was passiert mit den beiden Offensive-Tanzst\u00fccken? Findet das Publikum \u201eein St\u00fcck Corona\u201c darin wieder? Colette sagt ganz klar: nein, \"'Strange Garden' lebt in einem seltsamen visuellen Kosmos, der Fantasie, Staunen und Sch\u00f6nheit f\u00fcr ein junges Publikum vermitteln will.\" Grichka dagegen sp\u00fcrt einen st\u00e4rkeren Pandemie-Einfluss in \u201cA Human Race\u201d: \"Die Umst\u00e4nde haben definitiv Einfluss auf das St\u00fcck. Wenn man etwas erschafft, erz\u00e4hlt man immer von dem, was man in diesem Moment durchmacht. 'A Human Race' ist eine Geschichte \u00fcber die Menschlichkeit. Aber sie bezieht sich auch auf Corona, auf die ganze beunruhigende Situation, die Spannung und Unsicherheit mit sich bringt.\"",
+        "id": "_26bcmydzm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zwei Premieren ohne echte Premiere also. Wie ist es zu wissen, ein ganzes St\u00fcck zu choreographieren und am Ende kein Publikum haben zu d\u00fcrfen? F\u00fcr Grichka, schwer: \"Als K\u00fcnstler versuche ich, die Leute erst einmal zum F\u00fchlen und Denken anzuregen, sofern sie das wollen. Ich m\u00f6chte eine Verbindung schaffen, die in der aktuellen Situation nicht so recht m\u00f6glich ist. Aber ich wei\u00df auch, dass das St\u00fcck geh\u00f6rt wird und dass es eine Wirkung hat.\" Colette: \"Man sp\u00fcrt die Abwesenheit sicher, aber das Herz des Choreographen wei\u00df, dass eines Tages das Publikum zum Theater zur\u00fcckkehren wird und zu dieser Zeit die Liebe und das Bed\u00fcrfnis nach Live-Theater umso h\u00f6her sein werden. Es werden wieder fr\u00f6hliche Zeiten kommen.\"",
+        "id": "_5l4bryzos",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201cOne feels the absence for sure but the choreographers heart knows that one day audience will return to theatre and at that time the love and need for live theatre will be higher. Joyful times will come again.\u201d",
+        "id": "_qp8bcbdl7",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Colette Sadler",
+        "id": "_8tflw640y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Und danach, was nimmt ein/e ChoreographIn mit aus der Pandemie? Colette Sadler ist eher vorsichtig, die Zukunft ist eben die Zukunft. Wir werden sicher erst sp\u00e4ter verstehen, was da eigentlich mit uns passiert ist. Einige Dinge, die sich ohne Corona wohl eher nicht entsprechend entwickelt h\u00e4tten, kann Colette jedoch bereits jetzt nennen: \"W\u00e4hrend Corona hatte ich die Chance, meine choreografische Praxis auf andere Medien auszuweiten, also auf Sound-/Videoarbeiten. Ich nahm es auch als Chance, meine kuratorische Praxis zu erweitern.\" Und Grichka? \"Ich habe gelernt, dass es in Zeiten wie diesen entscheidend ist, von meiner Familie umgeben zu sein. Ich konnte es wirklich nicht ertragen, allein zu sein, nur zwischen der Arbeit und einer leeren Wohnung zu pendeln, st\u00e4ndig an das St\u00fcck zu denken, keine Menschen auf den Stra\u00dfen, keine Restaurants, nichts. Also habe ich meine Familie hierher geholt.\"",
+        "id": "_dy4shj096",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Danke an Colette und Grishka f\u00fcr die spannenden Einblicke!",
+        "id": "_3qvd3e5uj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\u00dcber die Choreographen</strong>",
+        "id": "_dqtwnnosp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+zwei-premieren-ohne-premiere/files/sadler.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/zwei-premieren-ohne-premiere/1254384659-1611660819/sadler.png",
+            "id": "articles/zwei-premieren-ohne-premiere/sadler.png",
+            "ratio": 0.755905511811023611556947798817418515682220458984375,
+            "caption": "Colette Sadler (Foto: \u00a9 Mikko Gaestel)"
+        },
+        "content": "",
+        "id": "_ed0qmvnpa",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Colette Sadler (Glasgow *1974) absolvierte zun\u00e4chst eine Ausbildung in klassischem Ballett, gefolgt von einem BA (Hons) am Laban Centre, London. Als Mitglied der Transitions Dance Company \u030195 arbeitete sie sp\u00e4ter als T\u00e4nzerin f\u00fcr Choreographen. Im Jahr 2002 initiierte sie Stammer Productions in Glasgow, um ihre k\u00fcnstlerische Produktion in den Bereichen Choreografie, Performance und Kuration zu unterst\u00fctzen. Seit 2006 wurden Sadlers Tanzarbeiten international in zahlreichen Kontexten f\u00fcr Tanz und bildende Kunst gezeigt. Im Februar 2021 wird sie die 4. Ausgabe des multidisziplin\u00e4ren Kunstfestivals <a href=\"www.presentfutures.org\">www.presentfutures.org</a> in Zusammenarbeit mit dem CCA Glasgow und Feral Arts kuratieren. <a href=\"http://colettesadler.com\">www.colettesadler.com</a>",
+        "id": "_0ruiLTaxq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+zwei-premieren-ohne-premiere/files/rene_loeffler_grichka_caruge.jpg",
+            "src": "https://offensive-tanz.de/media/pages/articles/zwei-premieren-ohne-premiere/-2084250782-1611661622/rene_loeffler_grichka_caruge.jpg",
+            "id": "articles/zwei-premieren-ohne-premiere/rene_loeffler_grichka_caruge.jpg",
+            "ratio": 0.8000000000000000444089209850062616169452667236328125,
+            "caption": "Grichka Caruge (Foto: Ren\u00e9 L\u00f6ffler)"
+        },
+        "content": "",
+        "id": "_lihz70rcu",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "At the age of 11, Grishka discovered hip-hop with Kader Attou and Dominique Lisette and joined projects with renowned companies such as Black Blanc Beur, Accrorap and Revolution. He teaches Krump and Hip Hop internationally since 2007 and works with renowned choreographers such as Kamel Ouali, Blanca Li, Stephane Jarny, Georges Momboye, Corinne Lanselle for musicals, choreographic pieces, tv sets and video clips. <a href=\"http://www.ciearttrack.com/grichka\">www.ciearttrack.com/grichka</a>",
+        "id": "_exptmefp8",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

@@ -1,0 +1,83 @@
+Title: HARVEST
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Tanzstück
+
+----
+
+Author: Isabelle Schad
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-05-17
+
+----
+
+Time: 17:30:00
+
+----
+
+Duration: 00:40:00
+
+----
+
+Location: Die Wiesenburg, Wiesenstraße 55, Berlin-Wedding
+
+----
+
+Tickets: ticket@fratz-festival.de
+
+----
+
+Age: 3
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-05-18
+  zeit: 09:00:00
+- 
+  datum: 2022-05-18
+  zeit: 11:00:00
+- 
+  datum: 2022-05-19
+  zeit: 10:00:00
+
+----
+
+Registration: https://www.fratz-festival.de/de/tickets/
+
+----
+
+Description: [{"content":{"text":"<p>Wie klingt ein Weidenstock? Wie liegt er in der Hand? Wie unterscheiden sich die gro\u00dfen von den kleinen St\u00e4ben? Die braunen von den gr\u00fcnen? Die alten von den jungen? Und wie werden sie zu einer Marionette, einem Walfischbauch oder Wald, wie zu einem Monster oder einer Peitsche?<\/p>"},"id":"cb702c79-b9cc-459b-b27d-bb4a5f5170df","isHidden":false,"type":"text"},{"content":{"text":"<p>Um Achtsamkeit geht es in Harvest; und um die Frage, wie man mit Natur arbeitet, sie nutzbar macht und ihr dabei respektvoll gegen\u00fcbertritt. Die Choreografin Isabelle Schad erkundet dazu mit drei T\u00e4nzer*innen und einem Musiker den Reisig und erschafft \u00fcberraschende und sich immer wieder ver\u00e4ndernde Landschaften. Zwischen der Erkundung des Materials, dem Schichten, Lagern, Biegen der Gerten, Zweige und \u00c4ste sowie dem Lauschen auf das Knistern und Knacken in der Stille entwickelt sich ein fantasiereiches Spiel mit scheinbar schwerelosen Zauberwesen und anderen kleinen Wundern, die erscheinen - und wieder verschwinden. Mit Poesie und Leichtigkeit erkundet das Ensemble das Verh\u00e4ltnis von Mensch und Natur \u2013 aber auch den Klangkosmos der Weiden, welche die Rhythmen f\u00fcr die Ernte und den Tanz erzeugen.<\/p>"},"id":"cae48808-952d-4847-b3c0-3a8cfe4a47b2","isHidden":false,"type":"text"},{"content":{"text":"<p>\/\/<\/p>"},"id":"ce47588b-51d1-4bd7-85a6-f9ae5a1b30da","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Isabelle Schad<\/strong> studierte klassischen Tanz in Stuttgart und tanzte f\u00fcr viele Choreografen, bis sie 1999 anfing ihre eigenen Projekte zu initiieren. Ihre Arbeiten befinden sich an der Schnittstelle zwischen Tanz, Performance und Bildender Kunst und werden auf internationalen Festivals gezeigt, wie u.a. ImPulsTanz Wien, Tanz im August, International Arts Festival Beijing. Sie arbeitete mehrfach mit dem Goethe Institut zusammen und ist regelm\u00e4\u00dfig bei der Internationalen Tanzplattform Deutschland zu Gast. Im Rahmen von Deutscher Tanzpreis 2019 erhielt Schad eine Ehrung f\u00fcr herausragende k\u00fcnstlerische Entwicklungen im zeitgen\u00f6ssischen Tanz.<\/p>"},"id":"a91335a3-493e-4ae3-866e-4103dbbb11b4","isHidden":false,"type":"text"},{"content":{"text":"<p>HARVEST ist die erste Arbeit der Choreografin Isabelle Schad, die f\u00fcr ein ganz junges Publikum ab 3 Jahre entwickelt wurde. 2019\/2020 hat Isabelle Schad bereits ihre Inszenierung \u201eDer Bau\u201c nach der Erz\u00e4hlung von Franz Kafka f\u00fcr ein Kinderpublikum ab 6 und ab 3 Jahre (f\u00fcr das FRATZ Festival) adaptiert und dadurch erste Erfahrungen mit der jungen Zielgruppe gesammelt. Beide Arbeiten entstanden in Koproduktion mit der \u201eOffensive Tanz f\u00fcr junges Publikum Berlin\u201c.<\/p>"},"id":"926d8fe5-8355-4fca-9af5-03567b719be7","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Regie\/Choreografie<\/strong>: Isabelle Schad |<strong>Musik\/Live-Sound<\/strong>: Damir Simunovic | <strong>Licht\/k\u00fcnstlerische Assistenz<\/strong>: Emma Juliard | <strong>B\u00fchne<\/strong>: Isabelle Schad | <strong>Tanz\/Co-Choreografie<\/strong>: Jan Lorys, Aya Toraiwa, Manuel Lindner | <strong>Dramaturgische Beratung\/j\u00fcngstes Publikum<\/strong>: Dagmar Domr\u00f6s | <strong>Ernte der Weiden<\/strong>: Volker H\u00fcdepohl | <strong>Organisatorische Mitarbeit<\/strong>: Heiko Schramm<\/p>"},"id":"649fbe3e-c1c8-42da-8970-dafcff61db90","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

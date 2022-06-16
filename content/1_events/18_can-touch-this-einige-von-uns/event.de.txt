@@ -1,0 +1,69 @@
+Title: CAN TOUCH THIS [Einige Von Uns]
+
+----
+
+Vorlage: Theater Strahl
+
+----
+
+Featured: false
+
+----
+
+Label: Tanzstück
+
+----
+
+Author: performing:group
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-10-25
+
+----
+
+Time: 14:00:00
+
+----
+
+Duration: 00:20:00
+
+----
+
+Location: Innenhof Alte Münze
+
+----
+
+Tickets: presse@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Der \u00f6ffentliche Raum ist unsere B\u00fchne. Drei Performer*innen verlassen die Einsamkeit vor ihren heimischen Bildschirmen und wagen sich auf die Stra\u00dfe, um zwischen Abstandsregeln und Maskenpflicht eine Gemeinschaft zu (ver)suchen. Zusammenleben, wie ging das nochmal? Wo die einen sich eingeschr\u00e4nkt f\u00fchlen, mahnen die anderen die Verantwortung f\u00fcreinander an. Wie werden Individuen zu einer Gesellschaft? Dieser Frage geht performing:group in der Neuauflage von CAN TOUCH THIS [Einige Von Uns] nach.<\/p>"},"id":"dd62287f-20b6-4567-80f6-51407643158f","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Termine:<\/strong><\/p>"},"id":"0e6b74b7-29dd-43e7-93dc-4c4be0dbe0a5","isHidden":false,"type":"text"},{"content":{"text":"<p>Premiere war am 19.09.2020, Winterfeldtplatz Berlin, hinter der St. Matthias Kirche in Richtung Marktplatz, jeweils eine Performance um 11 Uhr sowie 14 Uhr<\/p>"},"id":"cda1b87c-d67d-42a2-9146-72476ddc6655","isHidden":false,"type":"text"},{"content":{"text":"<p>Am 25.10.2020 findet um 14 Uhr eine weitere Performance im Innenhof der Alten M\u00fcnze im Rahmen des Offensive Symposiums \"<a href=\"https:\/\/offensive-tanz.de\/de\/events\/internationalitat-und-diversitat-im-tanz-fur-junges-publikum\">race. class. gender<\/a>\" statt.<\/p>"},"id":"939fb8b5-deb1-41ce-9a15-3ae98626dd75","isHidden":false,"type":"text"},{"content":{"text":"<p>Ein Besuch dieser Termine ist selbstverst\u00e4ndlich kostenfrei. Weitere Outdoor-Termine sind f\u00fcrs Fr\u00fchjahr 2021 geplant, davor k\u00f6nnen Performances in Schulen auf Anfrage gebucht werden. R\u00fcckfragen beantwortet gerne unsere verantwortliche Mitarbeiterin f\u00fcr \u00d6ffentlichkeitsarbeit, Katharina Neumann, \u00fcber <a href=\"presse@offensive-tanz.de\">presse@offensive-tanz.de<\/a>.<\/p>"},"id":"bf99dc9a-eae9-4005-af58-4cee54629e60","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>\u201cCan Touch This - Einige Von Uns\u201d <\/strong>- ein St\u00fcck von performing:group produziert von performing:group &amp; Theater Strahl eine Kooperation im Rahmen der \u201cOffensive Tanz f\u00fcr junges Publikum Berlin\u201d. <strong>Gef\u00f6rdert <\/strong>durch das Programm \u201eReload. Stipendien f\u00fcr Freie Gruppen\u201c der Kulturstiftung des Bundes; TANZPAKT Stadt-Land-Bund aus Mitteln der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien; iDAS NRW. <strong>Im Original <\/strong>gef\u00f6rdert durch TANZPAKT Stadt-Land-Bund aus Mitteln der Beauftragten der Bundesregierung f\u00fcr Kultur und Medien, Senatsverwaltung f\u00fcr Kultur und Europa Berlin, Ministerium f\u00fcr Kultur und Wissenschaft des Landes NRW, NRW Landesb\u00fcro Freie Darstellende K\u00fcnste.<\/p>"},"id":"44caa9bd-bbe0-40df-922a-9eac94e6bcd2","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

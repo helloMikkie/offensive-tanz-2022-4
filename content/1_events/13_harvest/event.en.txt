@@ -1,0 +1,136 @@
+Title: Harvest
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: POSTPONED! Dance Piece
+
+----
+
+Author: Isabelle Schad
+
+----
+
+Date: 2022-01-20
+
+----
+
+Time: 10:00
+
+----
+
+Duration: 00:40
+
+----
+
+Location: Die Wiesenburg, Wiesenstraße 55 Berlin-Wedding
+
+----
+
+Tickets: 
+
+----
+
+Age: 3
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-01-21
+  zeit: 10:00
+- 
+  datum: 2022-01-22
+  zeit: 16:00
+- 
+  datum: 2022-01-23
+  zeit: 10:00
+
+----
+
+Registration: https://www.theater-on.de/tickets-service/onlinevorverkauf/
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Note from 15.1.22:</strong> Due to the current Corona situation, all four scheduled performances unfortunately have to be cancelled or postponed. Ticket purchases including advance booking fees will be refunded.",
+        "id": "_5860xl9b1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "A dance piece by Isabelle Schad for people of all ages (from 3)",
+        "id": "_3q1u9208f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What does a willow stick sound like? How does it feel in the hand? How do the big sticks differ from the small ones? The brown ones from the green ones? The old ones from the young ones? And how do they become a puppet, a whale's belly or forest, like a monster or a whip?",
+        "id": "_0nqdd6qw2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Harvest is about mindfulness; and about the question of how to work with nature, how to harness it, and how to face it with respect. Choreographer Isabelle Schad explores the brushwood with three dancers and a musician, creating surprising and ever-changing landscapes. Between the exploration of the material, the layering, storing, bending of the whips, twigs and branches as well as listening to the crackling and cracking in the silence, an imaginative play develops with seemingly weightless magical creatures and other small wonders that appear - and disappear again. With poetry and lightness, the ensemble explores the relationship between man and nature - but also the sound cosmos of the willows that create the rhythms for the harvest and the dance.",
+        "id": "_31obxh2o4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "//",
+        "id": "_c7jgehnxp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Isabelle Schad</strong> studied classical dance in Stuttgart and danced for many choreographers until she started initiating her own projects in 1999. Her works are located at the interface between dance, performance and visual arts and are shown at international festivals such as ImPulsTanz Vienna, Tanz im August, International Arts Festival Beijing. She has collaborated several times with the Goethe Institute and is a regular guest at the International Dance Platform Germany. As part of German Dance Award 2019, Schad received an honor for outstanding artistic developments in contemporary dance.",
+        "id": "_xerde2wyp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "HARVEST is the first work by choreographer Isabelle Schad to be developed for a very young audience aged 3 and up. In 2019/2020 Isabelle Schad has already adapted her production \"The Burrow\" based on the story by Franz Kafka for a children's audience from 6 and from 3 years (for FRATZ Festival) and thus gained first experiences with the young target group. Both works are created in co-production with the network project \"Offensive Tanz f\u00fcr junges Publikum Berlin\".",
+        "id": "_dr352ttke",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Direction/Choreography: </strong>Isabelle Schad | <strong>Music/Live-Sound: </strong>Damir Simunovic | <strong>Lighting/Artistic Assistance:</strong> Emma Juliard | <strong>Stage: </strong>Isabelle Schad | <strong>Dance/Co-Choreography:</strong> Jan Lorys, Aya Toraiwa, Manuel Lindner | <strong>Dramaturgical Advice/Youngest Audience: </strong>Dagmar Domr\u00f6s | <strong>Harvest of the Willows: </strong>Volker H\u00fcdepohl | <strong>Organizational assistance:</strong> Heiko Schramm",
+        "id": "_d9cgondrx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>If you are interested in a Kita presentation (performances on January 20/21), please contact <a href=\"annea@theater-on.de\">annea@theater-on.de</a>.</em>",
+        "id": "_zjt3bhw9f",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

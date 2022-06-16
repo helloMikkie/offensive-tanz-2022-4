@@ -1,0 +1,82 @@
+Title: RAUS GEHEN
+
+----
+
+Vorlage: Neutral
+
+----
+
+Featured: false
+
+----
+
+Label: Tanz im öffentlichen Raum
+
+----
+
+Author: trtdt
+
+----
+
+Date: 
+
+----
+
+End-date: 2021-06-12
+
+----
+
+Time: 14:00:00
+
+----
+
+Duration: 00:00:00
+
+----
+
+Location: Apfelsinenplatz, Gropiusstadt, Joachim-Gottschalk-Weg 41
+
+----
+
+Tickets: info@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-06-12
+  zeit: 16:00:00
+- 
+  datum: 2021-09-04
+  zeit: 14:00:00
+- 
+  datum: 2021-09-12
+  zeit: 17:00:00
+- 
+  datum: 2021-09-18
+  zeit: 14:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Wir freuen uns, endlich unsere RAUS GEHEN-Aktionen 2021 in Zusammenarbeit mit <a href=\"https:\/\/berlin-mondiale.de\/de\/\">Berlin Mondiale<\/a> starten zu k\u00f6nnen! Vor der Ev. Kirchengemeinde in der Gropiusstadt zeigen wir im Juni und September insgesamt f\u00fcnf Tanzaktionen! Ihr k\u00f6nnt Euch entweder per Email (<a href=\"mailto:info@offensive-tanz.de\">info@offensive-tanz.de<\/a>) anmelden oder an dem Tag vorbei kommen - bitte 20min. vorher da sein! Die Veranstaltungen sind kostenlos.<\/p>"},"id":"ddd7527c-f952-4e71-93da-52dfb8e3ab25","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"e64f4efa-328e-4207-8ee1-8ffc5c9e3ce2","isHidden":false,"type":"text"},{"content":{"text":"<p>5. Juni<br><strong>WE transfer #1<br>Ein St\u00fcck von TANZKOMPLIZEN<br><\/strong>Choreografie: Florian Bilbao<br>HipHop, Ballett, Volkstanz ... Wie ist Tanz eigentlich entstanden? Und wie tanzt DU? WeTransfer#1 ist eine unterhaltsame Reise durch die Tanzgeschichte.<br>Wir spielen um 14:00 und 16:00 Uhr auf dem Apfelsinenplatz.<\/p>"},"id":"c529baf8-8bbd-453a-9ddc-9c43278cbd95","isHidden":false,"type":"text"},{"content":{"text":"<p>12. Juni<br><strong>Hip Hop Tanzworkshop<br><\/strong>f\u00fcr Jugendliche ab 12 Jahren<br>Leitung:Ricco Jarret<br>F\u00fcr die Teilnahme sind keine Vorkenntnisse n\u00f6tig.<br>Der Workshop findet um 14:00 und 16:00 Uhr statt.<\/p>"},"id":"f441c07f-cd5e-4c2a-96ae-6bd1ed616b0d","isHidden":false,"type":"text"},{"content":{"text":"<p>4. September<br><strong>Dance on boards<\/strong><br>Eine Pr\u00e4sentation mit Workshop von TANZKOMPLIZEN<br>Tanz: Florian Bilbao und Efka Weber<br>mit Sch\u00fcler:innen der Albrecht von Graefe Schule<br>Wie tanzt man auf und mit Skateboards? Wir zeigen es euch und bringen Boards mit!<\/p>"},"id":"6f2e3bb3-8bbc-4ca5-9450-b289e29aaa5d","isHidden":false,"type":"text"},{"content":{"text":"<p>12. September <br><strong>Can Touch This [Einige Von Uns]<\/strong><br>Ein St\u00fcck von performing:group und Theater Strahl<br>Choreografie: Daniel Math\u00e9us und Florian Bilbao<br>Tanz: Michael Kaddu, Jana Heilmann, Rebekka B\u00f6hme<br>Drei Performer:innen verlassen die Einsamkeit vor ihren heimischen Bildschirmen und wagen sich auf die Stra\u00dfe, um zwischen Abstandsregeln und Maskenpflicht eine Gemeinschaft zu (ver)suchen.<\/p>"},"id":"f20bee26-6e39-41d9-814e-d8fdaa6aacbd","isHidden":false,"type":"text"},{"content":{"text":"<p>18. September <br><strong>Hip Hop Tanzworkshop<br><\/strong>f\u00fcr Jugendliche ab 12 Jahren<br>Leitung: Ricco Jarret<br>F\u00fcr die Teilnahme sind keine Vorkenntnisse n\u00f6tig.<\/p>"},"id":"d33f4603-b97b-42af-ac40-4f45640eca22","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"5ba6de6f-970b-4969-8396-4a90737e6d8a","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"89593cc2-e16d-42ca-93d8-9df80b735747","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"c5353a68-6168-4e5d-ba40-3ea7b6a9d194","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

@@ -1,0 +1,248 @@
+Title: Auf dem Sprung zur Sparte?
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Ein Rückblick auf das Symposium „FUTUR TANZ I“
+
+----
+
+Featured: true
+
+----
+
+Author: Tim Winter
+
+----
+
+Date: 2022-03-11
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Zum Symposium <a href=\"www.offensive-tanz.de/de/events/auf-dem-sprung-zur-sparte\">FUTUR TANZ I: Auf dem Sprung zur Sparte?</a> kamen am 23. Januar 2022 Expert:innen der Tanz- und Theaterszene zusammen, um \u00fcber die Zukunft von \u201eTanz f\u00fcr junges Publikum\u201c zu diskutieren: Wo verorten wir uns als Akteur:innen dieser Kunstform? Wie wollen wir k\u00fcnftig zusammenarbeiten? Und wer ist eigentlich <em>wir</em>?",
+        "id": "_xl8tcixot",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mit \u00fcber 120 Anmeldungen aus ganz Deutschland \u2013 von gro\u00dfen und kleinen Theater- und Tanzinstitutionen, der freien Szene bis hin zu F\u00f6rdermittelgeber:innen und Vertreter:innen der Kulturpolitik \u2013 zeigte sich bereits im Vorfeld, dass gro\u00dfes Interesse an diesen Fragen und hoher Bedarf nach Austausch besteht. Mehr als 60 Teilnehmer:innen verfolgten schlie\u00dflich die digitale Tagung, die aus drei Debattenbl\u00f6cken und einem Diskursformat in Kleingruppen (Breakout Rooms) bestand.",
+        "id": "_2MyQk0OdG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/livia.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/2875144831-1646995505/livia.png",
+            "id": "articles/futur-tanz-1/livia.png",
+            "ratio": 1.6970534069981584313069333802559413015842437744140625,
+            "caption": "Livia Patrizi begr\u00fc\u00dft die Teilnehmenden"
+        },
+        "content": "",
+        "id": "_9f6xopj9d",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Livia Patrizi</strong>, K\u00fcnstlerische Leiterin des OfTa-Partners TANZKOMPLIZEN, er\u00f6ffnete die Veranstaltung mit dem Pl\u00e4doyer, bei allen strukturellen \u00dcberlegungen die junge Zielgruppe und ihre Bed\u00fcrfnisse nicht aus den Augen zu verlieren:",
+        "id": "_p3nye1bn2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201eWenn junge Menschen <em>nicht</em> ins Theater gehen, um sich Tanz anzuschauen, hat das etwas mit unserem Kultursystem zu tun, also mit uns.\u201c",
+        "id": "_0al1tgqcj",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_p3258ehdv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir als Kulturschaffende seien verantwortlich, Zugangsbarrieren abzubauen, um den Tanz f\u00fcr junges Publikum f\u00fcr Kinder und Jugendliche attraktiv zu machen: \u201eWas k\u00f6nnen wir tun, um den Tanz f\u00fcr junges Publikum nachhaltig und bundesweit zu st\u00e4rken? Gegen Adultismus k\u00e4mpfen (\u2026) und daf\u00fcr sorgen, dass dieser Begriff neben Rassismus, Klassismus, Ableismus usw. im aktuellen Fachdiskurs ernstgenommen und repr\u00e4sentiert wird? Daf\u00fcr k\u00e4mpfen, dass alle Spielst\u00e4tten, Theaterh\u00e4user, Tanzh\u00e4user, Festivals, freie Companies und damit die gesamte Tanzszene Programm f\u00fcr ein junges Publikum anbietet? Dass in Zukunft in allen Jurys von F\u00f6rderprogrammen immer auch Expert:innen f\u00fcr jungen Tanz sitzen?\u201c.",
+        "id": "_sfpqwvtif",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Moderatorin <strong>Elena Philipp</strong> gab diese Fragen im Anschluss an die G\u00e4ste der drei Debattenrunden weiter.",
+        "id": "_ucqg56dw5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wo steht der Tanz f\u00fcr junges Publikum heute?",
+        "id": "_avhvo1of0",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "In Debatte eins stand zun\u00e4chst die <strong>Verortung der Sparte zwischen Tanz und Kinder- und Jugendtheater</strong> im Fokus.<strong> Stefan Fischer-Fels</strong>, Leiter des <a href=\"www.dhaus.de/junges-schauspiel/\">Jungen Schauspiels</a> am D\u00fcsseldorfer Schauspielhaus, warf einen Blick zur\u00fcck in die Siebzigerjahre. Die Entwicklung einer eigenen Sparte Kinder- und Jugendtheater war damals bereits getrieben von denselben Kernthemen, die auch heute noch relevant sind: das Recht von Kindern auf kulturelle Teilhabe, die Frage nach der Definition \u00fcber die Kunstform oder \u00fcber das Publikum, das Ziel h\u00f6here Budgets und bessere Arbeitsbedingungen f\u00fcr den Kinder- und Jugendbereich zu erstreiten, der Anspruch die Lebensrealit\u00e4ten der Kinder zu erkennen und sie nicht zu verniedlichen. Kinder- und Jugendtheater als eigenst\u00e4ndige Sparte zu etablieren, half laut Fischer-Fels dabei, Kinderrechte im Allgemeinen zu st\u00e4rken und konnte \u00fcber die Jahre vieles bewirken. Doch bis heute gebe es gro\u00dfe Unterschiede zu den Arbeits- und Budgetbedingungen im Erwachsenentheater. Eine eigene Sparte sei also hilfreich, aber nicht die L\u00f6sung aller Probleme.",
+        "id": "_fa587LeFK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/debatte-1.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/5129797-1646995667/debatte-1.png",
+            "id": "articles/futur-tanz-1/debatte-1.png",
+            "ratio": 1.6970534069981584313069333802559413015842437744140625,
+            "caption": "Elena Philipp, Stefan Fischer-Fels, Martina Kessel, Gabi dan Droste"
+        },
+        "content": "",
+        "id": "_swrspt3vp",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Martina Kessel</strong>, Vorstand von <a href=\"https://aktiontanz.de/\">Aktion Tanz</a>, kn\u00fcpfte mit ihrer Erfahrung als Gr\u00fcnderin der Sparte Junger Tanz am Tanzhaus NRW an: Macher:innen, Produzierende und nicht zuletzt die Spielst\u00e4tten selbst seien bis heute vor besondere Herausforderungen gestellt, wenn sie Tanz f\u00fcr junges Publikum auf die B\u00fchne bringen wollten. Viele andere L\u00e4nder, allen voran Belgien, die Niederlande und Skandinavien seien bereits deutlich weiter in ihren Strukturen. Dort werde der Bedarf an qualitativ hochwertigen, teilhabend ausgerichteten Kulturangeboten f\u00fcr Kinder- und Jugendliche h\u00f6her eingesch\u00e4tzt als in Deutschland. 2006 sei mit <a href=\"https://www.take-off-junger-tanz.de/\">Take-off: Junger Tanz</a> erstmals eine langfristige strukturelle F\u00f6rderung des Bereichs Tanz f\u00fcr junges Publikum erm\u00f6glicht worden. So konnten erste Kooperationen innerhalb der Szene entwickelt werden, die Zusammenarbeit mit Bildungseinrichtungen gest\u00e4rkt und Verl\u00e4sslichkeit und Qualit\u00e4t in der t\u00e4glichen Arbeit f\u00fcr junges Publikum verstetigt werden. Hinter all diesen Faktoren stehe der Bedarf nach kontinuierlich ausgelegter Finanzierung und ausreichender r\u00e4umlicher Ausstattung.",
+        "id": "_705c1js6p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gabi dan Droste</strong>, Leiterin des <a href=\"https://jungesfeld.de/\">FELD Theater</a> und Initiatorin des <a href=\"www.youngdancenetwork.com\">Young Dance Network</a>, richtete den Blick auf die Tanzschaffenden selbst. Insbesondere junge K\u00fcnstler:innen seien es, die h\u00e4ufig interdisziplin\u00e4r agierten, da sie sich nicht mehr nur als T\u00e4nzer:innen, sondern gleichzeitig als Blogger:innen und Musiker:innen, Medienschaffende und Diskursteilnehmende verst\u00fcnden. Dies mache zeitgen\u00f6ssischen Tanz von sich aus zu einer sparten\u00fcbergreifenden Kunstform. Mit Blick auf die Theaterwelt sprach dan Droste die ihrer Ansicht nach lange verschlafene Einbindung der Kunstform Tanz in institutionelle Strukturen an. Und schloss, \u00e4hnlich wie ihre Vorrednerin, mit einem Pl\u00e4doyer f\u00fcr Qualit\u00e4tssicherung und Nachhaltigkeit, um den <em>Sprung</em> in eine m\u00f6gliche Sparte Tanz f\u00fcr junges Publikum zu einem \u201eFlug\u201c und nicht zu einer \u201eBruchlandung\u201c werden zu lassen.",
+        "id": "_pm4pf8xb4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Suche nach Unterschieden und Gemeinsamkeiten von Theater und Tanz pr\u00e4gte die anschlie\u00dfende <strong>Diskussion</strong> der drei Redner:innen: Intensive Text- und Manuskriptarbeit auf der einen, von einer Idee oder Improvisation ausgehende Arbeit auf der anderen Seite. Stattliche Ressourcen f\u00fcr Monate oder sogar Jahre andauernde St\u00fcckentwicklungen stehen einer oft schmalen Projektfinanzierung und kurzen Probenphasen gegen\u00fcber. Bedarf es einer Quote f\u00fcr den Tanz? Einer Quote f\u00fcr Kinder- und Jugendproduktionen? Einig war man sich vor allem beim Befund: Bei Entwicklungs- und Arbeitsprozessen, wie etwa der fr\u00fchzeitigen Partizipation junger Menschen in die St\u00fcckentwicklung, k\u00f6nnen alle voneinander lernen.",
+        "id": "_YXw4fVJM7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/debatten-1-3-screen.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/3924860000-1647005761/debatten-1-3-screen.png",
+            "id": "articles/futur-tanz-1/debatten-1-3-screen.png",
+            "ratio": 1.21993127147766333706613295362330973148345947265625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_dotxkeq3c",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Kontinuierliche F\u00f6rderung von Strukturen",
+        "id": "_z9577d647",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Nach einem kurzen Bewegungsimpuls von <strong>Florian Bilbao</strong> lag mit <strong>Debatte zwei</strong> der Fokus auf der <strong>Produktions- und F\u00f6rderpolitik</strong>.",
+        "id": "_jtdaPl2Pi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Kerstin Evert</strong>, Leiterin des <a href=\"https://www.k3-hamburg.de/\">K3 in Hamburg</a> und Mitglied im Netzwerk <a href=\"https://explore-dance.de/\">Explore Dance</a>, konstatierte, dass es f\u00fcr die Kunstform Tanz immer noch viele strukturelle Aufgaben zu l\u00f6sen gebe: Tanz sei h\u00e4ufiger als andere Sparten von Streichungen an Stadt- und Landestheatern bedroht, Tanzjurys weiterhin wenig verbreitet. Trotz der Unterschiede, die zwischen Tanz f\u00fcr junges Publikum und dem allgemeinen Tanzbetrieb best\u00fcnden, teilten beide Bereiche dieselben Ziele: gr\u00f6\u00dfere F\u00f6rdervolumen und eine intensivere kommunale Arbeit. Kontinuit\u00e4t sei hier die wichtigste Stellschraube, sowohl f\u00fcr den Produktions- und Vermittlungs-, als auch den t\u00e4glichen Arbeits- und Anstellungsbetrieb.",
+        "id": "_t4TpmVYi0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mit dem Blick auf die lange F\u00f6rdertradition, die der Tanz bei der Bundeskulturstiftung h\u00e4tte, \u00f6ffnete <strong>Theresa Darian</strong> ihren Beitrag. Mit dem Programm Jupiter sei nun auch die Zielgruppe junges Publikum in den Fokus ger\u00fcckt. Ausschlaggebend daf\u00fcr sei die Erkenntnis gewesen, dass f\u00fcr den Bereich der Kinder- und Jugendkultur an Theatern weiterhin oft nur sehr begrenzte Mittel f\u00fcr Ausbildung, Honorare und Produktionsarbeit zur Verf\u00fcgung st\u00fcnden. Eine Stiftung allein k\u00f6nne diese strukturellen M\u00e4ngel aber nicht beheben. Hier seien weiterhin intensive, interdisziplin\u00e4re Diskurse wichtig.",
+        "id": "_yP986nstD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In der <strong>anschlie\u00dfenden Diskussion</strong> kam mehrfach zur Sprache, dass Anschubfinanzierungen \u2013 wie etwa die derzeitigen Neustart-Gelder \u2013 nur dann nachhaltig seien, wenn darauf strukturelle Anschlussf\u00f6rderungen folgten. Anderenfalls w\u00fcrden, wie in der Vergangenheit mehrfach geschehen, Ressourcen in den wiederholten Aufbau von Strukturen flie\u00dfen, die dann nicht aufrecht zu erhalten seien.",
+        "id": "_IEv1Ibed5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Braucht der Tanz f\u00fcr junges Publikum ein eigenes Netzwerk?",
+        "id": "_qsm79zqhf",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das Thema <strong>Vernetzung</strong> diskutierten daraufhin <strong>Michael Freundt</strong> vom Dachverband Tanz und der Choreograf <strong>Alfredo Zinola</strong>. Der Aufbau einer Dialogkultur sei eine der ersten Aufgaben nach der Gr\u00fcndung des Dachverbandes Tanz gewesen, so Freundt. Neben der Lobbyarbeit auf Bundesebene sei dazu die Einsicht gewachsen, Konzepte nicht nur zu finanzieren, sondern auch selbst umzusetzen, um Expertise zu entwickeln und Grundlagenforschung zu erm\u00f6glichen. Auch er betonte die Bedeutung von Interdisziplinarit\u00e4t bzw. Durchl\u00e4ssigkeit im Tanz \u2013 zwischen professionellen und semi-professionellen K\u00fcnstler:innen, wie auch bei Fragen der Eroberung von Theaterstrukturen durch den Tanz, um das eigene Potential auf Augenh\u00f6he in Austausch zu bringen.",
+        "id": "_gQWjyq4t5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Seine Anstellung als Factory-Artist beim Tanzhaus NRW nannte <strong>Alfredo Zinola</strong> als ein gutes Beispiel f\u00fcr eine zumindest zweij\u00e4hrige Finanzierung als Choreograf. Der Austausch von Wissen, der innerhalb der Tanzsparte seines Erachtens zu gering stattfinde, sei eines der Hauptziele bei Gr\u00fcndung des \u201eYoung Dance Network\u201c, einer Initiative innerhalb der ASSITEJ International, gewesen. Tanz d\u00fcrfe sich dabei nicht zu sehr in eine eigene Sparte zur\u00fcckziehen, um ausreichend Sichtbarkeit zu generieren. Dazu seien auch auf internationaler Ebene F\u00f6rderprogramme notwendig, die K\u00fcnstler:innen den l\u00e4nder\u00fcbergreifenden Austausch erleichterten.",
+        "id": "_JV4I5kaPf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/mentimeter_futur-tanz-i-screen.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/3703663949-1647006042/mentimeter_futur-tanz-i-screen.png",
+            "id": "articles/futur-tanz-1/mentimeter_futur-tanz-i-screen.png",
+            "ratio": 1.5727376861397479590465309229330159723758697509765625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_l9bk6dr5q",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "In vier <strong>Breakout Rooms </strong>diskutierten daraufhin alle Symposiums-Teilnehmer:innen in Kleingruppen \u00fcber die vorab formulierten Fragestellungen. Dabei kam der Wunsch nach einem <strong>engeren</strong> <strong>Austausch zwischen etablierten Institutionen und der freien Szene</strong> zur Sprache, etwa \u00fcber die Besetzung der Leitungsebenen an Theatern und Tanzh\u00e4usern. Au\u00dferdem der Wunsch nach einem <strong>eigenst\u00e4ndigen Netzwerk</strong> Tanz f\u00fcr junges Publikum, das idealerweise ohne eine zu strenge Abgrenzung von anderen Kunstformen funktioniere, sowie der Bedarf nach mehr <strong>Wissenstransfer</strong>, einem gemeinsamen Kampf f\u00fcr mehr <strong>Teilhabe</strong> junger Menschen am Kulturleben und dem Verst\u00e4ndnis von Theater als Ort f\u00fcr alle Formen der Kunst.",
+        "id": "_gTtmdPvPV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Symposium <strong>FUTUR TANZ I</strong> war ein erster Schritt, die noch junge Kunstform Tanz f\u00fcr junges Publikum in die Zukunft zu f\u00fchren. An die Fragen der Verortung ankn\u00fcpfend und diese weiterdenkend, wird am <strong>15.</strong> <strong>Mai 2022 die zweite Ausgabe von FUTUR TANZ</strong> stattfinden, dann im Rahmen des FRATZ Festivals von Theater o.N.",
+        "id": "_xR5oMIyDA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ort und Programm werden in K\u00fcrze bekannt gegeben, informieren Sie sich gerne auch weiterhin \u00fcber die Seite der Offensive Tanz sowie \u00fcber unseren <a href=\"www.offensive-tanz.de/de#newsletter\">Newsletter</a>.",
+        "id": "_ixwu2alt5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ojjdf1l3o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_qyny38v18",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Material",
+        "id": "_8xsa4kl9s",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Das vollst\u00e4ndige Mentimeter mit allen Kommentaren zur Veranstaltung finden Sie <a href=\"https://www.mentimeter.com/s/6ed697027c1aeb12afe610c5066392d9/e5eb08fe7347\">hier</a>.",
+        "id": "_oxs2f62mi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://offensive-tanz.de/de/service/graphic-recording-futur-1\">Graphic Recording von Liane Hoder</a>",
+        "id": "_86oxznsir",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

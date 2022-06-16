@@ -1,0 +1,50 @@
+Title: Sichtbar!
+
+----
+
+Vimeo: https://vimeo.com/435989818
+
+----
+
+Subtitle: Jugendliche berichten über ihre Erfahrungen während der Corona-Zeit
+
+----
+
+Featured: true
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-07-07
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Kunst, Kultur und Covid-19 \u2013\u2013 auf vieles haben wir lange Zeit verzichtet und m\u00fcssen wir auch weiterhin verzichten: Theater und Tanzvorstellungen werden nur eingeschr\u00e4nkt stattfinden k\u00f6nnen.",
+        "id": "_lTOR4oUhy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Als Offensive Tanz f\u00fcr junges Publikum wollten wir deshalb unbedingt wissen: Wie geht es unserem Publikum, den vielen jungen Menschen da drau\u00dfen, deren Leben sich nun ganz anders anf\u00fchlt als vorher? Was besch\u00e4ftigt sie, wie f\u00fchlen sie sich, was bedeutet es f\u00fcr sie, N\u00e4he und Ber\u00fchrung nicht mehr wie selbstverst\u00e4ndlich zulassen zu k\u00f6nnen? Und welche Rolle spielt der Tanz und die Bewegung in dieser Zeit?",
+        "id": "_tbwbnKAyS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir haben mit drei Jugendlichen gesprochen. Entstanden ist ein ber\u00fchrender Film, in dem Fravia, Ella und Josef erz\u00e4hlen und den unterschiedlichen Gef\u00fchlen im Zusammenhang mit Corona durch ihre Worte und Bewegungen ein Gesicht geben. Egal, ob tanzaffin oder nicht, jung oder alt \u2013\u2013 diesen Film sollte niemand verpassen, er gibt uns einen wunderbaren Einblick in diese junge Generation.",
+        "id": "_ddWmmv0sG",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

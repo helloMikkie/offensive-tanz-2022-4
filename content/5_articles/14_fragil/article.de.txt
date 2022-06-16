@@ -1,0 +1,116 @@
+Title: fragil
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Beitrag zum Tanzstück
+
+----
+
+Featured: true
+
+----
+
+Author: Elisabeth Leopold für die Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-05-12
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong><em>fragil</em> st\u00e4rken.</strong>",
+        "id": "_q7jnam2zd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ein Bericht zur aktuellen Produktion des Choreografen Cl\u00e9bio Oliveira f\u00fcr Zuschauer*innen ab drei Jahren. In Zusammenarbeit mit dem Theater o.N. und der Offensive Tanz f\u00fcr junges Publikum.",
+        "id": "_uOMTaTHWu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bereits im Oktober 2019 begann der brasilianische Choreograf und T\u00e4nzer Cl\u00e9bio Oliveira den Rechercheprozess zu seinem St\u00fcck <em><a href=\"https://offensive-tanz.de/de/events/fragil\">fragil</a></em> und f\u00fchrte dazu einen Workshop mit dem gesamten Ensemble und anschlie\u00dfend einen ersten Kitabesuch durch. Dieses Fr\u00fchjahr startete das Team mit dem Probenprozess, bis zwei Wochen vor der Premiere im M\u00e4rz 2020 die Kontaktsperre aufgrund der Corona-Pandemie in Kraft trat.",
+        "id": "_f497yjf1V",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wie der Titel schon verr\u00e4t handelt <em>fragil</em> von menschlicher Verletzlichkeit, Zerbrechlichkeit und Fragilit\u00e4t, insbesondere in Phasen von Kindheit und Alter. Mit Fokus auf diese Lebensabschnitte und auf besonders betroffene Personen r\u00fcckten im Rechercheprozess Orte wie Kinderheime oder Altersheime und ihre Verkn\u00fcpfung zu Gef\u00fchlen der Vereinsamung, Verlassenheit, oder dem Verlust geliebter Menschen in den Mittelpunkt der Auseinandersetzung und somit der St\u00fcckentstehung. Dabei mischten sich Vorstellungsbilder dieser Gef\u00fchle und Situationen nach und nach mit den Kindheitsbildern pers\u00f6nlicher Erfahrungen der Performerinnen Olga Ramirez Oferil und Michaela Millar und bildeten den Grundstein f\u00fcr ein poetisch umgesetztes, mentales, wie auch k\u00f6rperliches Erinnern auf der B\u00fchne.",
+        "id": "_9jUesrppI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vereinsamung stellt eine der gr\u00f6\u00dften Gefahren in unserer menschlichen Entwicklung dar und die Abwesenheit von Ber\u00fchrung und Kontakt hat immense Auswirkungen auf unsere Psyche. Gerade in der aktuellen Situation, in der sich unser Alltag immer mehr in die eigenen vier W\u00e4nde zur\u00fcckzieht und \u201asocial distancing\u2018 zu einer staatlichen Vorgabe einerseits, aber auch zu einer eigenverantwortlich-solidarischen Aktion andererseits wird, r\u00fcckt dieses Thema und damit auch die Verletzlichkeit unserer Gesellschaft in die unmittelbare Gegenwart. Das wurde auch im schriftlichen Austausch mit dem Choreografen und den Performerinnen klar, wo Fragilit\u00e4t abseits des thematischen Schwerpunktes von Anfang an ein st\u00e4ndiger Begleiter des gesamten Prozesses war. Zum einen durch die aktuelle Situation, zum anderen durch die Erkrankung eines ehemals eingeplanten Performers wurden Gef\u00fchle der Vereinsamung und Fragilit\u00e4t greifbarer und pers\u00f6nlicher.",
+        "id": "_yZMkL3V6e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Solche pers\u00f6nlichen Verkn\u00fcpfungen spielten eine wichtige Rolle in dem Prozess der Erinnerung und dem Aufrufen von Kindheitserfahrungen. Wie erinnert man sich selbst und macht sich Erinnerungen anderer zu eigen? Welche Kindheitsbilder tr\u00e4gt man in seinem Ged\u00e4chtnis?",
+        "id": "_AOBgbqJEO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Olga Ramirez Oferil erl\u00e4utert es als ein \"Zur\u00fcckkehren zu diesem Zeitpunkt, wo unser noch flexibler Charakter beeinflusst wird durch das, was in unserem Umfeld geschieht. Ger\u00fcche, die uns zu einem Augenblick transportieren, wie alte Bilder in Schwarzwei\u00df. Orte, die eventuell nicht mehr besucht werden oder die nicht mehr wie damals existieren. Wichtige Menschen, die auch nicht mehr da sind. Je weiter die Entfernung ist, desto nostalgischer kann die Reise sein.\"",
+        "id": "_0Vawu53MD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ausgehend von den oben genannten gedanklichen Skizzen wurden diese Erinnerungsreisen \u00fcber Bilder, Gef\u00fchle und Gegenst\u00e4nde angeregt und f\u00fchrten im weiteren Probenverlauf immer mehr zu einer eigenen K\u00f6rpersprache des Durchlebens, die auf der B\u00fchne ihren Ausdrucksort findet. Denn wie erinnert sich der K\u00f6rper? Michaela Millar wirft dazu die Frage auf, wie Kindheitserlebnisse, wenn sie mit einem \u00e4lteren, ver\u00e4nderten, vielleicht limitierteren K\u00f6rper durchlebt werden, zum Ausdruck kommen?",
+        "id": "_uUoxxlH9v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Fast selbstst\u00e4ndig entwickelten sich aus diesen Recherchen die fiktiven Figuren f\u00fcr das St\u00fcck. Die beiden Performerinnen werden auf der B\u00fchne zu sich erg\u00e4nzenden Figuren, deren Visionen sich in der jeweils anderen fortsetzen und wo die eine Teil der Erinnerung der anderen wird.",
+        "id": "_Fh6PZwN8r",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201eResearch work transcends our personal universe, imagination, creativity and it transforms in some way in actions, gestures, movements. Thought itself is already the beginning of movement in space.\u201c",
+        "id": "_9t9m13gjp",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Cl\u00e9bio Oliveira</em>",
+        "id": "_xqr6q32vg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die erzwungene Unterbrechung zum Ende des Probenprozesses hatte vor allem deshalb einen frustrierenden Moment, da genau zu diesem Zeitpunkt die Begegnungen mit jungen Zuschauer*innen geplant waren und der Dialog mit dem Publikum beginnen sollte. Nur bedingt l\u00e4sst sich die Wahrnehmung der Kinder mitdenken, aber vor allem durch einen sehr assoziativen Zugang und \u00fcber die K\u00f6rpersprache dockt Cl\u00e9bio Oliveira an Imaginationswelten von Kindern wie Erwachsenen gleicherma\u00dfen an. Zu wem die Erinnerungswelten geh\u00f6ren l\u00f6st sich auf, wird zu etwas Geteiltem und Kollektivem auf der B\u00fchne.",
+        "id": "_hgv6wyr1r",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Aus diesen traumhaften, fantasievollen Reisen, dem Verschmelzen der Figuren, den k\u00f6rperlichen Beziehungen zu Gegenst\u00e4nden und zusammen mit der musikalischen Begleitung des Musikers und Komponisten Matresanch entsteht eine sehr spielerische, atmosph\u00e4rische Stimmung, die Kindern viele assoziative Ankn\u00fcpfungspunkte erm\u00f6glichen d\u00fcrfte.",
+        "id": "_L4n7oJjVq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Durch die vielen Parallelen und pr\u00e4senten Themen die <em>fragil</em> verhandelt, ist es umso bedauerlicher, das St\u00fcck in seiner Aktualit\u00e4t nicht live erfahren zu k\u00f6nnen. Aber auch zuk\u00fcnftig wird es uns bereichern. Auf ein baldiges \u00d6ffnen der S\u00e4le!",
+        "id": "_FMKrlaGTC",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

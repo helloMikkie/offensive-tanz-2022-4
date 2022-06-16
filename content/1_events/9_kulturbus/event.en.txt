@@ -1,0 +1,270 @@
+Title: Offensive Kulturbus
+
+----
+
+Vorlage: Neutral
+
+----
+
+Featured: true
+
+----
+
+Label: Project
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2022-06-30
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Multiple Venues
+
+----
+
+Tickets: kulturbus@offensive-tanz.de
+
+----
+
+Age: 3
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "In cooperation with more than 40 Berlin venues for young audiences, the \"Offensive Kulturbus\" was launched on September 1. Together with the bus companies BVB.net - Bus Verkehr Berlin KG Omnibus Betriebs- und Verwaltungsgesellschaft mbH &amp; Co. and DB Regio Bus Ost GmbH, free round trips are offered from the respective school or Kita to the participating cultural venues. During the bus transfer and within the cultural institutions, the children stay in the same cohorts as in their educational institutions. Thus, the cultural visits can act as a communal experience, even while complying with current hygiene requirements.",
+        "id": "_Cq1EXs7Hg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The aim is to provide children and young people with barrier-free and equal access to art and culture and to ensure participation. With this in mind, the cultural bus service is aimed in particular at educational institutions whose location and connections make it difficult or impossible to attend performances. By the end of the year, educational institutions will be able to take advantage of up to 400 free round trips.",
+        "id": "_chTvxwsYJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>To register for the Offensive Kulturbus, please arrange a performance visit with the desired cultural venue and indicate your desire for transportation.</strong> The websites of the individual institutions can be found linked below. <br>Further information about the project via: kulturbus@offensive-tanz.de<br>",
+        "id": "_m0mj2whi3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The following Berlin institutions and venues are participating in the \"Offensive Kulturbus\":",
+        "id": "_dqnwh7vk5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://astrid-lindgren-buehne.fez-berlin.de/\">Astrid-Lindgren-B\u00fchne im FEZ</a></strong>",
+        "id": "_giktdtb3f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"http://www.atzeberlin.de/seiten/home/seiten/aktuell.php\">ATZE Musiktheater</a></strong>",
+        "id": "_k6f3wp6vy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.berliner-philharmoniker.de/\">Berliner Philharmoniker</a></strong>",
+        "id": "_5x1s563zv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.brotfabrik-berlin.de/\">Brotfabrik</a></strong>",
+        "id": "_4bbdz8u8s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://centre-francais.de/\">Centre Fran\u00e7ais de Berlin</a></strong>",
+        "id": "_wsx08voa1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"http://www.das-weite-theater.de/\">DAS WEITE THEATER</a></strong>",
+        "id": "_73v1zakie",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.deutschestheater.de/\">Deutsches Theater</a></strong>",
+        "id": "_fl3zwkdpv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://dock11-berlin.de/\">DOCK 11 EDEN*****</a></strong>",
+        "id": "_9k80af1aa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://jungesfeld.de/\">FELD \u2013 Theater f\u00fcr junges Publikum</a></strong>",
+        "id": "_bk6q8svyd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://theater-treptower-park.de/\">Figurentheater Grash\u00fcpfer</a></strong>",
+        "id": "_daaroz72f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.grips-theater.de/\">GRIPS Theater</a><br></strong>- GRIPS Theater Hansaplatz<br>- GRIPS Theater im Podewil",
+        "id": "_x49yfk4oa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.hebbel-am-ufer.de/\">HAU Hebbel am Ufer</a></strong> <br>- HAU 1",
+        "id": "_t0zqaxk1b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.kindermusiktheater-berlin.de/\">KinderMusikTheater e.V. </a></strong><br>- Circus Schatzinsel<br>- Dorfkirche Staaken<br>- Ernst Reuter Saal<br>- Fontanehaus<br>- Fuchsbau<br>- Gemeinschaftshaus Gropiusstadt<br>- Gemeinschaftshaus Lichtenrade<br>- Theatersaal WunderKinder",
+        "id": "_38mhnycat",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.konzerthaus.de/\">Konzerthaus Berlin</a></strong>",
+        "id": "_mlmcohmiz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://kulturhaus-spandau.de/\">Kulturhaus Spandau</a></strong>",
+        "id": "_pn4wn0afv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"http://morphtheater.de/\">MORPHTHEATER</a></strong>",
+        "id": "_562ek80r6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://platypus-theater.de/de\">Platypus Theater</a></strong>",
+        "id": "_fzygqeuxd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://purple-tanzfestival.de/de/\">PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum</a><br>- </strong>Jugendtheaterwerkstatt Spandau<br>- Statthaus B\u00f6cklerpark",
+        "id": "_dl5y7cni7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.rsb-online.de\">Rundfunk-Sinfonieorchester Berlin (RSB)</a></strong>",
+        "id": "_ph8nqv1wz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://schaubude.berlin/\">Schaubude Berlin</a></strong>",
+        "id": "_9geahlw76",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://tanzkomplizen.de/\">TANZKOMPLIZEN</a></strong>",
+        "id": "_kjn8iotq6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.theater-on.de/aktuell/\">Theater o.N.</a></strong>",
+        "id": "_96tp2s30a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.parkaue.de/\">Theater an der Parkaue \u2013 Junges Staatstheater Berlin</a></strong>",
+        "id": "_8jjjixuvx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"http://www.theater-der-kleinen-form.de/\">Theater der kleinen Form</a></strong>",
+        "id": "_6n3addn2s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.theater-jaro.de/\">Theater JARO</a></strong>",
+        "id": "_f9a07kzjn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.theater-morgenstern.de/\">Theater Morgenstern</a></strong>",
+        "id": "_f5e4yr3jx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.theater-strahl.de/\">Theater Strahl</a><br>- </strong>Biesdorfer Parkb\u00fchne<br>- Die Wei\u00dfe Rose<br>- Freilichtb\u00fchne Wei\u00dfensee<br>- Halle Ostkreuz<br>- Probeb\u00fchne<br>- Schloss und Gutshof Britz",
+        "id": "_jm5r3xlao",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.uferstudios.com/\">Uferstudios f\u00fcr zeitgen\u00f6ssischen Tanz</a></strong>",
+        "id": "_zrqxo0cj4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The funds for the \"Offensive Kulturbus\" project are provided by the Berlin Mobility Fund of the Senate Department for Culture and Europe.",
+        "id": "_kdb0pz7ge",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

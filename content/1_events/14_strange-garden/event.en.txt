@@ -1,0 +1,121 @@
+Title: Strange Garden
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Dance Piece / Premiere
+
+----
+
+Author: Colette Sadler
+
+----
+
+Date: 2021-08-22
+
+----
+
+Time: 16:00
+
+----
+
+Duration: 00:40
+
+----
+
+Location: Theater an der Parkaue, Parkaue 29, 10367 Berlin
+
+----
+
+Tickets: karten@purple-tanzfestival.de
+
+----
+
+Age: 6
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-08-22
+  zeit: 11:00
+- 
+  datum: 2021-08-22
+  zeit: 16:00
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Slowly a landscape comes to life. In a state of constant transformation, the garden is populated by weird creatures that shapeshift, move, play and interact with one another. Inspired by a clash of natural and technological forms these creatures look like things we recognize from everyday life but have taken on special powers. Here in the strange garden things are not as they normally seem. If these creatures are not human like us, who or what are they? Animal, mineral or plant? Should we be frightened of them? Are they our friends?",
+        "id": "_Anebc9hIl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Strange Garden was scheduled for January 19, 2021 as part of <a href=\"https://purple-tanzfestival.de\">PURPLE Internationales Tanzfestival f\u00fcr junges Publikum</a> which is expected to be postponed to for an indefinite period due to the situation. As soon as concrete dates for the premiere are fixed, they will be published here.",
+        "id": "_nz8ny6wvw",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Concept and Choreography
+  name: Colette Sadler
+- 
+  role: Performance
+  name: >
+    Rachell Bo Clark, Samir Kennedy, Leah
+    Marojevic, Cian Mc Conn
+
+----
+
+Staffs:
+
+- 
+  role: Stage Design, Costume, Light
+  name: 'Philine Rinnert '
+- 
+  role: Music and Sound
+  name: Mikko Gaestel
+- 
+  role: >
+    Production and Guest Performance
+    Management
+  name: 'Catherine Launay '
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "A Stammer productions Ltd. production in co-production with Fonds Transfabrik - Deutsch-franz\u00f6sischer Fonds f\u00fcr darstellende K\u00fcnste; L'\u00c9changeur \u2013 CDCN Hauts-de-France; Offensive Tanz f\u00fcr junges Publikum Berlin, funded by TANZPAKT Stadt-Land-Bund with funds from the Federal Government Commissioner for Culture and the Media; Senate Department for Culture and Europe Berlin. With financial support by NATIONALE PERFORMANCE NETZ Koproduktionsf\u00f6rderung Tanz, with funds from the Federal Government Commissioner for Culture and the Media.",
+        "id": "_W9rJyxhEk",
+        "type": "paragraph"
+    }
+]

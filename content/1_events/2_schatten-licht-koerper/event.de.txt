@@ -1,0 +1,69 @@
+Title: Schatten-Licht-Körper. Präsentation des FRATZ Forschungslabors 2022
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Lecture-Performance
+
+----
+
+Author: Florian Bilbao
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-05-14
+
+----
+
+Time: 20:00:00
+
+----
+
+Duration: 01:00:00
+
+----
+
+Location: Theater o.N. - Utas Treffen
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p><strong>\u201eSchatten-Licht-K\u00f6rper\u201c <\/strong>ist<strong> <\/strong>eine choreografische Recherche, die von den uralten asiatischen K\u00fcnsten inspiriert ist.<\/p>"},"id":"26f1d8de-9fec-481c-b4a1-b94326668258","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Florian Bilbao<\/strong> besch\u00e4ftigt sich in diesem Forschungslabor zusammen mit der T\u00e4nzerin <strong>Wibke Storkan <\/strong>und mit beratender Unterst\u00fctzung f\u00fcr japanischen Tanz durch <strong>Chihoco Yanagi<\/strong> und Puppenf\u00fchrung durch <strong>Iduna Hegen<\/strong> damit, die Mittel des Kamishibai-, Kabuki- und Schattentheaters auf Tanz und K\u00f6rperarbeit zu \u00fcbertragen.<\/p>"},"id":"f1769b72-76b5-443a-a41a-ac6b75c7dc49","isHidden":false,"type":"text"},{"content":{"text":"<p>Ihn interessieren die verschiedenen Dimensionen (ganz klein, menschlich, riesig) und das Prinzip von Verwandlungen und Transformationen. Ab wann ist ein Mensch unmenschlich? Innerlich wie \u00e4u\u00dferlich\u2026 Was gibt es in uns, was wir nicht zeigen wollen? Warum nicht? Diese Fragen werden im Rahmen des Labors untersucht und ein inter-generationeller performativer Ansatz entwickelt, der das Augenmerk auf die Situation von Kindern lenkt: Wie frei f\u00fchlen sich Kinder in ihren Ausdrucksm\u00f6glichkeiten? Wo erleben sie Einschr\u00e4nkung und Ohmacht? Wie k\u00f6nnen wir sie ermutigen, ihre Schattenseiten kennenzulernen und zu akzeptieren?<\/p>"},"id":"4b5dbfc4-0f57-4b2a-bda6-05e29a3b542b","isHidden":false,"type":"text"},{"content":{"text":"<p>Die T\u00e4nzer:innen tauchen ein in eine Welt der poetischen Erz\u00e4hlung, in der die Bilder f\u00fcr sich selbst sprechen. Ein Dialog zwischen zwei K\u00f6rpern und ihren Schatten in verschiedenen Dimensionen entsteht.<\/p>"},"id":"d3755cdb-8201-4a89-b64f-afdd0b5f9db3","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"a4b0f181-3c45-43bb-9668-1fcc0eaff3c5","isHidden":false,"type":"text"},{"content":{"text":"<p><em>Die Lecture-Performance findet auf der B\u00fchne des Theater o.N. statt. Anschlie\u00dfend ist \"Utas Treff\" f\u00fcr ein lockeres Beisammensein im Caf\u00e9 und vor dem Theater ge\u00f6ffnet.<\/em><\/p>"},"id":"236baddb-55ed-4f02-9ddd-38e70a87a9c3","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

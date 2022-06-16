@@ -1,0 +1,95 @@
+Title: Tanz, Musik, Bühne: Was ist deine Kunst?
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: false
+
+----
+
+Label: Workshop-Woche mit Präsentation
+
+----
+
+Author: Akiles
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-10-05
+
+----
+
+Time: 10:00:00
+
+----
+
+Duration: 
+
+----
+
+Location: Schillertheater-Werkstatt
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-10-06
+  zeit: 10:00:00
+- 
+  datum: 2020-10-07
+  zeit: 10:00:00
+- 
+  datum: 2020-10-08
+  zeit: 10:00:00
+- 
+  datum: 2020-10-09
+  zeit: 10:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Zehn Sch\u00fcler*innen der Heinz-Brandt-Schule haben f\u00fcnf Tage die Gelegenheit, ihre (verborgenen) Talente zum Bl\u00fchen zu bringen. Unter Anleitung des irakischen T\u00e4nzers und Choreografen Akiles gehen sie in unterschiedlichen Workshops auf die Suche nach der Kunst, die sie pers\u00f6nlich am st\u00e4rksten ber\u00fchrt.<\/p>"},"id":"c82af789-42b0-409e-b404-e4232674c611","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeden Tag kommt ein<em>e Expert<\/em>in aus den verschiedenen k\u00fcnstlerischen Disziplinen \u2013 Tanz, Musik, B\u00fchne \u2013 zu Besuch und stellt seine \/ ihre Arbeit vor. Die Jugendlichen werden selbst kreativ t\u00e4tig und entwickeln schlie\u00dflich eine Pr\u00e4sentation, die die Elemente Tanz, Musik und B\u00fchnenbild vereint. Das Ergebnis der Workshop-Woche wird vor einem interessierten Publikum am 9. Oktober in der Schillertheater-Werkstatt gezeigt.<\/p>"},"id":"6683b325-7e47-494d-9e1d-2d8306a3c93b","isHidden":false,"type":"text"}]
+
+----
+
+Artists:
+
+- 
+  role: 'Konzept & Leitung'
+  name: Akiles
+- 
+  role: 'Expert*innen'
+  name: >
+    Lee Meir (Choreografin), Silke Eberhard
+    (Musikerin), Nikolaus Neuser (Musiker),
+    Jonas Maria Droste (Bühnenbildner)
+- 
+  role: Begleitung
+  name: Sirine Malas, Amelie Mallmann
+
+----
+
+Staffs: 
+
+----
+
+Subtext: [{"content":{"text":"<p><\/p>"},"id":"847f3733-534c-4ae7-aa82-ddc9ed6b6770","isHidden":false,"type":"text"}]

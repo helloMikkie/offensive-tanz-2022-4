@@ -1,0 +1,48 @@
+Title: Purple
+
+----
+
+Subtitle: International Dance Festival <br> for a young audience
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "We welcome everyone to come and watch contemporary dance for young audiences and to exchange ideas together: school classes, families, parents, teachers, dance enthusiasts, and dance newcomers.",
+        "id": "_lD8MAmBdx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Since 2017, it has been our passion to inspire children and adolescents to find their own passion for dancing, and to make them curious about dance and modern performance. Our name reflects the fact that we don\u2019t want to reach boys or girls exclusively. Purple is neither pink nor is it blue, but a mixture between both colors, thereby forgoing the traditional color code and treating all genders as equal. PURPLE is for everybody.",
+        "id": "_yV2fi8tAR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "By really engaging with a dance performance, audiences enhance their emotional and spatial perception, as it requires more abstract cognitive abilities than you might think. We curate a sensual and dynamic program every year, incorporating a number of different aesthetic approaches as well as addressing questions that are relevant in the international contemporary dance scene.",
+        "id": "_IBYc9H37M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Our goal is not only to sharpen the kids\u2019 perceptive abilities, but to encourage them to participate, to empathize and to reflect on what they have seen. This is why we not only offer performances, but also framework programs for every piece we show. In addition, there are dance workshops for adolescents on the weekends.",
+        "id": "_eJ2IKXARS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "With us, school and kindergarten teachers can acquire a basic understanding of modern dance in a free of charge workshop. It\u2019s designed to encourage them to integrate dance in their everyday work with their class some more after attending the festival.",
+        "id": "_Ysm6U01Sx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2192 <a href=\"https://purple-tanzfestival.de/en/dance-festival/\">Purple\u2013International Dance Festival for a young audience</a>",
+        "id": "_bti91g9gt",
+        "type": "paragraph"
+    }
+]

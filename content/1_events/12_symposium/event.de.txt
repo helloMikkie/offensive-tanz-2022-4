@@ -1,0 +1,79 @@
+Title: "Wer ist unser Publikum?"
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Symposium
+
+----
+
+Author: PURPLE – Internationales Tanzfestival für junges Publikum
+
+----
+
+Date: 
+
+----
+
+End-date: 2021-05-12
+
+----
+
+Time: 15:00:00
+
+----
+
+Duration: 18:30:00
+
+----
+
+Location: digital
+
+----
+
+Tickets: info@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-05-10
+  zeit: 15:00:00
+- 
+  datum: 2021-05-11
+  zeit: 15:00:00
+- 
+  datum: 2021-05-12
+  zeit: 15:00:00
+
+----
+
+Registration: https://docs.google.com/forms/d/e/1FAIpQLSeeqh9bDTBYCLH0U7rEMQ8GPZ2ccWnnkFnMfYr7ihmmPTo62w/viewform?usp=sf_link
+
+----
+
+Description: [{"content":{"text":"<p><strong>Interdisziplin\u00e4res Fachsymposium zum Thema: \u201eWer ist unser Publikum? <br>Wie und wo erreichen wir Kinder und Jugendliche am besten?\u201c<\/strong><\/p>"},"id":"02126696-cdbe-4922-9edc-b7a94b800eb0","isHidden":false,"type":"text"},{"content":{"text":"<p>Das zweite Fachsymposium der Offensive Tanz f\u00fcr junges Publikum (OfTa), organisiert vom Kooperationspartner PURPLE - Internationales Tanzfestival f\u00fcr junges Publikum, besch\u00e4ftigt sich mit der Frage, wie man Kinder - und Jugendliche als Publikum f\u00fcr die K\u00fcnste gewinnen kann. Der Zeitgen\u00f6ssische Tanz bildet hierbei einen Schwerpunkt. Basierend auf den Ergebnissen der Online-Befragungen im Rahmen der Publikumsforschung, die im Jahresverlauf 2020 durchgef\u00fchrt wurde, gliedert sich das Symposium in drei Themenkomplexe zu den \u00fcbergeordneten Fragestellungen: <br>\u201eWer sind unsere Publika? Wie und wo erreichen wir sie am besten?\u201c.<\/p>"},"id":"9866683e-0d0e-4abc-9490-f33497fca4c4","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"4a0857ce-656d-49d6-8ac8-f9100c858c62","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Programm"},"id":"3d24a0df-b858-4981-b4e7-64f67b6c7527","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das gesamte Programm mit Informationen zu den Redner*innen finden Sie <a href=\"https:\/\/offensive-tanz.de\/de\/service\/symposium\">hier<\/a> zum Download<\/p>"},"id":"d7bcca8b-30bb-43a5-89f5-cf28442ff5dd","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Veranstaltungsreihe wird von Frank Schmid (rbbKultur) moderiert.<\/p>"},"id":"dd40b198-73b8-4473-9b62-2a9573be0cb1","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>10.05. 15.00h \u2013 18.30h:<\/strong><\/p>"},"id":"4a95b963-01e6-43b6-b4be-2857d89dd068","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>1. Tag: Kunst\u2013Bildung\u2013Schule<\/strong><\/p>"},"id":"34d4b834-90bc-4338-85ee-a5e12c1e3c68","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00fcr die Gewinnung und nachhaltige Bindung eines breiten Publikums ist die Kooperation mit Kitas und Schulen unabdingbar. Besuche von kulturellen Veranstaltungen und kulturelle Bildung sind im Rahmen einer ganzheitlichen Bildung f\u00fcr die Entwicklungsprozesse bei Kindern und Jugendlichen inzwischen anerkannt. Dabei bestimmen die verschiedenen Auffassung von Bildungsprozessen und Lernerfahrungen die Methoden der kulturellen und k\u00fcnstlerischen Jugendarbeit.<\/p>"},"id":"3a5f732d-a99e-4948-9175-c672579225b8","isHidden":false,"type":"text"},{"content":{"text":"<p>Welchen Stellenwert hat Kunst im deutschen Bildungssystem und welche Rolle spielt dabei die Einbindung der Lehrpl\u00e4ne? Wer entscheidet, welche Kunstformen \u00fcberhaupt besucht werden? Welche Rolle spielt kulturelle Bildung innerhalb der Ausbildung junger Erzieher*innen und Lehrer*innen? Welche Akzeptanz hat die Auseinandersetzung mit Kunst und Kultur unabh\u00e4ngig vom Lehrplan? Wo m\u00fcssen Kultur- und Bildungsinstitutionen st\u00e4rker zusammenarbeiten?<\/p>"},"id":"2bf8bca8-2e0a-41a3-9263-b6ed8b97c3c5","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Impulsvortrag:<\/u><br>Prof. Dr. Claudia Steinberg, Professorin und Leiterin des Instituts f\u00fcr Tanz und Bewegungskultur, Deutsche Sporthochschule K\u00f6ln<\/p>"},"id":"f835f47d-6559-4789-8ea3-d4799cd427d7","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Diskussionsrunde:<\/u><br>Birgit Habermann, Schulleiterin Erika Mann Grundschule<br>Uta Meyer, Projektleitung explore dance, K3 | Tanzplan Hamburg<br>Livia Patrizi, K\u00fcnstlerische Leitung TanzZeit e.V. &amp; TANZKOMPLIZEN<br>Michaela Schlagenwerth, Kulturjournalistin und Kulturagentin im Programm Kulturagenten f\u00fcr kreative Schulen<br>Oliver Uden, Fachreferent f\u00fcr das Fach Darstellendes Spiel, Senatsverwaltung f\u00fcr Bildung, Jugend und Familie Berlin<strong><br><\/strong><\/p>"},"id":"a9245287-00c1-41c3-9cca-526f53a9ead8","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>11.05. 15.00h \u2013 18.30h:<\/strong><\/p>"},"id":"9e6d9509-89f3-49bd-a0e9-6846cdd18b68","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>2. Tag: Kunst\u2013Freizeit\u2013Teilhabe<\/strong><\/p>"},"id":"cbe9b48f-0a0c-4f30-b691-3006b4da7721","isHidden":false,"type":"text"},{"content":{"text":"<p>Auch au\u00dferhalb der Bildungsinstitutionen besitzen kulturelle Aktivit\u00e4ten und Prozesse eine hohe Relevanz. Sowohl kulturelle Freizeitformate als auch Angebote mit k\u00fcnstlerischem oder p\u00e4dagogischem Schwerpunkt streben an, Kinder und Jugendliche in ihrem privaten Umfeld zu erreichen und sie f\u00fcr die jeweiligen Themen zu begeistern. Aspekte und Fragen der Teilhabe f\u00fcr ein m\u00f6glichst diverses Publikum bilden dabei die gemeinsame Schnittstelle.<\/p>"},"id":"f097f206-3bc9-4f7c-bdb2-5f91d2b5b64e","isHidden":false,"type":"text"},{"content":{"text":"<p>Welchen Wert haben Kunst und Kultur bei der Freizeitgestaltung der Familien? Wie und wodurch lassen sich diverse Jugendliche f\u00fcr Teilhabe an Kunst und Kultur in ihrer Freizeit begeistern? Welche Formen der Zusammenarbeit bedarf es zwischen den Institutionen und Disziplinen? Wie k\u00f6nnen Tanzprojekte und Tanzauff\u00fchrungen m\u00f6glichst viele Kinder und Jugendliche erreichen? Wie gestalten Freizeitanbieter die Themen Chancengleichheit und allgemeine Teilhabe? Was k\u00f6nnen die Institutionen und Akteur*innen eine Teilhabefunktion realisieren?<\/p>"},"id":"b2e47326-0ebf-4f87-ac67-a9d9141c4bb1","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Impulsvortrag:<\/u><br>Dr. Dorothea L\u00fcbbe, Leiterin Vermittlung &amp; Community Spielzeit 20\/21 THEATER AN DER PARKAUE Junges Staatstheater Berlin<\/p>"},"id":"b7574f6f-a08d-4f7a-a2fb-e0a04cc2ecc1","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Diskussionsrunde:<\/u><br>Chris Benedikt, Projektleitung KinderKulturMonat, WerkStadt Kulturverein Berlin e. V.<br>Corinne Eckenstein, K\u00fcnstlerische Leitung und Direktion Dschungel Wien Theaterhaus f\u00fcr junges Publikum <br>Katja Frei, Leiterin Education &amp; Outreach der Berliner Philharmoniker<br>Birgit Lengers, Leitung Junges DT, International Deutsches Theater Berlin<br>Sven Seeger T\u00e4nzer, Choreograph, Projektinitiator, Community Manager Dance_Lab27 \/ Schlesische 27<strong><br><\/strong><\/p>"},"id":"186bb52d-7690-41a7-a58e-aec0bd74970b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>12.05. 15.00h\u201318.30h:<\/strong><\/p>"},"id":"4355bb46-edf2-48e2-ba0d-3a440503bc9e","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>3. Tag: Kunst\u2013Kommunikation\u2013Digitale Medien<\/strong><\/p>"},"id":"f11c2b03-91f2-4e41-b043-5f19a316580b","isHidden":false,"type":"text"},{"content":{"text":"<p>Formen der \u00d6ffentlichkeitsarbeit sind grundlegende Voraussetzungen, um sein Publikum zu erreichen und zu motivieren. Dabei sind digitale und soziale Medien ein wesentlicher Bestandteil des Alltags, nicht nur von jungen Menschen. Eine zunehmende Erweiterung der Praktiken in den digitalen Raum \u00f6ffnet neue Wege und birgt ebenso Risiken.<\/p>"},"id":"b82cc8a0-15c4-40e0-811d-d7d02cc51898","isHidden":false,"type":"text"},{"content":{"text":"<p>Wodurch f\u00fchlen sich Jugendliche von kulturellen Angeboten angesprochen? Welche Strategien der \u00d6ffentlichkeitsarbeit gibt es, um Jugendliche zu erreichen? Wie kann Relevanz zu deren Lebensbereichen aufgebaut und vermittelt werden? Wie k\u00f6nnen digitale Medien produktiv f\u00fcr \u00d6ffentlichkeitsarbeit und Vermittlung genutzt werden? Welche Chancen und Risiken birgt die Verlagerung in die Sozialen Medien?<\/p>"},"id":"9f9e90a1-ad63-409c-a028-8ef57ea23f5a","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Impulsvortrag:<\/u><br>Prof. Dr. Judith Ackermann, Forschungsprofessorin f\u00fcr Digitale und vernetzte Medien in der Sozialen Arbeit, Fachhochschule Potsdam<\/p>"},"id":"7496cf9f-bdbb-4bf2-9a1e-d9eaa7d69d5c","isHidden":false,"type":"text"},{"content":{"text":"<p><u>Diskussionsrunde:<\/u><br>Gabi dan Droste, K\u00fcnstlerische Leiterin FELD \u2013 Theater f\u00fcr junges Publikum<br>Julia Kaiser, Musikjournalistin und Medientrainerin, Gr\u00fcnderin von jungereporter.eu<br>Marie Kube, Sprecherin von Jung und Artig \u2013 junge Freund*innen der Berlinischen Galerie, Mitinitiatorin von \u201eCouchKultur\u201c<br>Ciprian Marinescu, Dramaturg Schwerpunkt Junges Tanzhaus tanzhaus nrw<br>Judith Westphal, Mitarbeiterin Marketing &amp; Kommunikation mit Schwerpunkt Online J\u00fcdisches Museum Berlin<\/p>"},"id":"ffcd4c52-22aa-42ed-95d1-745f9571686e","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

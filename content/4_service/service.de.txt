@@ -1,0 +1,80 @@
+Title: Service
+
+----
+
+Intro: [{"content":{"text":"<p>Hier finden Sie aktuelle Ausschreibungen, Drucksachen und unsere Pressemitteilungen zum Download. <a href=\"mailto:info@offensive-tanz.de\">Kontaktieren<\/a> Sie uns jederzeit f\u00fcr weitere Fragen.<\/p>"},"id":"495489d1-b5da-44cf-841b-b15813ba16b2","isHidden":false,"type":"text"}]
+
+----
+
+Tickets: [{"content":{"level":"h2","text":"Eintrittskarten"},"id":"21088fdb-2916-4b4a-9c4e-2dcce656bcb1","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Kauf von Tickets ist ausschlie\u00dflich \u00fcber die Websites der einzelnen Partner m\u00f6glich. Die direkten Kontaktinformationen hierf\u00fcr k\u00f6nnen auf der entsprechenden Veranstaltungsseite eingesehen werden.<\/p>"},"id":"41e3e5d6-4530-4125-9fc7-a0246eb4c9a9","isHidden":false,"type":"text"}]
+
+----
+
+Ticketlinks:
+
+- 
+  name: Purple Tanzfestival
+  link: >
+    https://purple-tanzfestival.de/en/ticketpreise/
+- 
+  name: TANZKOMPLIZEN
+  link: https://tanzkomplizen.de/tickets
+- 
+  name: Theater Strahl Berlin
+  link: https://www.theater-strahl.de/tickets/
+- 
+  name: Theater o.N.
+  link: >
+    https://www.theater-on.de/tickets-service/
+
+----
+
+Release:
+
+- 
+  filename: de-press-release.pdf
+  dragText: '(file: de-press-release.pdf)'
+  icon:
+    type: file-document
+    ratio: 3/2
+    back: pattern
+    color: '#d16464'
+    cover: false
+  id: service/de-press-release.pdf
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+  info: ""
+  link: >
+    /pages/service/files/de-press-release.pdf
+  text: de-press-release.pdf
+  type: document
+  url: >
+    http://localhost:8888/media/pages/service/1016593870-1579079209/de-press-release.pdf
+  uuid: de-press-release.pdf
+
+----
+
+Press-contact:
+
+[
+    {
+        "attrs": [],
+        "content": "F\u00fcr Presseanfragen kontaktieren Sie bitte <strong><a href=\"mailto:mailto:%20k.neumann@offensive-tanz.de\">Katharina Neumann</a></strong>",
+        "id": "_vidmlyzq7",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Presse: Für Presseanfragen kontaktieren Sie bitte **(link: mailto: k.neumann@offensive-tanz.de text: Katharina Neumann)**.
+
+----
+
+Survey:
+
+## Fragebogen zum Publikumsfeedback
+Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.
+(link: # text: Feedback geben!)

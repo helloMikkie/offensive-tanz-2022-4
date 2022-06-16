@@ -1,0 +1,73 @@
+Title: Ein Tanzstück für ein junges Publikum kreieren: Wie fängt man an?
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: true
+
+----
+
+Label: Workshop für Choreograf:innen
+
+----
+
+Author: PURPLE – Internationales Tanzfestival für junges Publikum
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-04-01
+
+----
+
+Time: 19:00:00
+
+----
+
+Duration: 02:00:00
+
+----
+
+Location: Tanzfabrik Studio 4, Möckernstr. 68, 10965 Berlin
+
+----
+
+Tickets: workshop@purple-tanzfestival.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-04-02
+  zeit: 10:00:00
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>Mit B\u00e9reng\u00e8re Valour<\/p>"},"id":"1f958c6d-2290-486a-8c98-10ec54a83679","isHidden":false,"type":"text"},{"content":{"text":"<p>In diesen zwei Tagen werden wir uns mit den Besonderheiten der Kreation f\u00fcr ein junges Publikum auseinandersetzen. Rund um die drei Begriffe Tanz\/Kindheit\/Kreation und verschiedene Ausgangspunkte wie Literatur, Musik, Malerei werden wir zwischen Zeiten des Austauschs und Zeiten der Praxis abwechseln.<\/p>"},"id":"616996bf-13b5-4390-8dcd-b4c2d2191938","isHidden":false,"type":"text"},{"content":{"text":"<p>Wir werden uns den Fragen der Komposition, des Rhythmus, der Musikalit\u00e4t und der Szenografie n\u00e4hern, indem wir von den Vorschl\u00e4gen der Teilnehmer selbst ausgehen. Unser Ziel wird ein sensibler Austausch von Werkzeugen und Ideen f\u00fcr einen choreografischen Vorschlag sein, der sich an die Kinder richtet.<\/p>"},"id":"886cebc1-c0fc-4218-a065-f4bbb24af9f4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Termine:<\/strong> 01.4. 19:00 - 21:00 Uhr und 02.4. 10:00 - 17:00 Uhr<br>Die maximale Zahl an Teilnehmer:innen ist erreicht. Sollten weitere Pl\u00e4tze frei werden, erfahren Sie es hier.<\/p>"},"id":"cdf1048a-40ad-4ae1-a8fa-f82a0c8046bd","isHidden":false,"type":"text"},{"content":{"text":"<p>\/\/<\/p>"},"id":"8a8f3931-cecf-4046-ad32-4b01a4b157bd","isHidden":false,"type":"text"},{"content":{"text":"<p>B\u00e9reng\u00e8re Valour, ausgebildet am CNSMD in Lyon, tanzt mit verschiedenen K\u00fcnstlern (J. Deschamps und M. Makeieff, C. Lutes, T. Hicks, C. Diverres), und kreiert gleichzeitig choreografische St\u00fccke: \u201e.-\u2026\u201c, Le v\u0153u d\u2019Elias, Entformen, M\u00e9tamorphoses, Omzo-Mozo, ein St\u00fcck f\u00fcr Kinder mit der T\u00e4nzerin Jeanne Vallauri. Sie ist auch an verschiedenen Projekten und Programmen beteiligt, die Kreation und P\u00e4dagogik miteinander verbinden. So nimmt sie am Programm Enfance Art et Langage in Lyon teil (K\u00fcnstlerresidenz in Kinderg\u00e4rten) und ist am choreografischen Entwicklungszentrum Rezodanse in Alexandria in Partnerschaft mit dem Franz\u00f6sischen Institut in Kairo, \u00c4gypten, beteiligt, wo sie verschiedene professionelle Trainings f\u00fcr junge \u00e4gyptische T\u00e4nzer anbietet. Seit mehreren Jahren leitet sie k\u00fcnstlerische Aktionen in verschiedenen Strukturen in Frankreich (Schulen, p\u00e4diatrische Erziehungszentren, CRR, CND, CNSM, CCN Belfort, Format danse, PR\u00c9AC, Canop\u00e9-Workshops, Universit\u00e4ten, \u2026). Seit 2007 ist sie Gr\u00fcndungsmitglied der Association M\u00e2 und war Mitbegr\u00fcnderin und Mitgestalterin von Lieues \u2013 einem Raum f\u00fcr Forschung und k\u00fcnstlerischen Austausch in Lyon. Seit 2017 ist sie an der Gr\u00fcndung und Entwicklung von collection dan\u00e7er beteiligt, einem Verlagsprojekt, das Tanz, Grafik und Text bei Quadrille Editions vereint. Seit 2019 ist sie Teil des p\u00e4dagogischen Teams f\u00fcr das staatliche Tanzlehrerdiplom.<\/p>"},"id":"6d3135c0-7640-401d-8d3c-880294c8c0f9","isHidden":false,"type":"text"},{"content":{"text":"<p><br><br><\/p>"},"id":"b68d72f0-1ae0-451e-b6c4-fc26aef7af07","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

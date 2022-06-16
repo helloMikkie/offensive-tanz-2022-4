@@ -1,0 +1,164 @@
+Title: Aikido workshop with Isabelle Schad in Humboldthain Park
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: true
+
+----
+
+Label: Workshop
+
+----
+
+Author: Isabelle Schad
+
+----
+
+Date: 2022-05-18
+
+----
+
+Time: 12:30
+
+----
+
+Duration: 01:30
+
+----
+
+Location: Humboldthain Park, meeting point: Tanzhalle Wiesenburg at 12:15 pm
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "For beginners, advanced dancers and other interested persons (you don\u2019t have to be a dancer to particpate): insight into dance practice by way of aikido and somatic practices.",
+        "id": "_4mdHsTEDv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_okhi188tf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "When choreographer Isabelle Schad was invited by Theater o.N. to create a work for a very young audience, her first impulse was to look for a material in which she and the dancers could immerse themselves. Very quickly, she came up with her own <strong>harvest of willow sticks </strong>from the garden at the Wiesenburg, where she has built her own workspace, Tanzhalle.",
+        "id": "_Selum1a2u",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.tanzraumberlin.de/magazin/artikel/sinnliches-spielmaterial/\">In an essay</a>, Isabelle describes discovering in the work that choreography for a young audience did not require her to change her approach at all. The aspects of <strong>powerful energetic movements </strong>that emerge from daily joint training, the visual and auditory aspects, the relationship of self/world remained in focus.",
+        "id": "_xAd0pIAP5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The dancers work very precisely with the material. The largest sticks just fit into the width of the dance hall. When they are balanced on the palm of a hand in alignment with the dancers' own center of gravity, it creates a <strong>fascinating dynamic and concentration in the space</strong>, which transmits to an audience of all ages. The viewers sense the artists' investment of intensity and endurance in building a relationship with their material, which in turn develops a life of its own on stage.",
+        "id": "_06tK4UXQc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For this, the team trained intensively with stick and sword in the park:",
+        "id": "_b8tugy61w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"It's crucial in using a weapon in aikido to not try to move the stick or the sword, but to always move yourself, first and foremost.\"",
+        "id": "_u6jqzev49",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_5k2vuuuoz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Their basic understanding of how to use the material has grown immensely.",
+        "id": "_la2xn65y0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>In the workshop</strong>, Isabelle Schad will give insights into these working and training methods for all interested persons. The focus will be on elements of aikido and somatic practices and the relation of self and other/world, as well as an understanding of movement and gravity, flow and energy, which will be handled here completely independent of choreographic work.",
+        "id": "_fqtA0DWe8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ghonic4oz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Please briefly note when enrolling if you have previous experience with bodywork or if the workshop is a first encounter with dance, so that Isabelle Schad can adjust to the group accordingly.</em>",
+        "id": "_kvHJX4tu1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/events+aikido-workshop-mit-isabelle-schad/files/harvest_1.jpg",
+            "src": "https://offensive-tanz.de/media/pages/events/aikido-workshop-mit-isabelle-schad/29091705-1650622267/harvest_1.jpg",
+            "id": "events/aikido-workshop-mit-isabelle-schad/harvest_1.jpg",
+            "ratio": 1.5074074074074073070761414783191867172718048095703125,
+            "caption": "\"Harvest\" \u00a9 Dieter Hartwig"
+        },
+        "content": "",
+        "id": "_ikidj9ryf",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "We recommend attending this workshop in combination with a performance of <strong><a href=\"https://offensive-tanz.de/en/events/harvest\">HARVEST</a> at 11:00 a.m.</strong> in Tanzhalle Wiesenburg. Tickets are available at the <a href=\"https://www.fratz-festival.de/de/tickets-service-fratz-festival/tickets/#c748\">FRATZ ticket shop</a>.",
+        "id": "_5AOQorjTB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "After the performance we offer a snack in the garden of the Wiesenburg (11:45-12:15), before we leave together for Humboldthain.",
+        "id": "_AE0MpUv9W",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

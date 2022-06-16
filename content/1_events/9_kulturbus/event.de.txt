@@ -1,0 +1,73 @@
+Title: Offensive Kulturbus
+
+----
+
+Vorlage: Neutral
+
+----
+
+Featured: true
+
+----
+
+Label: Projekt
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2022-05-04
+
+----
+
+End-date: 2022-06-30
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Mehrere Spielorte
+
+----
+
+Tickets: kulturbus@offensive-tanz.de
+
+----
+
+Age: 3
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p>In Kooperation mit \u00fcber 40 Berliner Spielorten f\u00fcr junges Publikum startete am 1. September 2021 die \u201eOffensive Kulturbus\u201d. Zusammen mit den Busunternehmen BVB.net \u2013 Bus Verkehr Berlin KG Omnibus Betriebs- und Verwaltungsgesellschaft mbH &amp; Co. und DB Regio Bus Ost GmbH werden kostenfreie Hin- und R\u00fcckfahrten von der jeweiligen Schule bzw. Kita zu den teilnehmenden Kulturorten angeboten. Die Kinder bilden w\u00e4hrend des Bustransfers und in den Kulturinstitutionen dieselben Kohorten wie in den Bildungseinrichtungen. Somit k\u00f6nnen die Kulturbesuche auch unter Einhaltung der aktuellen Hygieneauflagen als gemeinschaftliches Erlebnis wirken.<\/p>"},"id":"95239de3-58fb-441d-8d80-f40d810503d3","isHidden":false,"type":"text"},{"content":{"text":"<p>Ziel ist es, Kindern und Jugendlichen einen barrierearmen und gleichberechtigten Zugang zu Kunst und Kultur zu erm\u00f6glichen sowie Teilhabe zu gew\u00e4hrleisten. Vor diesem Hintergrund sind mit dem Kulturbus-Angebot besonders solche Bildungseinrichtungen angesprochen, deren Lage und Anbindung den Besuch von Vorstellungen erschwert oder verhindert. Insgesamt k\u00f6nnen bis Jahresende bis zu 400 kostenfreie Hin- und R\u00fcckfahrten durch die Bildungseinrichtungen in Anspruch genommen werden.<br><br><\/p>"},"id":"f092e1c9-6b7c-4d22-9fac-61e8c9249bce","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>F\u00fcr eine Anmeldung zum Offensive Kulturbus vereinbaren Sie bitte einen Vorstellungsbesuch mit dem gew\u00fcnschten Kulturort und geben Ihren Wunsch zur Bef\u00f6rderung an.<\/strong> Die Websites der einzelnen Institutionen finden Sie unten verlinkt.<br><br>Weitere Informationen  zum Projekt und Anmeldung \u00fcber: <a href=\"mailto:kulturbus@offensive-tanz.de\">kulturbus@offensive-tanz.de<\/a><strong><br><br><\/strong><\/p>"},"id":"78c20971-eaf3-45ce-921b-6f6f0ffcc1e1","isHidden":false,"type":"text"},{"content":{"text":"<p>Folgende Berliner Institutionen und Spielorte nehmen an der <br>\u201eOffensive Kulturbus\u201d teil:<br><br><strong><a href=\"https:\/\/astrid-lindgren-buehne.fez-berlin.de\/\">Astrid-Lindgren-B\u00fchne im FEZ<\/a><\/strong><\/p>"},"id":"61c6d9c0-cafc-477b-9545-8fa3dd93f32c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"http:\/\/www.atzeberlin.de\/seiten\/home\/seiten\/aktuell.php\">ATZE Musiktheater<\/a><\/strong><\/p>"},"id":"41f0529d-1d45-4bf1-a640-a1dcd8ff6d14","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.berliner-philharmoniker.de\/\">Berliner Philharmoniker<\/a><\/strong><\/p>"},"id":"809f5bd1-7f0f-4985-a914-13dd0c8d258c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.brotfabrik-berlin.de\/\">Brotfabrik<\/a><\/strong><\/p>"},"id":"4156bbc9-d7c7-43c5-b627-a44812c22ef2","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/centre-francais.de\/\">Centre Fran\u00e7ais de Berlin<\/a><\/strong><\/p>"},"id":"b4e08731-5914-42b1-8b97-f7ea19dbf717","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"http:\/\/www.das-weite-theater.de\/\">DAS WEITE THEATER<\/a><\/strong><\/p>"},"id":"b3ba77d1-794f-42a7-bddf-d5e5b06504e9","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.deutschestheater.de\/\">Deutsches Theater<\/a><\/strong><\/p>"},"id":"c1aed587-f566-4cf7-adc6-a26c1e154c88","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/dock11-berlin.de\/\">DOCK 11 EDEN*****<\/a><\/strong><\/p>"},"id":"a11534a1-8b43-402f-acd2-a67b0056f441","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/jungesfeld.de\/\">FELD \u2013 Theater f\u00fcr junges Publikum<\/a><\/strong><\/p>"},"id":"2fbbc80b-aced-432b-9fde-0ff926e57cc6","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/theater-treptower-park.de\/\">Figurentheater Grash\u00fcpfer<\/a><\/strong><\/p>"},"id":"d22236ac-0bb1-49d6-8d0a-905c59d4cb1b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.grips-theater.de\/\">GRIPS Theater<\/a><br><\/strong>- GRIPS Theater Hansaplatz<br>- GRIPS Theater im Podewil<\/p>"},"id":"bca89661-8f07-4dc0-94d2-1d15f166155b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.hebbel-am-ufer.de\/\">HAU Hebbel am Ufer<\/a><\/strong> <br>- HAU 1<\/p>"},"id":"e00e5bad-a5fc-4d62-82e9-758c881ed90c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.kindermusiktheater-berlin.de\/\">KinderMusikTheater e.V. <\/a><\/strong><br>- Circus Schatzinsel<br>- Dorfkirche Staaken<br>- Ernst Reuter Saal<br>- Fontanehaus<br>- Fuchsbau<br>- Gemeinschaftshaus Gropiusstadt<br>- Gemeinschaftshaus Lichtenrade<br>- Theatersaal WunderKinder<\/p>"},"id":"27d111d6-1df8-47e1-a184-b168d7332927","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.konzerthaus.de\/\">Konzerthaus Berlin<\/a><\/strong><\/p>"},"id":"05b6d424-2df9-4635-b4a6-45bae8fdff62","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/kulturhaus-spandau.de\/\">Kulturhaus Spandau<\/a><\/strong><\/p>"},"id":"51b30a2a-4a84-4feb-b1a4-aa59ed89512c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"http:\/\/morphtheater.de\/\">MORPHTHEATER<\/a><\/strong><\/p>"},"id":"1b0f373c-ef3c-419b-98ee-9cdbae990e3f","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/platypus-theater.de\/de\">Platypus Theater<\/a><\/strong><\/p>"},"id":"e9a2af3a-7775-4cd4-a9a6-946d5f300957","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/purple-tanzfestival.de\/de\/\">PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum<\/a><br>- <\/strong>Jugendtheaterwerkstatt Spandau<br>- Statthaus B\u00f6cklerpark<\/p>"},"id":"843cae82-3385-424c-81c7-565dc0ac5c09","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.rsb-online.de\/\">Rundfunk-Sinfonieorchester Berlin (RSB)<\/a><\/strong><\/p>"},"id":"eb20f782-c639-4bf1-8a84-28f8738be3c4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/schaubude.berlin\/\">Schaubude Berlin<\/a><\/strong><\/p>"},"id":"48d6e261-e66c-4293-8be5-78f130a4110f","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/tanzkomplizen.de\/\">TANZKOMPLIZEN<\/a><\/strong><\/p>"},"id":"65b2c394-0381-4a94-8be0-39a52008dc9c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.theater-on.de\/aktuell\/\">Theater o.N.<\/a><\/strong><\/p>"},"id":"910a3d77-8834-4a7c-866d-773d3698fcb4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.parkaue.de\/\">Theater an der Parkaue \u2013 Junges Staatstheater Berlin<\/a><\/strong><\/p>"},"id":"e2538356-39b1-4297-aff6-bca89a020608","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"http:\/\/www.theater-der-kleinen-form.de\/\">Theater der kleinen Form<\/a><\/strong><\/p>"},"id":"99632a64-9a4c-43e2-8e99-453807dc39a0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.theater-jaro.de\/\">Theater JARO<\/a><\/strong><\/p>"},"id":"2f10f181-fde7-4b29-855c-3c7e5a6d5885","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.theater-morgenstern.de\/\">Theater Morgenstern<\/a><\/strong><\/p>"},"id":"17226e14-c6e2-4129-8322-bcd2dbeb4efd","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.theater-strahl.de\/\">Theater Strahl<\/a><br>- <\/strong>Biesdorfer Parkb\u00fchne<br>- Die Wei\u00dfe Rose<br>- Freilichtb\u00fchne Wei\u00dfensee<br>- Halle Ostkreuz<br>- Probeb\u00fchne<br>- Schloss und Gutshof Britz<\/p>"},"id":"f8d9402c-9597-4bbf-9440-1e6204092f1b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.uferstudios.com\/\">Uferstudios f\u00fcr zeitgen\u00f6ssischen Tanz<\/a><\/strong><\/p>"},"id":"98efc1c0-2a06-4128-b815-22a453f5baa1","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Mittel f\u00fcr das Projekt \u201eOffensive Kulturbus\u201d werden aus dem Berlin-Mobilit\u00e4tsfonds der Senatsverwaltung f\u00fcr Kultur und Europa bereitgestellt.<strong><br><br><\/strong><\/p>"},"id":"c44f2178-ecf0-4041-81ed-c1e4285fbfde","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"4cb80fb6-a40d-4dcc-ae17-c4f3ddedb06f","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

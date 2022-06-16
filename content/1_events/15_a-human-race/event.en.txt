@@ -1,0 +1,146 @@
+Title: A Human Race
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Dance Piece
+
+----
+
+Author: Grichka Caruge
+
+----
+
+Date: 2022-03-02
+
+----
+
+Time: 19:00
+
+----
+
+Duration: 01:00
+
+----
+
+Location: Guest Performance @Kampnagel Hamburg
+
+----
+
+Tickets: tickets@tanzkomplizen.de
+
+----
+
+Age: 11
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-03-03
+  zeit: 10:00
+- 
+  datum: 2022-03-04
+  zeit: 10:00
+- 
+  datum: 2022-03-05
+  zeit: 18:00
+
+----
+
+Registration: https://www.kampnagel.de/en/program/calender_view/#2_0
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Can one rebel with dance? Born in the Black Community of L.A., Krump dance style is the <strong>embodiment of social inequality</strong>, a vibrant form of expression that is raw and energetic, a creative outlet for aggression that lets the wounds of exclusion and racism speak for themselves. \"A Human Race\" also shows Krump as a plea to constantly renegotiate human interaction: Struggle, anger or pain are closely linked to the possibility of developing community, empathy and cohesion.",
+        "id": "_xSd9oP2TI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>\"Krump may look spectacular, but in reality it's all about feeling something. Krump puts emotion before every movement. With Krump, character expression is imperative, otherwise the character loses its essence.\"</em> (Grichka Caruge)",
+        "id": "_XXjWejxyG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Tanzkomplizen provides a stage for the young dance form that was created on the streets and with Grichka Caruge, brings one of the most accomplished Krumpers in Europe to Berlin. The multiple world champion brought the dance style from Los Angeles to Europe as one of the first performers. For the production he can rely on an ensemble of passionate, professional Krump performers.",
+        "id": "_77za2izia",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "On September 30, there will be two guest performances at Dschungel Wien. More info <a href=\"https://www.dschungelwien.at/vorstellung/690\">here.</a> Sponsored by the NPN-Gastspielf\u00f6rderung Tanz.",
+        "id": "_rviamvfy4",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Cooperation
+  name: >
+    PURPLE – International Dance Festival
+    for a young audience, Cie Art-Track (F)
+- 
+  role: Choreography
+  name: Grichka Caruge
+- 
+  role: Dance
+  name: >
+    Luka Austin, Solomon Quaynoo, Rochdi
+    Alexander Schmitt, Mark Sheats, Émilie
+    Ouedraogo Spencer
+- 
+  role: Dramaturgy
+  name: Livia Patrizi
+
+----
+
+Staffs:
+
+- 
+  role: Production Management
+  name: Carola Söllner
+- 
+  role: Stage and Costumes
+  name: Silvia Albarella
+- 
+  role: Technical Direction/Light
+  name: Martin Pilz
+- 
+  role: Light Design
+  name: Arnaud Poumarat
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "A production by TANZKOMPLIZEN in the context of Offensive Tanz f\u00fcr junges Publikum Berlin, in cooperation with <a href=\"http://www.ciearttrack.com/\">Cie Art-Track</a> (F) and <a href=\"https://purple-tanzfestival.de/\">PURPLE- International dance festival for a young audience</a>. With friendly support by <a href=\"https://www.institutfrancais.de/\">Institut fran\u00e7ais</a> and the French Ministry of Culture/DGCA.",
+        "id": "_hhnk1mzm8",
+        "type": "paragraph"
+    }
+]

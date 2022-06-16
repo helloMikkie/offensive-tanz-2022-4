@@ -1,0 +1,20 @@
+title: Partner
+icon: 🐝
+
+fields: 
+  subtitle:
+    label: Partner Unterzeile
+    type: text
+    width: 1/2
+  text:
+    label: Partner Profil
+    width: 1/2
+    type: blocks
+    allowed:
+      - text
+      - heading
+      - quote
+      - list
+
+
+

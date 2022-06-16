@@ -1,0 +1,104 @@
+Title: New project managers of Offensive Tanz
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Nora Amin and Elisa Ricci will be taking over starting from June 2022
+
+----
+
+Featured: true
+
+----
+
+Author: Offensive Tanz
+
+----
+
+Date: 2022-04-08
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "We are very happy to announce that Nora Amin and Elisa Ricci will be taking over the project management of Offensive Tanz starting from June 2022. The duo position will be led as a co-management between the two, as a new model supporting diversity and collaborative structures. Canan Erek, who previously held this position, is devoting herself to other tasks, but will remain associated with Offensive Tanz as artistic director of the project partner PURPLE Tanzfestival.",
+        "id": "_ffmxiusow",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "During April and May, the duo will start to pave the way of equity as a growing practice within Offensive Tanz and set the premises towards their role of co-managers from an equity perspective.",
+        "id": "_00gdywhd6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Equity in the sense of equal rights, equal opportunities, and diversity is the focus of all activities in the second funding period of Offensive Tanz (2022/23) - not as a one-off project or isolated practice, but as an active attitude that challenges us to ensure greater equity in what we do. Working towards equal access to culture, specifically dance, requires that we integrate this perspective into every aspect of our actions as an organization.",
+        "id": "_LYI2xnedk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Handing over the project management to the duo Elisa Ricci and Nora Amin takes this attitude into account and promotes the long-term development of structures oriented towards equity and free of discrimination.<br>",
+        "id": "_e02put17h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+neue-projektleitung-der-offensive-tanz/files/was-ist-dei-scaled.jpeg",
+            "src": "https://offensive-tanz.de/media/pages/articles/neue-projektleitung-der-offensive-tanz/2525954474-1649402587/was-ist-dei-scaled.jpeg",
+            "id": "articles/neue-projektleitung-der-offensive-tanz/was-ist-dei-scaled.jpeg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": "The difference between equality and equity, <a href=\"https://global-digital-women.com/diversity-equity-oder-inclusion-wann-benutze-ich-welchen-begriff/\">source</a>"
+        },
+        "content": "",
+        "id": "_83xr3fafp",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ik2z5li9i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Short bios",
+        "id": "_zcau0pa3b",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Nora Amin</strong> is a choreographer, author, performer and expert in arts management &amp; cultural policy. She has been active in the dance scene of Berlin since 2016. Author of the feminist essays \u201cMigrating the Feminine\u201d and \u201cDance of the Persecuted\u201d (MSB Matthes &amp; Seitz), member of the steering group for a future Berliner Dance Mediation Centre, former mentor and expert at Flausen+Bundesnetzwerk and at PAP/LAFT, main curator for symposium on Creating Access Diversity, under the Dachverband Tanz 2021. Currently board member of the German Centre of the International Theatre Institute. In her artistic work and in her writing/research, she focuses on marginalised forms and perspectives in dance and performance, as well as on the critical discourse towards racism, patriarchy and coloniality.",
+        "id": "_b2i7olur4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_dsua20fkx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Elisa Ricci </strong>has worked in the past 15 years in the field of dance as curator, dramaturge, scholar and author. She understands curatorship and cultural production as a critical, radically collective practice. She has co-curated presentation formats, encounters, exchanges and spaces of learning: a.o <em>Performing Translation </em>(Genoa 2010); <em>Rehearsing Collectivity \u2013 Choreography Beyond Dance</em> (Berlin 2011). As a dramaturg she accompanied among others the collective LIGNA in their project <em>The Great Refusal</em> (2014-16). She does research and writes about curating dance: a.o. <em>Festival That Listen!</em> (2018); <em>Can We Curate Dance Without Making a Festival?</em> (2019). She is co-editor of the book <em>Rehearsing Collectivity \u2013 Choreography Beyond Dance</em> (2012). Between 2017 \u2013 2022 she holds a PhD grant by the Rosa Luxemburg Foundation for her research in dance studies on curatorship and decoloniality (Freie Universit\u00e4t Berlin). Since 2019 she advises processes of institutional transformation with focus on equity, working cultures and collective leadership, among others she has accompanied and advised the steering group for a future <em>Tanzvermittlungszentrum</em> in Berlin (2020-21).",
+        "id": "_6aw9gl797",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_udw87xlco",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

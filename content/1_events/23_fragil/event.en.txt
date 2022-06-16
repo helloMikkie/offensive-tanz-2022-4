@@ -1,0 +1,137 @@
+Title: fragil
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Dance Piece / New Dates
+
+----
+
+Author: Clébio Oliveira
+
+----
+
+Date: 2022-05-13
+
+----
+
+Time: 10:00
+
+----
+
+Duration: 00:30
+
+----
+
+Location: Kollwitzstraße 53, 10405 Berlin, 10405 Berlin
+
+----
+
+Tickets: theater-on@offensive-tanz.de
+
+----
+
+Age: 3
+
+----
+
+Caption: The age recommendations given here are only guidelines. In general, we welcome visitors of all ages. A contact person of the respective partner will be happy to provide you with more information.
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-05-14
+  zeit: 10:30
+- 
+  datum: 2022-05-14
+  zeit: 16:00
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "The choreographer and dancer Cl\u00e9bio Oliveira is working with Theater o.N. to develop a production for children from the age of three that deals with age and childhood.",
+        "id": "_oW0v1jcRt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How do children look at age? What images do we adults have of our childhood? What does our body remember? When do we feel strong? When are we vulnerable? And what does our body tell us when we are happy or sad?",
+        "id": "_DhXMt4ViH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "All these are initial questions of the research, which was started at the end of 2019 with the entire theatre ensemble. On March 28 it will culminate in the premiere of <em>fragil.</em> It will be performed by Michaela Millar and Olga Ramirez Oferil - a cast of two ensemble members who will appear for the first time in this constellation.",
+        "id": "_wov1auaa7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "From 14-17.10 fragile will be presented at the <a href=\"https://jungesfeld.de/spielfeld/#currId\">FELD Theater</a>.",
+        "id": "_nqqzbr1r0",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Choreography
+  name: Clébio Oliveira
+- 
+  role: Play
+  name: >
+    Günther Lindner, Michaela Millar, Olga
+    Ramirez Oferil
+- 
+  role: Composition/Music
+  name: Matresanch
+- 
+  role: Stage Design
+  name: Markus Wagner
+- 
+  role: Costume Design
+  name: Atelier Liyanova Migliorati
+- 
+  role: Production Management
+  name: Imma Scarpato
+- 
+  role: Technical Department
+  name: Robert Lange
+- 
+  role: Artistic Direction
+  name: Doreen Markert
+
+----
+
+Staffs:
+
+- 
+  role: Technik
+  name: Robert Lange
+- 
+  role: Produktionsmanagement
+  name: Imma Scarpato
+
+----
+
+Subtext: 

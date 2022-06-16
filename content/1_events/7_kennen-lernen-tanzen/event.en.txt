@@ -1,0 +1,86 @@
+Title: kennen.lernen.tanzen.
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Workshop
+
+----
+
+Author: Offensive Tanz
+
+----
+
+Date: 2022-05-12
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Verschiedene Schulen
+
+----
+
+Tickets: info@offensive-tanz.de
+
+----
+
+Caption: Für Kinder ab der 4. Klasse
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Im Tanz-Workshop kennen.lernen.tanzen geht es darum, verschiedene Tanzstile kennenzulernen, sich dar\u00fcber auszutauschen und selbst auszuprobieren. Der Schwerpunkt des Workshops liegt auf zeitgen\u00f6ssischem Tanz und Hip-Hop. Dazu besucht eine T\u00e4nzerin oder ein T\u00e4nzer verschiedene Schulen, f\u00fchrt f\u00fcr die Sch\u00fclerinnen und Sch\u00fcler kurze Choreografien auf und spricht anschlie\u00dfend mit ihnen \u00fcber das Gesehene und Geh\u00f6rte.",
+        "id": "_evIJgkJ32",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die T\u00e4nzerinnen und T\u00e4nzer informieren die Kinder \u00fcber die Urspr\u00fcnge dieser Tanzstile und vermitteln so ein allgemeines Tanzwissen. Anschlie\u00dfend gibt es einen Tanzteil f\u00fcr alle, bei dem die Kinder aufgefordert sind, bestimmte Bewegungen aus den genannten Tanzstilen zu erlernen und auszuprobieren. Anhand dieser Reflexion wollen wir die Kinder ermutigen, ihr Wissen und ihre Gef\u00fchle auszudr\u00fccken.",
+        "id": "_q09eaz1rk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "kennen.lernen.tanzen findet aktuell wieder zwischen M\u00e4rz und Mai 2022 an verschiedenen Tagen in unterschiedlichen Schulen statt. Bei Interesse nehmen wir Anfragen gern \u00fcber die info@offensive-tanz.de entgegen.",
+        "id": "_5lkcg8tsw",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

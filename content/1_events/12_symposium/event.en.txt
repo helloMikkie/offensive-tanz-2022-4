@@ -1,0 +1,198 @@
+Title: "Who is our audience?"
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Symposium
+
+----
+
+Author: PURPLE – International Dance Festival for Young Audiences
+
+----
+
+Date: 2021-05-12
+
+----
+
+Time: 15:00
+
+----
+
+Duration: 18:30
+
+----
+
+Location: digital
+
+----
+
+Tickets: info@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-05-10
+  zeit: 15:00
+- 
+  datum: 2021-05-11
+  zeit: 15:00
+- 
+  datum: 2021-05-12
+  zeit: 15:00
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Interdisciplinary symposium on the topic: \"Who is our audience? How and where do we best reach children and young people?\"</strong>",
+        "id": "_9qjdecdbf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The second symposium of the Offensive Tanz f\u00fcr junges Publikum (OfTa), organized by partner PURPLE - International Dance Festival for Young Audiences, deals with the question of how to attract children and young people as an audience for the arts. Contemporary dance is one of the focal points. Based on the results of the online surveys conducted as part of the audience research in the course of 2020, the symposium is divided into three thematic complexes on the overriding questions: \"Who are our audiences? How and where do we best reach them?\".",
+        "id": "_U8QZfUuz1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_l4534as20",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Program",
+        "id": "_erd4ute5y",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://offensive-tanz.de/en/service/symposium\">Download</a> program as PDF (German language)",
+        "id": "_a9g247kf3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>10.05. 15.00h \u2013 18.30h:</strong>",
+        "id": "_KS4VD6Pp7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Day 1: Arts\u2013Education\u2013School</strong>",
+        "id": "_Cin6RYOue",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Cooperation with daycare centers and schools is indispensable for attracting and sustainably retaining a broad audience. Visits to cultural events and cultural education are now recognized as part of a holistic education for the developmental processes in children and young people. In this context, the different conceptions of educational processes and learning experiences determine the methods of cultural and artistic youth work.",
+        "id": "_NQsozJy0G",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What status does art have in the German education system and what role does the integration of the curricula play in this? Who decides which art forms are visited in the first place? What role does cultural education play in the training of young educators and teachers? What is the acceptance of engaging with art and culture independent of the curriculum? Where do cultural and educational institutions need to cooperate more?",
+        "id": "_vIrsxlclK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Together with representatives from educational institutions, cultural policy and actors in cultural education, potentials, needs and problems are to be identified.",
+        "id": "_Uv8FB17AA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>11.05. 15.00h \u2013 18.30h:</strong>",
+        "id": "_A2YhqerfI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Day 2: Arts\u2013Leisure\u2013Participation</strong>",
+        "id": "_WXaGIQbqf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Cultural activities and processes are highly relevant outside educational institutions. Both cultural leisure formats and offerings with an artistic or educational focus strive to reach children and young people in their private surroundings and to get them excited about the respective topics. Aspects and questions of participation for as diverse an audience as possible form the common interface here.",
+        "id": "_cfk6fstkx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What is the value of art and culture in families' leisure time activities? How and through what means can diverse young people be inspired to participate in art and culture in their leisure time? What forms of cooperation are needed between institutions and disciplines? How can dance projects and dance performances reach as many children and young people as possible? How do leisure providers address the issues of equal opportunities and general participation? What can institutions and actors do to realize a participatory function?",
+        "id": "_w8ypzg149",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "These questions will be discussed by organizers and various cultural youth institutions with researchers and artists from the field.",
+        "id": "_tuiv31kg6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>12.05. 15.00h\u201318.30h:</strong>",
+        "id": "_sNqyf5VcQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Day 3: Arts\u2013Communication\u2013Digital Media</strong>",
+        "id": "_tEMJg7BrV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Forms and formats of public relations are fundamental prerequisites for reaching and motivating one's audience. In this context, digital and social media are an essential part of everyday life, not only for young people. Increasing expansion of practices into the digital space opens up new avenues and poses risks as well.",
+        "id": "_JIymHWQ4F",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How do young people feel addressed by cultural offerings? What public relations strategies are there to reach young people? How can relevance to their lives be established and communicated? How can digital media be used productively for public relations and mediation? What are the opportunities and risks of shifting to social media?",
+        "id": "_7cmdy17lb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Media scientists, public relations workers, influencers, young journalists and, of course, representatives of the young target group will discuss these questions and topics from their respective experiences and perspectives. Methods and concepts will be developed and discussed together in the small groups.",
+        "id": "_4edbsugm5",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

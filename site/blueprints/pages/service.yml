@@ -1,0 +1,56 @@
+title: Service
+icon: 💡
+preset: page
+
+fields:
+  intro:
+    label: Intro für Servicebereich
+    type: blocks
+    allowed: 
+      - heading
+      - text
+
+  tickets:
+    label: Ticket Erklärung
+    type: blocks
+    allowed: 
+      - heading
+      - text
+  ticketlinks:
+    label: Links zum Ticket-Service
+    type: structure
+    fields:
+      name: 
+        type: text
+      link:
+        type: text
+  feedback:
+    label: Text Feedback-Button
+    type: blocks
+    allowed:
+      - heading
+      - text
+  download:
+    label: Download Erklärung
+    type: blocks
+    allowed: 
+      - heading
+      - text
+  press:
+    label: Presse Erklärung
+    type: blocks
+    allowed: 
+      - heading
+      - text
+  pressContact:
+    label: Presse Kontakt
+    type: blocks
+    allowed: 
+      - text
+  contact:
+    label: Kontaktadresse
+    type: blocks
+    allowed: 
+      - heading
+      - text
+      - list

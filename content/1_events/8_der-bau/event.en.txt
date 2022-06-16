@@ -1,0 +1,103 @@
+Title: Der Bau
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Dance Piece
+
+----
+
+Author: Theater o.N with Isabelle Schad
+
+----
+
+Date: 2021-10-24
+
+----
+
+Time: 16:00
+
+----
+
+Duration: 00:40
+
+----
+
+Location: Wiesenburg Halle (Berlin-Wedding)
+
+----
+
+Tickets: karten@theater-on.de
+
+----
+
+Age: 3
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-10-23
+  zeit: 16:00
+- 
+  datum: 2021-10-24
+  zeit: 16:00
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "A stage full of black bags. Slowly they come to life, they straighten up, move around, explore the space. Suddenly an arm appears, then a leg, finally a whole person. In Franz Kafka's unfinished story \"Der Bau,\" an animal burrow is described, built by an animal that seeks shelter in the underground caves and passages and then increasingly loses itself in them. The narrative serves as the titular metaphor and starting point for the exploration of a special relationship between body and space. The 40 malleable, large-format beanbags are the material for the group work DER BAU-Gruppe / Kids, which is shaped by 5 performers into complex structures and choreographic structures of order. As a group piece, DER BAU was initially a performance for adult audiences; for FRATZ 2020, Isabelle Schad adapted the piece for children aged 3 and up.",
+        "id": "_CVDYaQBNt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Concept / Choreography:</strong> Isabelle Schad<br><strong>Dance / Performance:</strong> Nina Kurtela, Sonja Pregrad, Lena Lux, Manuel Lindner, Jan Lorys<br><strong>Composition / Sound:</strong> Damir Simunovic<br><strong>Light / Tech:</strong> Emma Juliard<br><strong>Head of Production:</strong> Heiko Schramm",
+        "id": "_1u8puyh0a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "A production by Isabelle Schad in collaboration with de facto, Zagreb and Studentski Centar Sveucilista u Zagrebu.<br>Supported by the NATIONAL PERFORMANCE NETWORK (NPN) co-production funding dance from funds of the Federal Government Commissioner for Culture and the Media based on a resolution of the German Bundestag and by the Berlin Senate Department for Culture and Europe. Made possible by the support of Wiesen55 e.V. and Uferstudios Berlin.",
+        "id": "_1aymuTTDI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The adaptation for audiences from the age of 3 was commissioned by Theater o.N. as part of the \"Offensive Tanz f\u00fcr junges Publikum Berlin\", funded by TANZPAKT Stadt-Land-Bund and the Berlin Senate for Culture and Europe (co-financing fund) in cooperation with FRATZ International.",
+        "id": "_vHpcbCwPn",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

@@ -1,0 +1,182 @@
+Title: FUTUR TANZ II: Getting into action
+
+----
+
+Vorlage: Neutral
+
+----
+
+Featured: true
+
+----
+
+Label: Symposium
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2022-05-15
+
+----
+
+Time: 12:00
+
+----
+
+Duration: 04:00
+
+----
+
+Location: TANZKOMPLIZEN im Podewil, Klosterstraße 68, 10179 Berlin
+
+----
+
+Tickets: 
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: https://forms.gle/M2jnXHuPyy6Nz9zaA
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "What kind of network do we want to create?",
+        "id": "_9bptvi4qj",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Working meeting to define and discuss issues in \u00bbDance for Young Audiences\u00ab</strong>",
+        "id": "_c0yrlgw93",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>in the context of <a href=\"https://www.fratz-festival.de/en/symposium-fratz-festival/futur-tanz-ii/\">FRATZ International</a></em>",
+        "id": "_6j59i09tj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_3ntu7bmcu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "On January 23, 2022, some 60 dance professionals, promoters and producers met for the first time to exchange and assess ideas on these questions: How does dance for young audiences stand in relation to children's and youth theater and the contemporary dance scene? Where do the needs in these areas overlap; where do they differ? Where does a basis for joint cultural policy work already exist and where does one still need to be built?",
+        "id": "_qYenEdlix",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><a href=\"https://www.offensive-tanz.de/en/articles/futur-tanz-1\">\u2192 see the results here</a></strong>",
+        "id": "_x6phbltvr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The answers were as diverse as the participating actors. However, it became clear that there is a great desire and a necessity to connect within a network that represents the interests of dance for young audiences. The network should reinforce this special art form through exchange among members, while both relating to and distinguishing itself from children's and youth theater and the dance scene.",
+        "id": "_P2QmKiLh2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_4wbcit0dy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "On <strong>May 15th</strong>, we offer a follow-up invitation. In a working meeting, we want to take the next step and ask: <strong>What should a network of dance for young audiences look like?</strong>",
+        "id": "_58eftgksq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We will address the following questions:",
+        "id": "_j81zhjr3d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How can a network ensure that dance for young audiences receives more public attention and support, and that the impact of our work is noticed?",
+        "id": "_j7q8sfslt",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "How can we create a network that is inspirational, creative, diverse and open for everyone?",
+        "id": "_c16k2bw3j",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "What are a network\u2019s concrete goals? What tasks should it undertake? Whose demands should it represent? Who should build this network?",
+        "id": "_r16pha83f",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "What organizational structure do we want to give the new network? Do we orient ourselves towards models of existing cultural-political associations? Or do we create something new?",
+        "id": "_49pbkhcxm",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_61zhh51jn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "After opening remarks and a presentation of the results of FUTUR I, we will first let ourselves be stimulated and inspired by input from design thinkers, before we divide into working groups to develop and share drafts on the complexes of questions mentioned above.<br><br>",
+        "id": "_kmg1YQ3xe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>The working meeting can be combined with two visits to festival productions: <a href=\"https://www.fratz-festival.de/en/performances-fratz-festival/details-productions-ff/kolofu-2/72c4a14e9171850ec9ae2cfdf8fcdbc3/\">KOLOFU</a> by the Nigerian group Kininso Koncepts at 10:30 at TANZKOMPLIZEN Studio in Podewil, and <a href=\"https://www.fratz-festival.de/en/performances-fratz-festival/details-productions-ff/flip-flop-2/07b491d95868f7477639ca2ca24763ef/\">FLIP-FLOP</a> by Nasheeka Nedsreal &amp; Theater o.N. at 17:30 at FELD Theater f\u00fcr junges Publikum in Sch\u00f6neberg. Tickets are available at the <a href=\"https://www.fratz-festival.de/en/tickets-service-fratz-festival/tickets/#c1736\">FRATZ ticket shop</a>.</em>",
+        "id": "_ieauuUXZb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_7sjhqgx9f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Timeslot:</strong> May 15th, 12:00 - 16:00<br><strong>Location:</strong> <a href=\"https://www.fratz-festival.de/en/tickets-service-fratz-festival/venues/#c1462\">TANZKOMPLIZEN Studio im Podewil</a> (Mitte)",
+        "id": "_wwqyorwpy",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

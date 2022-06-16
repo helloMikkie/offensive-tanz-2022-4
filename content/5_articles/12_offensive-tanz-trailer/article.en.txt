@@ -1,0 +1,44 @@
+Title: Project Trailer
+
+----
+
+Vimeo: https://vimeo.com/446772085
+
+----
+
+Subtitle: 
+
+----
+
+Featured: true
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-08-12
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "A little over half a year Offensive Tanz f\u00fcr junges Publikum: After a successful start, we entered the hot project phase in January 2020 in good spirits and with lots of motivation, until the Corona Pandemic slowed us down like so many other artists and cultural institutions.",
+        "id": "_jasbd2b5c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nevertheless, we have continued working, looked ahead, made as much digital material available as possible - sample recordings, videos, streaming. We interviewed young people about movement, touch and dance in times of the pandemic and danced with the team in Treptower Park. Our first Offensive Tanz trailer captures these exciting moments in just under two minutes.",
+        "id": "_na70tfpnh",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

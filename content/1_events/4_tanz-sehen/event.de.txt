@@ -1,0 +1,73 @@
+Title: Tanz sehen
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: true
+
+----
+
+Label: Workshop für alle ab 6 Jahren
+
+----
+
+Author: Amelie Mallmann
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-04-09
+
+----
+
+Time: 15:00:00
+
+----
+
+Duration: 02:30:00
+
+----
+
+Location: TANZKOMPLIZEN im Podewil
+
+----
+
+Tickets: tickets@tanzkomplizen.de
+
+----
+
+Age: 6
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: https://tanzkomplizen.de/fuer-einander-gemacht/
+
+----
+
+Description: [{"content":{"text":"<p>\"Tanz sehen\" ist ein neues, kostenloses Format, das TANZKOMPLIZEN in Kooperation mit der Offensive Tanz entwickelt. Es richtet sich an alle, die mehr \u00fcber die Entstehung von Tanzst\u00fccken wissen und verstehen wollen.<\/p>"},"id":"dd49cef5-4e86-4026-823b-b57b8634cfae","isHidden":false,"type":"text"},{"content":{"text":"<p>Das Publikum trifft sich vor einer Vorstellung mit der Tanzvermittlerin Amelie Mallmann, um zun\u00e4chst spielerisch in die Thematik des St\u00fcckes einzusteigen und sich im Anschluss in Spezialist:innengruppen aufzuteilen. Jede Gruppe bekommt einen besonderen Fokus oder Auftrag, z.B. auf das B\u00fchnenbild oder den Sound zu achten. Ziel ist es, die <strong>Wahrnehmung zu sch\u00e4rfen<\/strong> und den Blick f\u00fcr das Zusammenwirken unterschiedlichster theatraler Mittel zu weiten. Nach der Vorstellung trifft sich die Gruppe noch einmal, um alle Beobachtungen auszuwerten.<\/p>"},"id":"5b69e3d2-cd79-4f55-a61f-e821785722c1","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"b02d93fe-2221-455c-b73f-f2f8154027f6","isHidden":false,"type":"text"},{"content":{"text":"<p>Der erste Termin ist am <strong>9.4. um 15 Uhr<\/strong>, eine Stunde vor Beginn des St\u00fcckes <strong><u><a href=\"https:\/\/tanzkomplizen.de\/fuer-einander-gemacht\/\">F\u00dcREINANDER GEMACHT<\/a><\/u><\/strong>.<br><\/p>"},"id":"4e166fb1-8fba-4e2a-a34b-8c3748fff372","isHidden":false,"type":"text"},{"content":{"text":"<p>In diesem St\u00fcck geht es um Flora. Sie ist einsam. Daher pflanzt sie sich ihre Freund:innen wie Blumen auf ihrem eigenen Stu\u0308ck Land. Doch was nun? Muss sie diese frischen Menschen jetzt erziehen wie Kinder? Kann sie bestimmen, wie sie sich benehmen, worauf sie Lust haben \u2013 dass sie sie m\u00f6gen? Was passiert, wenn sie sich pl\u00f6tzlich unabh\u00e4ngig machen wollen?<\/p>"},"id":"3dcb5b36-970e-4e69-9cd4-91e8991f9eeb","isHidden":false,"type":"text"},{"content":{"text":"<p>Der australische Choreograf Grayson Millwood setzt in seinem St\u00fcck besonders auf Sound-Effekte und erschafft damit eine magische Fantasiewelt, die so manche unheimliche Frage aufwirft.<\/p>"},"id":"016fcd9b-e1a9-4028-a752-a3ef437fd9be","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"15c9e126-d676-4d54-8cec-7a2a3e8ef5ee","isHidden":false,"type":"text"},{"content":{"text":"<p>Idee &amp; Choreografie: Grayson Millwood \/ The Farm<br>Tanz: Tatiana Saphir, Gabriel Galindez Cruz, Chris Scherer<br>Dramaturgie: Jeff Wood<br>Bu\u0308hne: Brad Hwang<br>Sound: Johannes Malfatti<br>Licht: Martin Pilz<br>Vermittlung: Amelie Mallmann<\/p>"},"id":"22f006d0-9b46-481b-ac98-e2e73791499d","isHidden":false,"type":"text"},{"content":{"text":"<p><br><br><\/p>"},"id":"b4713758-ce34-4972-be66-062aef7051b8","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

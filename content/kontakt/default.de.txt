@@ -1,0 +1,68 @@
+Title: Kontakt
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o Studio36 GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "id": "_xorxb4099",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"mailto: info@offensive-tanz.de\">info[at]offensive-tanz.de</a>",
+        "id": "_adq92sckt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Registergericht:</strong> Amtsgericht Berlin-Charlottenburg HRB 212825",
+        "id": "_jcxjs0uzf",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Vertreten durch die Gesch\u00e4ftsf\u00fchrung:</strong> Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "id": "_duzv00c4z",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Presse- und \u00d6ffentlichkeitsarbeit</strong>: <a href=\"mailto:l.kraus@offensive-tanz.de\">Laura Kraus</a>",
+        "id": "_51osc3pkm",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Partner",
+        "id": "_qlw91trfy",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://purple-tanzfestival.de/\">PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum</a>",
+        "id": "_kzggam6yz",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://tanzkomplizen.de/\">Tanzkomplizen</a>",
+        "id": "_d4560tftz",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.theater-strahl.de/\">Theater Strahl</a>",
+        "id": "_q67qy9zgg",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.theater-on.de/aktuell/\">Theater o.N.</a>",
+        "id": "_te1g7lfsj",
+        "type": "ul"
+    }
+]

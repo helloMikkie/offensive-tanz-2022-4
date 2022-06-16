@@ -1,0 +1,68 @@
+Title: Contact
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "OfTa Offensive Tanz Berlin gUG (haftungsbeschr\u00e4nkt)<br>c/o Studio36 GmbH<br>Oranienstra\u00dfe 183<br>10999 Berlin",
+        "id": "_xorxb4099",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"mailto: info@offensive-tanz.de\">info[at]offensive-</a><a href=\"mailto:info@offensive-tanz.de\">tanz</a><a href=\"mailto: info@offensive-tanz.de\">.de</a>",
+        "id": "_adq92sckt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Register Court:</strong> Amtsgericht Berlin-Charlottenburg HRB 212825",
+        "id": "_7zi6861qy",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Represented by Executive Board: </strong>Karen Giese, Doreen Markert, Thomas D\u00f6rschel, Inge Zysk",
+        "id": "_7hi7xn8tg",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Press and public relations</strong>: <a href=\"mailto:l.kraus@offensive-tanz.de\">Laura Kraus</a>",
+        "id": "_qlt5snw7q",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Partners",
+        "id": "_qlw91trfy",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://purple-tanzfestival.de/\">PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum</a>",
+        "id": "_7n6oethgf",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://tanzkomplizen.de/\">Tanzkomplizen</a>",
+        "id": "_2krrlii0x",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.theater-strahl.de/\">Theater Strahl</a>",
+        "id": "_cjr58mfhs",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.theater-on.de/aktuell/\">Theater o.N.</a>",
+        "id": "_tyt18upp2",
+        "type": "ul"
+    }
+]

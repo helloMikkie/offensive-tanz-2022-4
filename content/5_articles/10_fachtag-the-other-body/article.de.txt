@@ -1,0 +1,182 @@
+Title: "The Other Body"
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Schritte der Veränderung
+
+----
+
+Featured: true
+
+----
+
+Author: TANZKOMPLIZEN und Offensive Tanz
+
+----
+
+Date: 2020-10-02
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "\u201cIn everyday life, like in theatre and performance spaces, there is a dramaturgy of power and privilege, which is also a dramaturgy of hierarchy, separation, rupture and elimination. Racism is embedded in all those domaines, racism is an intersectional sphere in itself, a vast area of transcultural intersectionality.\u201d",
+        "id": "_r0i7751ah",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Nora Amin",
+        "id": "_g5h85ecli",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zum Auftakt der <em>Offensive Tanz f\u00fcr junges Publikum</em> hat das Team von TANZKOMPLIZEN zahlreiche Interviews mit K\u00fcnstler*innen und Institutionen gef\u00fchrt, um Handlungsfelder f\u00fcr das Gesamtprojekt der <em>Offensive</em> zu definieren. Dabei wurde deutlich, wie notwendig es ist, strukturellen Rassismus im Tanz zu thematisieren und auf eine st\u00e4rkere Diversit\u00e4t bzw. mehr \u201eEquality\u201c in Ausbildung und Produktion hinzuarbeiten.",
+        "id": "_Es2lAft9Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die erste Veranstaltung der <em>Offensive</em> zum Thema \u201eTanz und Rassismus\u201c fand nun im September 2020 in der Schillertheater-Werkstatt und als <a href=\"https://youtu.be/vmPQu7VjdXE\">Livestream auf Youtube</a> statt, initiiert und organisiert von TANZKOMPLIZEN. Der Fachtag \u201e<a href=\"https://offensive-tanz.de/de/events/the-other-body\">The other body</a>\u201c brachte Tanzschaffende, Tanzexpert*innen, Tanzp\u00e4dagog*innen und interessiertes Publikum zusammen, um rassistische Strategien in der Tanzp\u00e4dagogik und in den \u00e4sthetischen Traditionen des choreografierten Tanzes zu analysieren.",
+        "id": "_WNpUUrqkT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Konzipiert und kuratiert wurde die Konferenz von der \u00e4gyptischen T\u00e4nzerin, Choreografin und Schriftstellerin Nora Amin, die in ihrer <a href=\"https://youtu.be/rRVx9CCvodg\">Er\u00f6ffnungsrede</a> \u00fcber Mechanismen von Inklusion und Exklusion im Tanz, \u00fcber Hierarchie und Ownership und \u00fcber ihr sehr pers\u00f6nliches Engagement f\u00fcr eine Ver\u00e4nderung der aktuellen Strukturen sprach:",
+        "id": "_8zvZn198D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-nora-amin-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/1476976360-1601629399/the-other-body-nora-amin-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-nora-amin-still.png",
+            "ratio": 1.78045112781954895098124325159005820751190185546875,
+            "caption": ""
+        },
+        "content": "(VIDEO)",
+        "id": "_k8xzenbqg",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Der Fachtag war in drei thematische Bl\u00f6cke gegliedert. In einer ersten Session \u201e<a href=\"https://youtu.be/E_GjIket9jk\">Critical initiatives by emerging artists</a>\u201c sprach die Tanzvermittlerin Amelie Mallmann mit den beiden K\u00fcnstler*innen Zwoisy Mears-Clarke und T\u00fcmay K\u0131l\u0131n\u00e7el \u00fcber deren Arbeit. Welche Erfahrungen machen sie als Tanzschaffende mit Rassismus und wie verarbeiten sie diese in ihrer Kunst?",
+        "id": "_vEpad57Cz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-session1-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/-1124157498-1601629601/the-other-body-session1-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-session1-still.png",
+            "ratio": 1.7789473684210526105431426913128234446048736572265625,
+            "caption": ""
+        },
+        "content": "(VIDEO)",
+        "id": "_h88n3w3jj",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Die zweite Session \u201e<a href=\"https://youtu.be/qVbs1Zb-IgY\">Dance pedagogy from a socio-political perspective</a>\u201c richtete den Blick auf Ausbildungsstrukturen. Nora Amin sprach mit der Tanzwissenschaftlerin Nina H\u00e4nel und der k\u00fcnstlerischen Leiterin von TanzZeit, Livia Patrizi, \u00fcber Inhalte und Methoden der Vermittlung und Zugangsbarrieren auf dem Weg zum/zur professionellen T\u00e4nzer*in:",
+        "id": "_6JbrXgN8w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-session2-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/622645703-1601629829/the-other-body-session2-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-session2-still.png",
+            "ratio": 1.7789473684210526105431426913128234446048736572265625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_3jwcthu7z",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "In der dritten Session \u201e<a href=\"https://www.youtube.com/watch?v=-LEM87oczsw\">The performative political body of today</a>\u201c diskutierte Michael Freundt, Vorsitzender des Dachverband Tanz, mit den K\u00fcnstlerinnen Hannah Ma und Mey Seifan. Es ging unter anderem um die Frage, wie die F\u00f6rderlandschaft im Tanz aufgestellt sein muss, um diversit\u00e4tsf\u00f6rdernde Strukturen zu ber\u00fccksichtigen.",
+        "id": "_QALKVtPyy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-session3-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/-460190201-1601629892/the-other-body-session3-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-session3-still.png",
+            "ratio": 1.78045112781954895098124325159005820751190185546875,
+            "caption": ""
+        },
+        "content": "(VIDEO)",
+        "id": "_4tjd0ibo3",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Nach jedem der drei Themenbl\u00f6cke wurde das Publikum eingeladen, in Kleingruppen \u00fcber die er\u00f6ffneten Fragen in den Austausch zu kommen. Den Abschluss des Tages bildete eine <a href=\"https://youtu.be/fT_8JxpnnO0\">performative Session</a> mit jeweils 10-min\u00fctigen Beitr\u00e4gen der T\u00e4nzer*innen Raphael Hillebrand, Mohammed Diban, Pasquale Rotter, Josep Garcia Caballero und Raha Nejad.",
+        "id": "_27MglYH94",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+fachtag-the-other-body/files/the-other-body-performativesession-still.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/fachtag-the-other-body/-41398699-1601629944/the-other-body-performativesession-still.png",
+            "id": "articles/fachtag-the-other-body/the-other-body-performativesession-still.png",
+            "ratio": 1.7789473684210526105431426913128234446048736572265625,
+            "caption": ""
+        },
+        "content": "(VIDEOS)",
+        "id": "_vbdaoo4cs",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Die Offensive Tanz hat sich mit dieser Konferenz auf einen Weg begeben, der zu weiteren Veranstaltungen und zu einem vertieften fachlichen Austausch f\u00fchren wird. Die diskutierten Fragen werden zun\u00e4chst auf dem Symposium \u201e<a href=\"https://offensive-tanz.de/de/events/internationalitat-und-diversitat-im-tanz-fur-junges-publikum\">race \u2013 class \u2013 gender: Intersektionale Perspektiven in Tanz und Theater f\u00fcr die J\u00fcngsten</a>\u201c wiederaufgenommen, das das Theater o.N. im Rahmen des Festival FRATZ International im Oktober/November 2020 veranstalten wird.",
+        "id": "_Lf3Ay5sVy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Im Januar 2021 findet das Thema dann seine \u00dcbertragung auf eine B\u00fchnentanz-Produktion: Mit \u201eA Human Race\u201c zeigt TANZKOMPLIZEN im Rahmen der Offensive ein St\u00fcck des franz\u00f6sischen KRUMP-T\u00e4nzers und Choreografen Grichka Caruge, das die Kraft des Tanzes beim Aufbegehren gegen Ungerechtigkeit und Rassismus zum Thema hat.",
+        "id": "_LhfVNIBx1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wir machen uns auf den Weg. Und gehen Schritte der Ver\u00e4nderung.",
+        "id": "_qIqNZ3SSU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>\u201cTo develop dance for youth and dance in education is to work towards the future situation of the dance field in general, and to empower an equal and participatory domaine where dance creation can expand and meet the new horizon of a growing society.\u201d</em>",
+        "id": "_j3zjo5he2",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Nora Amin",
+        "id": "_byex2kjot",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_bgd0dB6Ne",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

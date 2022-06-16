@@ -1,0 +1,106 @@
+Title: Audience Development
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: false
+
+----
+
+Label: Online and direct Survery
+
+----
+
+Author: PURPLE and Offensive Tanz
+
+----
+
+Date: 2020-12-31
+
+----
+
+Time: 
+
+----
+
+Duration: 
+
+----
+
+Location: Different Venues
+
+----
+
+Tickets: purple@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Online survey</strong><br>On behalf of the Offensive Tanz f\u00fcr junges Publikum, PURPLE Dance Festival conducts online surveys -- two different questionnaires were created for this purpose. One is aimed specifically at <a href=\"https://offensivetanz.typeform.com/to/p1gAGntK\">children and young people</a>, the other at<a href=\"https://offensivetanz.typeform.com/to/Di27Fc\"> teachers, educators and par</a>\u2013Both surveys are certainly treated anonymously.",
+        "id": "_tn75ii4os",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The results of the survey aim to provide insights into how the art form of dance can reach and inspire even more young people in the future.",
+        "id": "_kx6uhqwfw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Direct audience survey</strong><br>Following the presentations of the four Offensive partners, we ask our visitors to share their experiences regarding participation in the events with us. The anonymous questionnaires in the foyers of the various venues help to improve the procedures surrounding the visits to the dance performances and to learn how our audience becomes aware of us.",
+        "id": "_fmUy828L1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Interviews with young people</strong><br>In order to understand the wishes and needs of our target group even better, we conduct individual interviews on the topics of \"dance and watch dance yourself\" with young people aged 12 to 18. Our aim is to understand the relationship that our interview partners have to dance in general. Through this direct exchange, we aim to get to know our audience better and expand our program in order to continue to offer interesting and relevant topics for young people.",
+        "id": "_eYu5fVDvh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_y7Di54WKS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_KwbKWOy02",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_qJOBAoB08",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

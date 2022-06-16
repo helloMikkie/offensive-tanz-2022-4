@@ -1,0 +1,242 @@
+Title: On the move
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Conference on the future of dance for a young audience
+
+----
+
+Featured: true
+
+----
+
+Author: Tim Winter
+
+----
+
+Date: 2022-03-14
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "On January 23, 2022, experts from the dance and theater scene came together to discuss the future of \"dance for young audiences\" at the symposium <a href=\"https://offensive-tanz.de/de/articles/www.offensive-tanz.de/de/events/auf-dem-sprung-zur-sparte\">FUTUR TANZ I: Auf dem Sprung zur Sparte?</a> Where do we locate ourselves as actors in this art form? How do we want to work together in the future? And who is actually <em>we</em>?",
+        "id": "_gjar7bzsw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "With more than 120 registrations from all over Germany - from large and small theater and dance institutions and the independent scene to funding bodies and representatives of cultural policy - it was already clear in advance that there was great interest in these questions and a high demand for exchange. More than 60 participants followed the digital conference, which consisted of three debate blocks and a discourse format in small groups (breakout rooms).",
+        "id": "_eHoR0y9jH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/livia.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/2875144831-1646995505/livia.png",
+            "id": "articles/futur-tanz-1/livia.png",
+            "ratio": 1.6970534069981584313069333802559413015842437744140625,
+            "caption": "Livia Patrizi welcomes the participants"
+        },
+        "content": "",
+        "id": "_pbdn4qif1",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Livia Patrizi</strong>, Artistic Director of OfTa partner TANZKOMPLIZEN, opened the event with a plea not to lose sight of the young target group and its needs in all structural considerations:",
+        "id": "_9vnho5gjr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"If young people aren't going to the theater to see dance, it has something to do with our cultural system, which is us.\"",
+        "id": "_pdqe310xm",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "We as cultural workers are responsible for breaking down barriers to access in order to make dance for young audiences attractive to children and young people: \"What can we do to strengthen dance for young audiences sustainably and nationwide? Fight against adultism (...) and make sure that this term is taken seriously and represented alongside racism, classism, ableism, etc. in the current professional discourse? To fight for all venues, theaters, dance houses, festivals, independent companies and thus the entire dance scene to offer programs for young audiences? That in the future all juries of funding programs will always include experts for young dance?",
+        "id": "_Ge6m0Z2AP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Moderator <strong>Elena Philipp</strong> then passed on these questions to the guests of the three debate rounds.",
+        "id": "_vc5idf1q7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "WHERE DOES DANCE FOR YOUNG AUDIENCES STAND TODAY?",
+        "id": "_zjst2julg",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "In debate one, the focus was on the positioning of the sector between dance and children's theater. <strong>Stefan Fischer-Fels</strong>, director of the Junges Schauspiel at the D\u00fcsseldorf Schauspielhaus, took a look back to the seventies. The development of a separate section for children's and youth theater was already driven by the same core issues that are still relevant today: children's right to cultural participation, the question of definition via the art form or via the audience, the goal of achieving higher budgets and better working conditions for the children's and youth sector, the claim to recognize the realities of children's lives and not to trivialize them. According to Fischer-Fels, establishing children's and youth theater as an independent branch helped to strengthen children's rights in general and was able to achieve a lot over the years. But even today, there are great differences to the working and budget conditions in adult theater. A separate division is therefore helpful, but not the solution to all problems.",
+        "id": "_3VshoZANT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/debatte-1.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/5129797-1646995667/debatte-1.png",
+            "id": "articles/futur-tanz-1/debatte-1.png",
+            "ratio": 1.6970534069981584313069333802559413015842437744140625,
+            "caption": "Elena Philipp, Stefan Fischer-Fels, Martina Kessel, Gabi dan Droste"
+        },
+        "content": "",
+        "id": "_528ccy864",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Martina Kessel</strong>, board member of Aktion Tanz, drew on her experience as founder of the Young Dance section at Tanzhaus NRW: Even today, makers, producers and not least the venues themselves face special challenges when they want to bring dance for young audiences to the stage. Many other countries, above all Belgium, the Netherlands and Scandinavia, are already much further ahead in their structures. There, the need for high-quality, participatory cultural offerings for children and young people is estimated to be higher than in Germany. In 2006, Take-off: Junger Tanz provided the first long-term structural support for dance for young audiences. This made it possible to develop initial collaborations within the scene, to strengthen cooperation with educational institutions, and to consolidate reliability and quality in the daily work for young audiences. Behind all these factors is the need for continuous funding and sufficient space.",
+        "id": "_1y8aawxp1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gabi dan Droste</strong>, director of the FELD Theater and initiator of the Young Dance Network, focused on the dance makers themselves. Young artists in particular are often interdisciplinary, as they no longer see themselves only as dancers, but also as bloggers, musicians, media professionals and participants in discourse. This makes contemporary dance a cross-disciplinary art form. With a view to the theater world, dan Droste addressed what she sees as the long-slept-in integration of dance as an art form into institutional structures. And concluded, like the previous speaker, with a plea for quality assurance and sustainability, in order to make the leap into a possible divison \"dance for young audiences\" a \"flight\" and not a \"crash landing\".",
+        "id": "_iwvzz7eil",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The search for differences and similarities between theater and dance characterized the subsequent <strong>discussion</strong> of the three speakers: Intensive text and manuscript work on the one hand, work starting from an idea or improvisation on the other. Substantial resources for months or even years of development of a piece are contrasted with often slim project funding and short rehearsal phases. Is there a need for a quota for dance? A quota for children's and youth productions? There was agreement above all on the finding that everyone can learn from each other in development and work processes, such as the early participation of young people in the development of a piece.",
+        "id": "_ggmtjaily",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/debatten-1-3-screen.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/3924860000-1647005761/debatten-1-3-screen.png",
+            "id": "articles/futur-tanz-1/debatten-1-3-screen.png",
+            "ratio": 1.21993127147766333706613295362330973148345947265625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_4m6nxd5pj",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "CONTINUOUS FUNDING OF STRUCTURES",
+        "id": "_s6615xnns",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "After a short movement impulse by <strong>Florian Bilbao</strong>, debate two focused on <strong>production and funding policy</strong>.",
+        "id": "_ah2vqfw5m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Kerstin Evert</strong>, director of K3 in Hamburg and member of the Explore Dance network, stated that there are still many structural tasks to be solved for dance as an art form: Dance, she said, is more often threatened by cutbacks at city and state theaters than other genres, and dance juries remain few and far between. Despite the differences between dance for young audiences and dance in general, both areas share the same goals: larger funding volumes and more intensive community work. Continuity is the most important adjusting screw here, both for production and mediation, as well as for daily work and employment.",
+        "id": "_5naawdzl2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Theresa Darian</strong> opened her presentation with a look at the long tradition of support for dance at the Bundeskulturstiftung. With the Jupiter program, the focus has now shifted to the target group of young audiences. The decisive factor for this, she said, was the realization that theaters still often have only very limited funds available for training, fees and production work in the area of children's and youth culture. A foundation alone, however, could not remedy these structural deficiencies. Intensive, interdisciplinary discourse continues to be important here.",
+        "id": "_j0osb4wk6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "DOES DANCE FOR YOUNG AUDIENCES NEED ITS OWN NETWORK?",
+        "id": "_fbn9r00yl",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "The topic of networking was then discussed by <strong>Michael Freundt</strong> of Dachverband Tanz and choreographer <strong>Alfredo Zinola</strong>. According to Freundt, one of the first tasks after the founding of the Dachverband Tanz was to establish a culture of dialogue. In addition to lobbying at the federal level, he said, the insight has grown to not only finance concepts, but also to implement them themselves in order to develop expertise and enable basic research. He also emphasized the importance of interdisciplinarity and permeability in dance - between professional and semi-professional artists, as well as in questions of the conquest of theater structures by dance, in order to bring their own potential into exchange at eye level.",
+        "id": "_enwp1idhf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Alfredo Zinola</strong> cited his employment as a factory artist at the Tanzhaus NRW as a good example of financing as a choreographer for at least two years. The exchange of knowledge, which in his opinion takes place too little within the dance sector, was one of the main goals of the founding of the \"Young Dance Network\", an initiative within ASSITEJ International. Dance should not be allowed to withdraw too much into its own division in order to generate sufficient visibility. To this end, funding programs are also needed at the international level to facilitate cross-border exchange between artists.",
+        "id": "_pmxk1s1b2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+futur-tanz-1/files/mentimeter_futur-tanz-i-screen.png",
+            "src": "https://offensive-tanz.de/media/pages/articles/futur-tanz-1/3703663949-1647006042/mentimeter_futur-tanz-i-screen.png",
+            "id": "articles/futur-tanz-1/mentimeter_futur-tanz-i-screen.png",
+            "ratio": 1.5727376861397479590465309229330159723758697509765625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_2xahzt50b",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "In four <strong>breakout rooms</strong>, all symposium participants discussed the questions formulated in advance in small groups. The desire for a closer exchange between established institutions and the independent scene came up, for example about the staffing of management levels at theaters and dance houses. In addition, the desire for an independent network of dance for young audiences, which ideally functions without too strict a demarcation from other art forms, as well as the need for more knowledge transfer, a common struggle for more participation of young people in cultural life and the understanding of theater as a place for all forms of art.",
+        "id": "_iw4sp86kg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_46p9imxkk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The symposium <strong>FUTUR TANZ I </strong>was a first step to lead the still young art form dance for young audiences into the future. Following on from the questions of location and thinking them through further, the <strong>second edition of FUTUR TANZ </strong>will take place on <strong>May 15, 2022</strong>, then as part of Theater o.N.'s FRATZ Festival.",
+        "id": "_c40eippmb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Location and program will be announced soon, feel free to keep informed via the Offensive Tanz page as well as via our <a href=\"https://offensive-tanz.de/de/articles/www.offensive-tanz.de/de#newsletter\">newsletter</a>.",
+        "id": "_8izstj7q8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ssr1u1pxt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Further material",
+        "id": "_2tw0po435",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://offensive-tanz.de/de/service/graphic-recording-futur-1\">Complete Graphic Recording by Liane Hoder</a>",
+        "id": "_rqbdrwdrh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<a href=\"https://www.mentimeter.com/s/6ed697027c1aeb12afe610c5066392d9/e5eb08fe7347\">Complete mentimeter with all comments on the event</a>",
+        "id": "_cspl4xmbq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_9e3tanh0p",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

@@ -1,0 +1,69 @@
+Title: The other body?
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: false
+
+----
+
+Label: Fachtag Tanz und Rassismus
+
+----
+
+Author: TANZKOMPLIZEN und Nora Amin
+
+----
+
+Date: 
+
+----
+
+End-date: 2020-09-10
+
+----
+
+Time: 14:00:00
+
+----
+
+Duration: 07:00:00
+
+----
+
+Location: Schillertheater-Werkstatt oder via Zoom
+
+----
+
+Tickets: kontakt@tanzkomplizen.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: 
+
+----
+
+Description: [{"content":{"text":"<p><strong>Was macht Rassismus mit dem K\u00f6rper? <br>Wie handelt der K\u00f6rper, um rassismusfreie Denk- und F\u00fchlr\u00e4ume zu schaffen?<\/strong><\/p>"},"id":"f1f3d252-aac7-40d5-8c30-a7d7f39a6bb0","isHidden":false,"type":"text"},{"content":{"text":"<p>\"The Other Body?\" ist eine eint\u00e4gige Konferenz \u00fcber Tanz und Rassismus. In Vortr\u00e4gen und Panels sprechen K\u00fcnstler*innen, Tanzp\u00e4dagog*innen und Zuschauer*innen \u00fcber Etikettierung, Objektivierung und Entmenschlichung des tanzenden K\u00f6rpers unter Ber\u00fccksichtigung gesellschaftspolitischer Identit\u00e4ten und aus der Perspektive der Entkolonialisierung. Im Zentrum der Konferenz steht die Analyse rassistischer Strategien in der Geschichte der Tanzp\u00e4dagogik und in den \u00e4sthetischen Traditionen des choreografierten Tanzes. Drei Sessions bieten Raum f\u00fcr Diskussionen, ein abschlie\u00dfender Slot er\u00f6ffnet die M\u00f6glichkeit des performativen Ausdrucks.<\/p>"},"id":"b1289d56-cad3-4148-99a3-d7f8ab472d73","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Ablauf<\/strong><\/p>"},"id":"0002406a-3f88-4a49-83b8-40b21e3ddcd4","isHidden":false,"type":"text"},{"content":{"text":"<p>1<strong>4:00\u201314:30<\/strong> Keynote Nora Amin<\/p>"},"id":"afbd2c55-2d23-4393-aea5-a4146f03246a","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>14:30\u201316:00 <\/strong>Session 1: Critical initiatives by emerging artists \/\/ What are critical initiatives and projects happening in Germany by emerging choreographers and dancers today?<\/p>"},"id":"f8e5349f-817c-4b1c-8dd3-e0b63136b93b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>16.00-16.15 <\/strong>Pause<\/p>"},"id":"49b7cd49-74d3-453a-a325-0147cf861666","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>16:15\u201317:45<\/strong> Session 2: Dance Pedagogy from a socio-political perspective \/\/ How much is dance pedagogy informed by diversity and by the transforming political identities? What new teaching approaches are necessary?<\/p>"},"id":"7d31a710-601e-4d1d-8459-ddc5a7b767fd","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>17:45\u201318:00 <\/strong>Pause<\/p>"},"id":"29f2405f-8468-4e69-a070-7acd1811b55c","isHidden":false,"type":"text"},{"content":{"text":"<p>18:00-19.30 Session 3: The performative political body of today \/\/ What are the movements and corporalities\/corporealities existing today -and since some years- that have been shaped by protests, demonstrations, revolutions and wars? What new\/other bodies emerge from there? How can those political bodies inspire staged dance beyond imitation?<\/p>"},"id":"12e95393-cb65-4b2c-a269-b809133162ee","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>19:30\u201320:00 <\/strong>Pause mit Suppe<\/p>"},"id":"d2ef071a-39f3-490c-bfc2-75519df33a9a","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>20:00\u201321:00 <\/strong>Performatives Feedback<br>Ausgew\u00e4hlte T\u00e4nzer*innen sind gebeten, ihren Eindruck des Fachtages in Slots von 10 Minuten zu verk\u00f6rpern.<\/p>"},"id":"f3849da2-83e0-4d10-954c-b637e3bb1318","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Aufgrund der aktuellen Corona-Auflagen k\u00f6nnen nur maximal 20 Menschen am Fachtag teilnehmen. Alle 20 Pl\u00e4tze sind bereits vergeben.<\/strong><\/p>"},"id":"a7854c11-6b08-4311-88bb-667488a2337d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Da wir die Veranstaltung live streamen, ist eine Online-Teilnahme m\u00f6glich.<\/strong><\/p>"},"id":"491e81b3-7f2a-4573-9add-55943b660f3a","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Bitte melden Sie sich hierf\u00fcr ab dem 17.8. bis zum 7.9. unter <a href=\"mailto:kontakt@tanzkomplizen.de\">kontakt@tanzkomplizen.de <\/a>an.<\/strong><\/p>"},"id":"2beba63f-4304-495f-af50-3d6648a9d04b","isHidden":false,"type":"text"},{"content":{"text":"<p>Das ausf\u00fchrliche Programm inklusive aller teilnehmenden SpeakerInnen und K\u00fcnstlerInnen kann auf der <a href=\"https:\/\/tanzkomplizen.de\/the-other-body\/\">Website<\/a> der TANZKOMPLIZEN eingesehen werden.<\/p>"},"id":"5c60fd34-d408-486c-97ef-b2661bad278b","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: [{"content":{"text":"<p><strong>Die Veranstaltung ist in englischer Sprache.<\/strong><\/p>"},"id":"cdeb6d81-19b4-44ee-ab89-4640ecc5212b","isHidden":false,"type":"text"}]

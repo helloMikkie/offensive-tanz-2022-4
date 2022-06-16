@@ -1,0 +1,56 @@
+Title: Purple Summer
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Das junge Berlin tanzt
+
+----
+
+Featured: true
+
+----
+
+Author: Purple – Internationales Tanzfestival für junges Publikum
+
+----
+
+Date: 2021-11-19
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "\u00dcber den Sommer 2021 haben die beiden Sch\u00fclerinnen Noomi und Juna \u00fcber mehrere Wochen hinweg junge Tanzbegeisterte an f\u00fcnf verschiedenen Orten Berlins besucht, mit ihnen getanzt und sie zu ihrer Leidenschaft f\u00fcr den Tanz befragt. Herausgekommen sind wunderbare Videosequenzen, die Noomi und Juna \u00fcber ihre eigenen Instagram Kan\u00e4le geteilt haben und die zeigen, wie tanzbegeistert Berlin ist. Ihr k\u00f6nnt euch die Sequenzen jederzeit \u00fcber dieses <a href=\"https://www.instagram.com/stories/highlights/17871752147552611/\">Instagram Highlight </a>ansehen. So viel sei gesagt: Es lohnt sich!",
+        "id": "_56lz3gh3b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Angefangen hat \u00fcbrigens alles mit unserer <a href=\"https://offensive-tanz.de/de/articles/publikumsforschung\">Publikumsbefragung 2020</a>, durchgef\u00fchrt von PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum. \u00dcber das gesamte Jahr hinweg hatten wir mehrere Umfragen durchgef\u00fchrt, um herauszufinden, wie die Kunstform Tanz in Zukunft noch mehr junge Menschen erreichen und begeistern kann \u2013 vor allem auch w\u00e4hrend solcher Ausnahmesituationen wie der Pandemie. Es gab einen Fragebogen, der sich an Multiplikator:innen richtete und einen, der speziell Kinder und Jugendliche ansprach. Die Ergebnisse seitens der jungen Menschen: Viele von ihnen k\u00f6nnen zeitgen\u00f6ssischen Tanz als Kunstform nicht einordnen oder haben irref\u00fchrende Assoziationen, die eine Auseinandersetzung behindern. Dar\u00fcber hinaus sind es vor allem Empfehlungen aus dem eigenen Umfeld, die dazu f\u00fchren, dass junge Menschen gemeinsam Neues ausprobieren.",
+        "id": "_zcb7nv8m4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Aus dieser Umfrage heraus fand Anfang Mai dieses Jahres schlie\u00dflich unser dreit\u00e4giges Fachsymposium zum Thema \u201e<a href=\"https://offensive-tanz.de/de/events/symposium\">Wer ist unser Publikum?</a>\u201c statt. Beteiligt waren neben Expert:innen aus den Bereichen (performativer) Kunst, Kultur und Medien, auch mehrere Jugendliche, die den Beitr\u00e4gen folgten und mit ihrer Meinung am Ende eine kritische Reflexion erm\u00f6glichten \u2013 darunter Noomi und Juna. Die freie Tanzjournalistin Christine Matschke hat f\u00fcr uns die Ergebnisse des Fach-Symposiums im <a href=\"https://offensive-tanz.de/de/articles/allianzen-auf-augenhoehe-gestalten\">Offensive-Blog</a> zusammengefasst. Eine zentrale Aussage darin lautet: \"Dialoge auf Augenh\u00f6he entfachen statt Botschaften senden. Um Kindern und Jugendlichen einen gelungenen Zugang zu Kultureller Bildung zu erm\u00f6glichen, m\u00fcssen bestehende Hierarchien und Machtverh\u00e4ltnisse aufgel\u00f6st werden (\u2026) Nicht etwas F\u00dcR Jugendliche, sondern MIT Jugendlichen tun.\"",
+        "id": "_3u9z04i93",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Aus dieser Erkenntnis und der Motivation von Juna und Noomi heraus, ihre Leidenschaft f\u00fcr den Tanz weiter in die \u00d6ffentlichkeit zu tragen, entstand schlie\u00dflich die Aktion PURPLE SUMMER. Alle Beitr\u00e4ge und Videos der beiden wurden \u00fcber den gesamten Sommer hinweg sowohl \u00fcber den PURPLE als auch den Offensive Tanz Instagram Kanal geteilt. Sie sind dort auch weiterhin einsehbar. Ende August 2021 haben Juna und Noomi zudem f\u00fcr den gesamten Festival-Zeitraum den PURPLE Instagram Kanal \u00fcbernommen. Auch im Jahr 2022 wollen wir an weiteren Formaten arbeiten, die Jugendliche direkt einbeziehen, damit sie zu aktiven Mitgestalter:innen unseres Projektes werden.",
+        "id": "_uRm7ahXXm",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

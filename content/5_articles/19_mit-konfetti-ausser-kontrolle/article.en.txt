@@ -1,0 +1,96 @@
+Title: Volle Kraft voran
+
+----
+
+Subtitle: Beim Tanzfestival PURPLE geht im Januar die Offensive Tanz für junges Publikum Berlin an den Start.
+
+----
+
+Featured: false
+
+----
+
+Author: Michaela Schlagenwerth
+
+----
+
+Date: 2020-02-10
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Professionelle Tanzproduktionen f\u00fcr Kinder und Jugendliche? In Berlin lange eine Rarit\u00e4t. Seit einiger Zeit aber tut sich etwas, und diese Ver\u00e4nderung soll nachhaltig gestaltet werden: F\u00fcr ein breites Angebot und verst\u00e4rkte Sichtbarkeit tritt die Offensive Tanz f\u00fcr junges Publikum an. Gef\u00f6rdert im Exzellenzprogramm TANZPAKT Stadt-Land-Bund, stellen vier Partner in Berlin gemeinsam ein fl\u00e4chendeckendes, durchdachtes Angebot auf die Beine. \u00dcber die Offensive hat Michaela Schlagenwerth, Tanzjournalistin und als Kulturagentin in Schulen aktiv, mit Canan Erek gesprochen. Sie vertritt als k\u00fcnstlerische Leiterin von PURPLE \u2013 Internationales Tanzfestival f\u00fcr junges Publikum einen der vier Projektpartner, zu denen auch die TANZKOMPLIZEN, das Theater o.N. und das Theater Strahl z\u00e4hlen.</strong>",
+        "id": "_yvc59y79h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Michaela Schlagenwerth<br>Tanzjournalistin und Kulturagentin</em>",
+        "id": "_pc0nh9nby",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Klare Worte zum Thema Tanz, Kinder und Jugendliche fand Virve Sutinen, als sie vor f\u00fcnf Jahren die Leitung des Festivals <em>Tanz im August </em>\u00fcbernahm. Selbstverst\u00e4ndlich m\u00fcsse ein Festival dieser Gr\u00f6\u00dfenordnung auch internationale Produktionen f\u00fcr die j\u00fcngeren Zuschauer*innen pr\u00e4sentieren. Bislang ist daraus nichts geworden. Das Geld reicht nicht f\u00fcr eine eigene Kuratorin. Bei <em>Tanz im August </em>gibt es daf\u00fcr jetzt familiengeeignete St\u00fccke. Keine schlechte Idee, aber Produktionen, die sich explizit an Kinder und Jugendliche richten, sind trotzdem etwas anderes. Die Situation ist absurd: In Berlin leben so viele Choreograf*innen wie nirgendwo sonst in Deutschland. Aber professionelle Produktionen f\u00fcr junges Publikum gab es \u2013 bis auf wenige Solit\u00e4re \u2013 vor kurzem so gut wie nicht in der Stadt. Jetzt \u00e4ndert sich daran einiges, und zwar in durchaus erfreulichem Tempo.",
+        "id": "_n8wjq5xmw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2017 haben sich zeitlich parallel gleich zwei Akteur*innen aufgemacht. Die Choreografin und T\u00e4nzerin Canan Erek gr\u00fcndete mit <em>PURPLE</em> ein Tanzfestival f\u00fcr junges Publikum. Es zeigt Berliner und internationale Produktionen. Der Verein <em>TanzZeit \u2013 Zeit f\u00fcr Tanz in Schulen</em> entwickelte zeitgleich mit seinem Projekt <em>TANZKOMPLIZEN</em>eine eigene Produktionsschiene. Beide wussten, dass sie eine riesige Angebotsl\u00fccke schlie\u00dfen. Endlich zeitgen\u00f6ssische Tanzst\u00fccke f\u00fcr Kinder und Jugendliche! Getanzt von professionellen T\u00e4nzer*innen und entwickelt von professionellen Choreograf*innen! Ein Selbstl\u00e4ufer \u2013 eigentlich. Aber dem war nicht so. \u201eF\u00fcr die erste Festivalausgabe\u201c, sagt Canan Erek, \u201emussten wir uns unser Publikum erst noch erk\u00e4mpfen\u201c. <em>TanzZeit </em>gab es damals schon zw\u00f6lf Jahre. Aber Kindern und Jugendlichen das Selbst-Tanzen zu erm\u00f6glichen ist eben etwas ganz anderes als mit ihnen gemeinsam Tanz zu sehen. Beim Tanzsehen sind die Zuschauer*innen, egal welchen Alters, vor allem auf sich selbst zur\u00fcckgeworfen, auf ihre eigene (sinnliche) Wahrnehmung und ihre eigenen Assoziationen. Gerade das macht zwar das Besondere und Gro\u00dfartige von Tanz aus, aber f\u00fcr Lehrer*innen mit ihren vor allem kognitiven Zug\u00e4ngen ist es eine gro\u00dfe Herausforderung.",
+        "id": "_jow2jz65p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Inzwischen m\u00fcssen sich Canan Erek und die <em>TANZKOMPLIZEN</em> um Besucher*innen keine Sorgen mehr machen. Die dritte Ausgabe von <em>PURPLE</em>, die im Januar in den Uferstudios und vier weiteren Spielorten (Jugendtheaterwerkstatt Spandau, <em>TANZKOMPLIZEN</em>@Schillertheater-Werkstatt, TanzTangente, Theater Strahl) l\u00e4uft, ist schon Wochen vorher weitgehend ausverkauft. Vernetzt haben sich <em>PURPLE</em> und <em>TANZKOMPLIZEN</em> nun vor einer Weile mit zwei alteingesessenen Theatern, dem Theater Strahl und dem Theater o.N., die beide eine Tanzsparte auf- und ausbauen wollen. Gemeinsam haben die vier Partner f\u00fcr ihre <em>Offensive Tanz f\u00fcr junges PublikumBerlin </em>aktuell eine F\u00f6rderung von <em>TANZPAKT Stadt-Land-Bund </em>erhalten. F\u00fcr 2020 und 2021 sind insgesamt sechs Tanzproduktionen finanziert, die zum Teil auch national und international touren werden. Neue Vermittlungsformate werden entwickelt, f\u00fcr Kinder und Jugendliche, aber auch f\u00fcr Lehrer*innen und Erzieher*innen. In drei Symposien wird unter anderem dazu geforscht, wie Tanz auch jenseits der \u201ekulturellen Mitte\u201c attraktiv werden kann. <em>TANZKOMPLIZEN </em>kooperieren daf\u00fcr mit Ahmed Soura und Bouchra Ouizgen. Das Theater o.N. will mit Clebio Oliveira und Isabelle Schad zusammenarbeiten, und das Theater Strahl mit der niederl\u00e4ndischen Choreografin Josephine van Reenen.",
+        "id": "_ahzfskbr4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die Entscheidung der <em>TANZPAKT</em>-Jury setzt f\u00fcr das Land Berlin ein klares Zeichen: Hier besteht Bedarf! Nun kann man nur hoffen, dass dieses Signal auch ankommt. Bislang m\u00fcssen das Festival <em>PURPLE</em> und die <em>TANZKOMPLIZEN</em> finanziell von Jahr zu Jahr jonglieren. Eine Verstetigung steht an. Jetzt, mit den vier miteinander vernetzten Partnern, erst recht. Er\u00f6ffnet wird <em>PURPLE</em> im Januar von der <em>Cie Philippe Saire</em> aus Lausanne, die mit \u201eHocus Pocus\u201c f\u00fcr Kinder ab 7 Jahren die Schwerkraft au\u00dfer Kraft setzt \u2013 und ja vielleicht gleich noch ein paar andere Wunder bewirkt.",
+        "id": "_dn7ox3hrr",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "This text was originally published in trb tanzraumberlin magazine, issue 01/02 2020, available online via <a href=\"https://www.tanzraumberlin.de/magazin/artikel/volle-kraft-voran/\">this link</a>.",
+        "id": "_e947ksk4f",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Mit Konneftts",
+        "id": "_cqrsw6qsp",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Es ist 9:30 Uhr, eine Stunde vor Auff\u00fchrungsbeginn. Ich befinde mich in der Mensa der Neuen Grundschule Potsdam. Hier wird gleich die Vorstellung ONONON stattfinden. Gestern war Premiere in der Freien Schule in Potsdam. Der Raum ist noch sehr leer. Nur ein paar Erwachsene sitzen an den Tischen und trinken Kaffee, w\u00e4hrend das Team der Produktion das B\u00fchnenbild zusammenbaut. Eine Kiste aus Naturholz bestehend aus wenigen Versatzst\u00fccken, ungef\u00e4hr 2 mal 2 Meter gro\u00df, bilden das Fundament des mobilen Pop-Up B\u00fchnenbildes. Die Kiste ist praktisch und multifunktional. Sp\u00e4ter wird sie den Performer*innen C\u00e9cile Bally und Nir Vidanals B\u00fchne und Abtauchstation und den vielen Objekten als Stau- und Versteckraum dienen. Eine kleine Luke mit Klappe ist das Verbindungselement zwischen drinnen und drau\u00dfen, zwischen off und on.",
+        "id": "_16zp7pkfe",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Vimeo: 

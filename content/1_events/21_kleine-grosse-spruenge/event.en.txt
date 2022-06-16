@@ -1,0 +1,122 @@
+Title: Kleine große Sprünge
+
+----
+
+Vorlage: Tanzkomplizen
+
+----
+
+Featured: false
+
+----
+
+Label: Dance Piece / New Dates + Interview in Blog
+
+----
+
+Author: TANZKOMPLIZEN and Jasmin İhraç
+
+----
+
+Date: 2021-09-30
+
+----
+
+Time: 10:30
+
+----
+
+Duration: 
+
+----
+
+Location: Podewil, Klosterstraße 68, 10179 Berlin-Mitte
+
+----
+
+Tickets: tickets@tanzkomplizen.de
+
+----
+
+Age: 6
+
+----
+
+Caption: The age recommendations given here are only guidelines. In general, we welcome visitors of all ages. A contact person of the respective partner will be happy to provide you with more information.
+
+----
+
+Scedule:
+
+- 
+  datum: 2021-10-01
+  zeit: 10:30
+- 
+  datum: 2021-10-02
+  zeit: 15:00
+- 
+  datum: 2021-10-03
+  zeit: 15:00
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "Four dancers and a musician dare to do something. They take a step, dare to take small big jumps, sometimes they hesitate and maybe discover something new about themselves.",
+        "id": "_tNVRKx8fW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It's about obstacles, challenges and how to overcome them - or not. Everyone does this in their own way and faces different hurdles. Some obstacles are set by society, others arise in our head. What are obstacles anyway and how important is it to leave them behind? Do we find together more easily a solution to a problem that seems impossible for us alone?",
+        "id": "_kZHv4poLC",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists:
+
+- 
+  role: Choreography
+  name: Jasmin İhraç
+- 
+  role: Dance
+  name: >
+    Mbegne Kassé (Ben-J)/Abel Navarro, Ana
+    Laura Lozza/Tamara Saphir, Juan Corres
+    Benito, Tatiana Mejia
+- 
+  role: Dramatic Composition
+  name: Joachim Schlömer
+- 
+  role: Live Music/Arrangement
+  name: 'Ketan Bhatti '
+- 
+  role: Stage/Costume Desgin
+  name: Giulia Paolucci
+- 
+  role: Text
+  name: Sibylle Schmidt
+- 
+  role: Voice
+  name: Alina Hünting
+- 
+  role: Light
+  name: Martin Pilz
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

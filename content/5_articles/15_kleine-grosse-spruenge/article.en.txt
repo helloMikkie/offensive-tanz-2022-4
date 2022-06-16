@@ -1,0 +1,104 @@
+Title: Kleine große Sprünge
+
+----
+
+Vimeo: https://vimeo.com/409185375
+
+----
+
+Subtitle: Rehearsal Record
+
+----
+
+Featured: false
+
+----
+
+Author: Elisabeth Leopold for Offensive Tanz für junges Publikum
+
+----
+
+Date: 2020-05-05
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "As part of the Offensive Tanz f\u00fcr junges Publikum, the dance piece <strong>\"Kleine gro\u00dfe Spr\u00fcnge\" </strong>would have celebrated its premiere on 23 April 2020. Unfortunately, due to the Covid-19 pandemic, this has to be postponed until further notice. We are happy to be able to give an exciting insight into the development of the piece at this point tho. Based on how we humans overcome physical as well as mental obstacles, choreographer Jasmin \u0130hra\u00e7 develops a story in which the performers jointly overcome obstacles in imaginative environments such as the underwater world or a desert. Symbolically, these environments expand and become the environment as such, whose threat is the great obstacle of our time for all of us.",
+        "id": "_qrwkx01ii",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Jasmin, \u201eKleine Gro\u00dfe Spr\u00fcnge\u201c is about finding the last tree in the world. What does this search stand for?</strong>",
+        "id": "_qeuRZ9vCu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I would like to keep that open. The starting point of the piece is the question of how we deal with obstacles. Everyone has different strategies; at the same time, everyone is confronted with different problems or challenges. More and more I realized that it is good to have a story, a frame for what happens. What are these obstacles and in what context are they? Four people travel through different environments, like the desert or the universe. There, they face different obstacles and challenges. Other questions were, why do they overcome obstacles and what are they looking for? For themselves? Do they want to come back home? This is where the search for the last tree comes into play and it arises the question of a common challenge that we have to overcome. In this context, the tree stands for the way we treat the environment. This is the challenge that we must all tackle together, which we must fight for. The author Sibylle Schmidt has framed and written the story of this search. This is what we work with in the play.",
+        "id": "_zRmVlMdVx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>How is this search choreographically implemented and what do the four dancers and the musician encounter on this journey?</strong>",
+        "id": "_rQ911m4bt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The different environments gave us the opportunity to work on different qualities of movement. One moves differently in the desert, in the universe, under water. And of course the challenges are different in every world. So we worked a lot with improvisation. How do you move when you are in great heat? Or if you could float? How do you react to certain obstacles or circumstances? On stage there are many square wooden boxes. These are the elements designed by Giulia Paolucci with which we work throughout the piece. So the stage is constantly changing, being rebuilt by the performers themselves. The musician, Ketan Bhatti, is live on stage with the drums, but also uses pre-produced, atmospheric or text material to help build up the scenes.",
+        "id": "_lThVVIkD4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>There is something very brave and uncertain about the jump. You take a jump, you don't know exactly where you will land. How did you come to occupy yourself with jumping, does it also occur as movement material?</strong>",
+        "id": "_VaVNJwUVK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The leaps are not necessarily explicit movement material in the piece, but metaphorically they play an important role. In the research I thought about bringing in the parkour. I did it in Istanbul in 2018 and it is something that fascinates me as a movement practice. It makes you perceive the city, your environment, in a completely different way. What I also find exciting about parkour is to always assess yourself honestly. Do I dare to do that, can I do that? So playing with your own limits and developing a feeling for when it makes sense to overcome fear and when it makes sense to say to yourself: No, I should rather not do that. Because maybe it's not the time yet, or because I don't have to do it at all. Because the fundamental question is whether I really have to overcome every obstacle. Do I have to take that leap to feel better? And does it have to be the really big jump? Or are small jumps also enough to show us the way step by step? That's why the piece is called \"Kleine gro\u00dfe Spr\u00fcnge\". I like jumping because there is something very liberating about it.",
+        "id": "_1JbhLG4vR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>The play is for children from 6 years on. How do you translate this into the movement material, how does it play a role for you?</strong>",
+        "id": "_VyjjumzHH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The most important question is how much \"acting\" is actually necessary. How much certain reactions have to be overdrawn. When we go through the different environments and there is a sandstorm, for example, then it is something very fantastic. In contemporary dance, we are not used to mimic something that happens to us, but rather abstractly. Here we want to create a balance. The great challenge for such a young audience is to choreograph for them, to take up the reality of their lives without determining how things shall be understood. I think it is good to create something that speaks at eye level. But of course I have different problems in my everyday life than a person who is six years old. That's why the interviews I did in advance were very important. I asked children about their obstacles and challenges and also about the different environments and what problems might be there.",
+        "id": "_iGV1JNvBM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Initially, I had not planned to do a play about the ecological environment. It was about how we overcome obstacles in different ways - it just developed organically through the different fantastic places. Maybe because it's more exciting to see what we have in common than what divides us.",
+        "id": "_jlGUIGmCx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+kleine-grosse-spruenge/files/harald-hoffmann-portrait.jpeg",
+            "src": "https://offensive-tanz.de/media/pages/articles/kleine-grosse-spruenge/2133346386-1588708649/harald-hoffmann-portrait.jpeg",
+            "id": "articles/kleine-grosse-spruenge/harald-hoffmann-portrait.jpeg",
+            "ratio": 1.350210970464134963009428247460164129734039306640625,
+            "caption": "Jasmin \u0130hra\u00e7 \u00a9 Foto: Harald Hoffmann"
+        },
+        "content": "",
+        "id": "_cf4g7aoqq",
+        "type": "image"
+    }
+]
+
+----
+
+Subtext: 

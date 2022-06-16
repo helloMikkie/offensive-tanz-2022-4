@@ -1,0 +1,54 @@
+Title: Theater o.N.
+
+----
+
+Subtitle: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Das <strong>Theater o.N.</strong> ist ein freies Theater in Berlin, das Inszenierungen f\u00fcr Kinder (0-10 Jahre) und Erwachsene produziert. In den letzten zehn Jahren hat sich das Theater zu einer festen Gr\u00f6\u00dfe in Berlin und bundesweit im Theater f\u00fcr die J\u00fcngsten entwickelt. In diesem Bereich ist es als Produzent, Veranstalter von Festivals und in der Forschung engagiert.",
+        "id": "_60j8s3o96",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Theater blickt auf eine lange Geschichte zur\u00fcck. 1979/80 als Theater Zinnober gegr\u00fcndet, war es das erste und lange Zeit einzige freie Theater der DDR. In kollektiver Arbeitsweise entwickelten Schau- und Puppenspieler*innen, Regisseur*innen, Autor*innen und Dramaturg*innen wegweisende Inszenierungen wie \u201etraumhaft\u201c (1985) oder \u201eDie Bremer Stadtmusikanten\u201c (1986).",
+        "id": "_vy4koh5uv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2010 gelang es ein neues Kollektiv von Individuen aus ehemals Ost- und Westdeutschland und aus verschiedenen Generationen unter dem Dach des Theater o.N. zusammen zu bringen. Das neue Team etablierte zwei neue Konzepte der k\u00fcnstlerischen Arbeit: <strong>Theater f\u00fcr die J\u00fcngsten</strong> und <strong>\u201c\u00fcber den Kiezrand hinaus\u201d </strong>- partizipativeProjekte in weniger privilegierten Bezirken Berlins.",
+        "id": "_bijnPxm0b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2014 erhielten wir den George-Tabori-F\u00f6rderpreis f\u00fcr die Impulse, die wir regional und international f\u00fcr das Theater von Anfang an setzen konnten. Seit 2013 veranstalten wir das biennale FRATZ International, ein Festival der darstellenden K\u00fcnste f\u00fcr die J\u00fcngsten. Die eingeladenen Inszenierungen und Installationen werden in insgesamt sechs Berliner Bezirken gezeigt. Wir setzen uns mit der Festivalstruktur von FRATZ f\u00fcr ein dezentrales Kulturangebot ein und wollen einen k\u00fcnstlerischen Beitrag gegen gesellschaftliche Spaltung und Ausgrenzung leisten. FRATZ versteht sich als Publikumsfestival. Gleichzeitig soll das Festival ein Forum f\u00fcr einen k\u00fcnstlerischen und fachlichen Austausch bieten, nationales und internationales Fachpublikum nach Berlin locken und neue Arbeitszusammenh\u00e4nge stiften.",
+        "id": "_MWjnzxkEH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Das Projekt \u201eBerliner Schaufenster\u201c entwickelte das Theater o.N. im Jahr 2016, um eine L\u00fccke in der Berliner Kindertheaterszene zu schlie\u00dfen. Der freien Szene fehlen oft Auff\u00fchrungs- und Pr\u00e4sentationsm\u00f6glichkeiten, aber auch Foren, in denen die K\u00fcnstler*innen sich vernetzen und weiterbilden k\u00f6nnen. Bei diesem Festival liegt der Schwerpunkt demnach auf der Forschung und Vernetzung speziell der Berliner Szene.",
+        "id": "_nuLy7zD5i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Als Produzent entwickelt das Theater o.N. j\u00e4hrlich 1-2 neue Inszenierungen, viele davon f\u00fcr das j\u00fcngste Publikum und weitere f\u00fcr ein Publikum zwischen 6 und 10 Jahren sowie Ensemblearbeiten f\u00fcr Erwachsene. Das Theater arbeitet mit einem festen Ensemble als Kern und sucht immer wieder Anregungen von au\u00dfen, indem K\u00fcnstler*innen verschiedener Genres in das Team eingeladen und Kooperationen eingegangen werden, wie z.B. mit der Deutschen Oper Berlin f\u00fcr die Erforschung des Musiktheaters f\u00fcr die J\u00fcngsten (2016-18) oder jetzt mit den Partnern der Offensive Tanz f\u00fcr junges Publikum zur Weiterentwicklung des zeitgen\u00f6ssischen Tanz f\u00fcr sehr junge Zuschauer*innen (2019-21).",
+        "id": "_6Py3DaBQH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2192 <a href=\"https://www.theater-on.de/de/aktuell/\">Theater o.N.</a>",
+        "id": "_18zj3kn34",
+        "type": "paragraph"
+    }
+]

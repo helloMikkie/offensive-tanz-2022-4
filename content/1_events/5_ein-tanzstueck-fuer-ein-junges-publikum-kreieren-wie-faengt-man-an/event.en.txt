@@ -1,0 +1,114 @@
+Title: Ein Tanzstück für ein junges Publikum kreieren: Wie fängt man an?
+
+----
+
+Vorlage: Purple
+
+----
+
+Featured: true
+
+----
+
+Label: Workshop for Dance Professionals
+
+----
+
+Author: PURPLE – International Dance Festival for Young Audiences
+
+----
+
+Date: 2022-04-01
+
+----
+
+Time: 19:00
+
+----
+
+Duration: 02:00
+
+----
+
+Location: Tanzfabrik Studio 6, Möckernstr. 68, Berlin-Kreuzberg
+
+----
+
+Tickets: workshop@purple-tanzfestival.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2022-04-02
+  zeit: 10:00
+
+----
+
+Registration: 
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "With B\u00e9reng\u00e8re Valour",
+        "id": "_fazn8oyd5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "During these two days, we will question ourselves on the specificities of the creation for young audiences. Around the 3 words Dance/ Childhood/ Creation, and various starting points such as literature, music, painting , we will alternate between times of exchange and times of practice.",
+        "id": "_Vb3euCC8d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We will approach the questions of composition, rythm, musicality, scenography by starting from the proposals made by the participants themselves. A sensitive sharing of tools and starting ideas for a choreographic proposal addressed to the children.",
+        "id": "_oU5Uag0AR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Dates:</strong> April 7:00 \u2013 9:00 p.m. and April 2, 10:00 a.m. - 5 p.m.<br>The maximum number of participants has been reached. If capacities become available, you will be informed here.",
+        "id": "_wahzj7qga",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "//",
+        "id": "_ilf3tna5e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>B\u00e9reng\u00e8re Valour,</strong> trained at the CNSMD of Lyon, dances alongside various artists (J. Deschamps and M. Makeieff, C. Lutes, T. Hicks, C.Diverres), and at the same time creates choreographic pieces: \u201c.-\u2026\u201d, Le v\u0153u d\u2019Elias, Entformen, M\u00e9tamorphoses, Omzo-Mozo, a piece for children with the dancer Jeanne Vallauri. She is also involved in various projects and programs that combine creation and pedagogy. Thus, she takes part in the Enfance Art et Langage program in Lyon (artist\u2019s residence in nursery schools), and is involved in the Rezodanse choreographic development center in Alexandria in partnership with the French Institute in Cairo, Egypt, where she provides various professional training sessions for young Egyptian dancers. She has been leading artistic actions for several years within different structures in France (schools, pediatric re-education center, CRR, CND, CNSM, CCN Belfort, Format danse, PR\u00c9AC, Canop\u00e9 workshops, universities, \u2026). Founding member of the Association M\u00e2 since 2007, she co-founded and co-elaborated Lieues \u2013 a space for research and artistic sharing based in Lyon. <a href=\"http://lieues.blogspot.com/\">http://lieues.blogspot.com/</a>. Since 2017, she participates in the creation and development of collection dan\u00e7er, a publishing project crossing dance, graphics and words at Quadrille Editions. <a href=\"http://collectiondancer.blogspot.com/\">http://collectiondancer.blogspot.com/</a> Since 2019 , she is part of the pedagogical team for the state diploma of dance teacher.",
+        "id": "_ea60i2nci",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br><br>",
+        "id": "_IfISp0C1C",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 

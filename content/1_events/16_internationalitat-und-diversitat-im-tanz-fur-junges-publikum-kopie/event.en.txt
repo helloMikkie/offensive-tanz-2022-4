@@ -1,0 +1,194 @@
+Title: Race - Class - Gender. Intersectional Perspectives in Dance and Theater for the Youngest
+
+----
+
+Vorlage: Theater o.N.
+
+----
+
+Featured: false
+
+----
+
+Label: Symposium
+
+----
+
+Author: Theater o.N. and Offensive Tanz
+
+----
+
+Date: 2020-11-06
+
+----
+
+Time: 10:30
+
+----
+
+Duration: 
+
+----
+
+Location: Different venues & online
+
+----
+
+Tickets: theater-on@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule:
+
+- 
+  datum: 2020-11-07
+  zeit: 11:00
+- 
+  datum: 2020-11-08
+  zeit: 11:00
+
+----
+
+Description:
+
+[
+    {
+        "attrs": [],
+        "content": "At this year's symposium we will ask ourselves: How are race, class and gender represented - on stage, in the contents and the educational formats for (very) young children? Do we reproduce existing power structures by trying to break them up? How do dance and theater succeed at eye level?<br>Among others, three FRATZ research laboratories from Berlin, Cape Town and Lagos.<br>On the podiums Joshua Alabi, Nora Amin, Shelley Etkin, Malgven Gerbes, Thalia Laric, Isabelle Schad, Iury Salustiano Trojaborg, Marie Yan and many more will discuss and speak.",
+        "id": "_gmhqfsbjn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Note:</strong> Because of the current situation in regard of Covid-19, this event will take place online only! Registration possible via email address mentioned above.",
+        "id": "_sDFv9jOxj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For the productions as well as for the symposium on site, seat capacities are limited - so get in touch quickly!",
+        "id": "_dN02aSeTh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>PROGRAM</strong>",
+        "id": "_s69g9mst2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Friday, November 6, 2020</strong>",
+        "id": "_SKDwsQj3v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>10:30 - 12 am (3 - 4:30 pm India Time)</strong><br><strong>Learning and presenting new relations - Intersectional Perspectives in Dance and Theater for the Youngest</strong><br>Online at ENGAGE : International Forum on the Arts for Children &amp; Young People<br><em>Vera Strobel shares results and impressions of the first FRATZ weekend.</em>",
+        "id": "_ysfkiXubz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We are pleased to draw your attention to the programme of our colleagues:<br><strong>Think Arts </strong><br><strong>ENGAGE : International Forum on the Arts for Children &amp; Young People</strong><br>November 5-7, 2020<br><a href=\"https://nl.kulturkurier.de/goto?clientId=89&amp;listId=1346&amp;newsletterId=71255&amp;sendingId=83890&amp;trackingUrlId=387473\">http://www.thinkarts.co.in/engage.html#http://www.thinkarts.co.in/engage.html#</a>",
+        "id": "_fpAdiVg9P",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><br>5 - 8:30 pm</strong><br><strong>Anarchy \u2260 Chaos - In:equality </strong><u>(registration required until Thursday, 4pm)</u><br>Podewil (Saal), Mitte<br><em>Anarchy \u2260 Chaos - In:equality is a creative workshop in which the participants exchange and reflect on fictional stories of equality and inequality. Together, young and old, we will try to create a temporary space to share across generations what equality or equal rights means to us and how our perspectives can enrich each other.</em><br><em>Concept: Marie Yan and Johanna Hawighorst, Moderation: Marie Yan, Theater Pedagogy: Cindy Ehrlichmann</em>",
+        "id": "_4t2jh4y1m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Saturday, November 7, 2020</strong>",
+        "id": "_MMN9jxYW6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>11 am - 1 pm</strong><br><strong>Laboratory presentation: TAH DAM! (together at home, dance and music)</strong><br>Podewil (Saal), Mitte &amp; Online<br><em>In the laboratory TAH DAM! (together at home, dance and music) Nicola Elliott, Coila Enderstein, Faye Kabali-Kagwa, Thalia Laric, Vintani Nafassi, Sumalgy Nuro and Manuela Tessi from Cape Town (ZAF) investigated how to get in touch with children and their accompanying persons when they have to stay at home, e.g. through video messages. TAH DAM! takes place in cooperation with MusicDance Cape Town and ASSITEJ South Africa.</em>",
+        "id": "_f9C51vh13",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2 - 4 pm (40-minute individual slots each)</strong><br><strong>Landing sessions with Shelley Etkin</strong><br>Podewil (Studio 1), Mitte",
+        "id": "_ZdnDnNNk9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>4 - 4:45 pm</strong><br><strong>FRATZ Studio: where many birds sing</strong>",
+        "id": "_VpeID0JZL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>7 pm</strong><br><strong>Film screening on the topic of the research laboratory \"Skin-Tone\"</strong><br>Podewil (Saal), Mitte",
+        "id": "_eyz3fbH47",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Sunday, November 8, 2020</strong>",
+        "id": "_bfSOrvusB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>11 am - 2 pm</strong><br><strong>Laboratory presentation: Skin-Tone</strong><br>Podewil (Saal), Mitte &amp; Online<br><em>Screening of a recorded discussion event with artistic interventions in Lagos.</em><br><em>Live exchange with the artists in Lagos.</em><br><em>With Joshua Alabi and KiNiNso Koncepts, Lagos, Nigeria.</em>",
+        "id": "_SIB33NdKD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>2 - 4 pm</strong><br><strong>Landing sessions with Shelley Etkin</strong><br>Podewil (Studio 1), Mitte",
+        "id": "_uDKVt4hBP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>4 - 7 pm</strong><br><strong>Anti-Racism - continuation of the symposium \"THE OTHER BODY\" September 9, 2020 by and with Nora Amin, TANZKOMPLIZEN and Offensive Tanz f\u00fcr junges Publikum </strong><u>(registration required until Friday, 3pm)</u><br>Podewil (Saal), Mitte &amp; Online<em><br></em>16 Uhr<br>Impulse lectures by Livia Patrizi (Tanzkomplizen) and Nora Amin (dancer, choreographer and writer)<br>17 Uhr<br>Group work &amp; Workshops<br>18 Uhr<br>Action Steps | What are the next steps towards more equality, equal rights, equal status?",
+        "id": "_alMY2IaAN",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>The symposium race - class - gender: intersectional perspectives in dance and theater for the youngest</strong> is a project of the Offensive Tanz f\u00fcr junges Publikum Berlin and FRATZ International.",
+        "id": "_ohdqthbvr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>FRATZ International is organized by Theater o.N. In cooperation with GRIPS Theater Berlin and Kulturprojekte Berlin. With friendly support of: Familienzentrum Adalbertstra\u00dfe (Kreuzberg), Podewil (Mitte), Wiesenburg Halle (Wedding).",
+        "id": "_4td4qpsph",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>Supported by the State of Berlin - Senate Department for Culture and Europe as part of the support for festivals relevant to urban policy 2020 to 2023 | The \"Offensive Tanz f\u00fcr junges Publikum Berlin\" is supported by TANZPAKT Stadt-Land-Bund with funds from the Federal Government Commissioner for Culture and Media and co-financed by funds from the State of Berlin - Senate Department for Culture and Europe. | With the kind support of the Institut fran\u00e7ais and the French Ministry of Culture / DGCA within the framework of Objets &amp; Marionnettes Focus 2020.",
+        "id": "_llpxtujg4",
+        "type": "paragraph"
+    }
+]

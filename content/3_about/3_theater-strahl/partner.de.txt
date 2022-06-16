@@ -1,0 +1,48 @@
+Title: Theater Strahl
+
+----
+
+Subtitle: Berlin
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "1987 als freie Theatergruppe gegr\u00fcndet, bespielt Theater Strahl \u00fcberwiegend mit Urauff\u00fchrungen seit Ende der 1990er zwei feste B\u00fchnen in Berlin Sch\u00f6neberg und seit 2013 die STRAHL.Halle Ostkreuz.",
+        "id": "_cn0u27qc6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl gibt neuen k\u00fcnstlerischen Formen und Ideen Raum, spielt mit Medien, Musik und Masken, entf\u00fchrt das Publikum in die Interaktion, verbindet Tanz mit Theater und inszeniert Klassiker in zeitgem\u00e4\u00dfen Fassungen. Seit 2013 inszeniert Theater Strahl zeitgen\u00f6ssische Tanzst\u00fccke f\u00fcr ein junges Publikum mit internationalen K\u00fcnstler*innen. Tanzinszenierungen sind fester Bestandteil im Repertoire.",
+        "id": "_i72zMsZrT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Die von Strahl entwickelten St\u00fccke und Angebote richten sich an Zuschauer*innen ab 12 Jahre und f\u00fchren auch Erstg\u00e4nger*innen in die Welt des Theaters ein. Jugendliche werden dabei in die St\u00fcckfindung und -entwicklung einbezogen. So finden ihre Perspektiven und Themen in vielf\u00e4ltigen \u00e4sthetischen Formen Resonanz auf der B\u00fchne.",
+        "id": "_X7KKAJPqC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Theater Strahl geht auf Tour, gastiert deutschlandweit und international, folgt Einladungen zu Kinder- und Jugendtheaterfestivals und wird regelm\u00e4\u00dfig f\u00fcr Theaterpreise nominiert und ausgezeichnet.",
+        "id": "_ZTQk6tTwR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mit dem Ziel, m\u00f6glichst viele Jugendliche aus allen Lebensbereichen anzusprechen, bietet Strahl ein umfangreiches theaterp\u00e4dagogisches Programm, oft in Kooperation mit Partnern aus Bildungseinrichtungen und Fachinstitutionen.",
+        "id": "_bV6Lmt3PR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2192 <a href=\"https://www.theater-strahl.de/\">Theater Strahl</a>",
+        "id": "_acg00vgc3",
+        "type": "paragraph"
+    }
+]

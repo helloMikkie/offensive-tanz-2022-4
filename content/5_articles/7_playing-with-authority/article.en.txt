@@ -1,0 +1,373 @@
+Title: Playing with Authority
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Keynote Speech by Nora Amin
+
+----
+
+Featured: true
+
+----
+
+Author: Nora Amin
+
+----
+
+Date: 2021-02-26
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Keynote \u2013 Held on Nov 8, in the context of the symposium \"Race \u2013 Class \u2013 Gender. Intersectional Perspectives in Dance and Theater for the Youngest\"</strong>",
+        "id": "_9wmzqq5ji",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The word taboo is probably more affiliated to the expression of those deeds/acts than to actually committing them. Again the public expression of something can be stronger than the thing itself. The public statement and dissemination has the power of expanding, spreading and impacting. Therefore transforming expression into a political tool. Power is an ability, as a child and teenager I had the power to dance in the street of Cairo, I was full of that power, it nourished me, but could I really dance in the street? No. I did not have the authority to implement the power that I had, to put it into action, to allow it to happen. Someone else had - and still has - that authority, the authority to permit my power to be implemented, and to permit such acts in general. I could not dance or create street performances for most of my career - although it was my dream with Theatre of the Oppressed in Egypt - because there was a so called emergency law that lasted for 35 years - and until the revolution of 2011 -, and that did not authorise street performances and listed them as public political acts. No distinction between a protest or a dance act. Anybody who had the power and the disposition to act upon something, needed an authorisation. Authority, authorised and authorisation.",
+        "id": "_Kp5o72leM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What does authorisation mean in your personal life?</em></strong>",
+        "id": "_iOK1noTHS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "But who had the power to authorise? Who had the power to authorise the power? Of course it was the state, the regime, the government, the legal and judiciary systems, the religious institutions, the parents, the teachers, the spiritual leaders, the political leaders, the chief of the political party, the intendant of the theatre. Authority was a way to instrumentalise power, to filter it, to exploit it and to subjugate it. There was no power then in reality. But only authority. Does this apply to Germany? To Europe? Does it apply to democratic states? In my opinion the concept of authority applies anywhere and anytime, as it is a pre-requisite for governance. There is no governance without authority. But when democracy is claimed and retrieved, authority can perhaps be achieved with transparency and equality, transparency and equality being principles and protective measures at the same time. The legitimacy of those who hold authority, who hold the power to authorise, is made valid via elections, advocacy, public discussion, justice and transparency. Hence the legitimacy becomes itself authorised by the people. And only then, when we are in such a situation, we can question the mentality of the people and their system of thinking. Our overall systems of thinking are ruled by notions of normativity and normality. Those notions are not independent from our universal histories of oppression, discrimination and hierarchy. Those notions are not innocent. Like all the fields of ethics and morality, they are contaminated by a traumatic history of what is \u201cnormal\u201d, what is \u201cacceptable\u201d, what is \u201cin order\u201d and what is \u201cout of order\u201d, what is \u201cbeautiful\u201d and what is \u201cugly\u201d, what is \u201csuperior\u201d and what is \u201cinferior\u201d. This universal history would not have survived till nowadays - because it is alive until now - if it was not for pedagogy. Pedagogy is the tool to protect the norms, the ruling ethics, and the constitution of personality and identity. Pedagogy, the overall field of the transfer of knowledge, the overall learning systems, whatever shapes and informs our understanding of the world and of ourselves since we are born. This pedagogy is the safeguard of authority. It is the safeguard of the power of authorisation. Therefore knowledge, traditions and norms are transmitted from one generation to the other, and preserved via pedagogy. Yet pedagogy in itself can be anything and everything, it can be a chaotic pedagogy, a secular pedagogy or a religious pedagogy, an oppressive pedagogy or a liberating and empowering pedagogy.",
+        "id": "_uH464cCbU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What types of pedagogy did your society go through?</em></strong>",
+        "id": "_Lkdae2wRO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For each ideology and system of governance there is a suitable pedagogy. Nonetheless, pedagogy can also be reversed through extraordinary and long time efforts. It can be reversed from oppressive to liberating, and vice-versa. Again the authority holds the key to both directions. Paulo Freire (great thinker, educator and philosopher) and Augusto Boal (the founder of Theatre of the Oppressed methodology) worked hand in hand to transform the pedagogy of the oppressive and turn it into a pedagogy of the self-liberated. The authoritarian system in Brazil back then - in other words \u201cthe dictatorship\u201d- had guaranteed its life via a pedagogy of oppression. In 1968 Paulo Freire created a foundational text of critical pedagogy, his celebrated book \u201cPedagogy of the Oppressed\u201d, where he includes a detailed <a href=\"https://en.wikipedia.org/wiki/Marxist_analysis\">Marxist</a> <a href=\"https://en.wikipedia.org/wiki/Class_analysis\">class analysis</a> in his exploration of the relationship between the colonizer and the colonized. In the book, Freire calls traditional pedagogy the \"<a href=\"https://en.wikipedia.org/wiki/Banking_model_of_education\">banking model of education</a>\" because it treats the student as an empty vessel to be filled with knowledge. He argues that pedagogy should instead treat the learner as a co-creator of knowledge.",
+        "id": "_Yv00MIvcv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I am suggesting critical pedagogy - as part of the bigger field of critical discourse in general - to re-examine our practises and environments. For example, the oppressive pedagogies - existing in many places across the world - would instrumentalise the citizens by making them reproduce the systems of their own oppression. As I once said about Egypt, it is not enough to remove the head of the regime, we must work as citizens towards changing our own system of thinking, otherwise we risk reproducing the same oppression again and again. Therefore the long battle for change and equality is the one taking place within the field of pedagogy.",
+        "id": "_F3cs27Rlq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What presence do we have of critical pedagogy in our society?</em></strong>",
+        "id": "_Y178h5D8A",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "If - in our society - we are still dealing with questions and issues regarding diversity, equality and justice, then we need to re-examine our pedagogy, because even if we are living in a democratic state, there is no guarantee that our pedagogy is void of illnesses. Democracy in itself is not enough if the overall thinking and convictions of the majority are not based in equality and justice. It is a long process of questioning and re-examining that brings us here today, brings us together, and brings us to the field of performance for youth or for young audiences. Because working for youth puts us directly within the domain of questioning values and normativity.",
+        "id": "_KeUveOg5w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Do we question the norms?</em></strong>",
+        "id": "_ojBdtQce5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "as well as questioning our positions within our professional work.",
+        "id": "_dRTSNIrxb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Do we question our professional positions?</em></strong>",
+        "id": "_8lNoEoFlF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "When we are working with - and for - audiences that are in a process of growth and transformation, we know that every information, movement, dialogue and visual composition will contribute to expanding the consciousness of those young spectators, and to shaping their identities, their notion of normality and their world vision. It is a gigantic responsibility. A responsibility that does not exclude the fact that we - as adult artists, administrators and workers - are still within our own process of questioning our own identities, value systems and professional positions. I would say \u201cour intersectional positions\u201d. For each of us is MANY.",
+        "id": "_zuFZI9bJj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What are the roleS that I play everyday?</em></strong>",
+        "id": "_uBNqSGSqC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The roles we play and the histories we carry, create of each of us an intersectional field of identity and self-positioning. But does this intersectionality and plurality come to play within the creation of our work? And how? Do we meet restrictions? Prejudices? Taboos? Do we frequently question the overall pedagogy within which we operate? Why do we question it? How do we question it? Do we do so because our positions - intersectional positions - drive us towards that questioning? Do we do it for political convictions? Do we do it because we have been - in our personal lives - persecuted, discriminated against, labeled, disempowered and threatened? Where is the answer? Or is the answer intersectional as well?",
+        "id": "_vk2yiUTtW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What are my personal struggles?</em></strong>",
+        "id": "_5CKTdTy5Q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It is so surprising for me that the domaines of education and the arts are so strongly distinguished one from the other. For me, such distinction is impossible to make. Insisting on it - even forcing it - can only happen out of a mentality that works through divisions, disruptions and borders. It shows a need to continuously create separate categories and to distance them from one another.",
+        "id": "_vGvZzTjtB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What are the categories within which I operate?</em></strong>",
+        "id": "_GX458QqZD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Such mentality of divisions and categorisation represents a vision of the world that cannot be holistic or intersectional.",
+        "id": "_b2CxdRaXc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What does \u201cholistic\u201d mean to you on a professional level?</em></strong>",
+        "id": "_e0fMAmhcX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It is a vision of the world that does not fit with the natural flow of how identities grow, fuse, connect interweave and intersect. A vision of the world that sees as \u201cnormal\u201d a self that is fragmented.",
+        "id": "_7mQ8oiMVi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What does \u201cfragmented self\u201d mean to you?</em></strong>",
+        "id": "_sGkFf9FKh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "A teacher can be an actor too, a dancer can be a teacher, a mediator and a healer. A performance can transmit the possibility of a transformation, of a self-realisation, of an imaginary deed, of a value that goes against the social normativity. A performance that is created by and with youth is a statement of possibility.",
+        "id": "_0KYttmS0l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Do I create \u201cstatements of possibility\u201d?</em></strong>",
+        "id": "_Uf41pE5C5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It is also a statement of recognition and of validation of what is yet to become.",
+        "id": "_h9gm9mtEz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What do I recognise and validate?</em></strong>",
+        "id": "_olNtoWenR",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It is a statement of acknowledging youth as providers of knowledge, as creators and co-creators of pedagogy. Within this statement there is a huge potential to shift the borders between education and the arts, and fuse the stage with pedagogy, and transform both. For we should not forget that the stage itself is not a place that is free from authority,",
+        "id": "_lkxmbxcq4",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_iy3tmb1lo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What forms of authority exist in our theatre field?</em></strong>",
+        "id": "_0q49G6csD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "it is not free from hierarchy",
+        "id": "_QeXvUgU47",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What forms of hierarchy exist in our theatre field?</em></strong>",
+        "id": "_BtQf6P3wo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "and it is not free from oppression.",
+        "id": "_0PQaGG7cU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The histories of performance carry the traumatic experiences of rejection, shaming and elimination. Each society has its own wounds that are also imprinted on its stage in the form of taboos, the taboos hide and deny the wound and therefore extend and deepen it.",
+        "id": "_iov4fy97s",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_n8n40w4uv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What to show and what not to show? And if we abide by \u201cnot showing\u201d something, it would mean that we are accomplice in hiding the truth or in being selective of which reality to present/represent? Does the pedagogical system allow us that choice to start with? Or are we conditioned by some kind of an auto-censorship where we even exclude topics and experiences without discussing them with ourselves?",
+        "id": "_9xvkeoovl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The authority within the arts system also functions as a dictatorship, where some art forms are totally shamed and excluded, where there is always some pre-conceived notions of what is \u201cacceptable art\u201d, what is \u201cgood quality\u201d and \u201cexcellence\u201d. As a migrant, I have the privilege of not knowing everything, of always questioning and asking \u201cWhy\u201d. Why is this considered a good theatre piece, and why is that form considered folklore or cultural art? Why is it impossible to present a Baladi dance performance for youth or invite them to practise Dabke? Why is the spectatorship considered as such or constructed as such? And - since every performance is constructed on a principle of \u201cgaze\u201d- what gaze are we dealing with here? From which perspective? Who owns the authority to decide the perspective of the gaze? Are we somehow conditioned to a certain gaze that is not really ours? And how to offer empowerment for young audiences so that they can create their own free gaze?",
+        "id": "_oCbVl1qnK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Each performance is based on a concept of how it should be viewed. With our youth audiences, how do we formulate the way that our performances should be viewed? According to which system of authority? Which position? And how does all this work with the social and human values of equality and solidarity? How does this work within a knowledge system based on other-ing? How do we handle the questions of identity when it comes to young audiences, knowing that we are also participating in the overall pedagogy of citizenship, of rights, and of responsibilities and freedoms? What perspective do we need to support our creative processes towards more openness, fluidity and plurality?",
+        "id": "_tuibebsLq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>How much openness, fluidity and plurality do I have in my practise?</em></strong>",
+        "id": "_KUAljcUod",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Race, gender and class. The very primary notions of categorisation, divide and other-ing. The word race should be taken out from any constitution, and definitely out of our perception of humanness. There is one race though, it is the human race. While we are in a continuous battle with racism, we should not forget sexism and the authority of patriarchy, a universal authority that unifies the worlds of the oppressor and the oppressed by racism. And while the privileged socio-economic class always helps to escape authority by belonging to those who create the rules and laws, those who are economically deprived become social outcasts. It is all connected. Intersectionality is not a new invention that we have woken up to, it has always been there, in its negative history and its positive potentiality. To think in an intersectional way is to expand our understanding of our identities and of the world we live in, it is to re-think the principle notions of our work and life, and to re-define them as connected and interwoven. It is also to think of the intersectionality between the stage and human rights and the global growing aggression towards children that we need to address in all its complexity and sensitivity, because even children in Kitas recently appear to have been enduring traumatic experience, although in quite rare cases, but nonetheless crucial for the building of awareness towards self autonomy, protection and rights.",
+        "id": "_hNmq1WJaV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To think inter-sectionally is also to act inter-sectionally, and never to lose sight of our personal histories and experiences of trauma. To think inter-sectionally is to think of performance as pedagogy, of pedagogy as a performance of authority, and of our creative selves as spectators and creators at the same moment, as adults and youth at the same moment.",
+        "id": "_q9ckvalr0",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_pwfdvpm85",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To think inter-sectionally is to look within our identity and locate the several itineraries of the self that are all still alive and functioning and intersecting. To think about the intersections of race, gender and class, is to also think about the intersections of oppressions, the intersections of privileges, and the intersections of oppressions and privileges. To think who goes to the theatre, who sees us, who hears us, and we: who do we address? Who do we talk to? how do we envision our society, and how do we dream of the future citizenship?",
+        "id": "_dqwx3v2hp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>What do I dream of for the future?</em></strong>",
+        "id": "_mubQinTMM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To think of the intersectionality of authorities is crucial. There are many authorities influencing our artistic sector, they are state authorities, economic and social authorities and politico-historical authorities: Who has the final saying? Who has the final decision? What are the criteria? What is the norm if there is one? And why do we need to have a norm in the first place?",
+        "id": "_XuFPZga0U",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To become an artist is an authority related fact, it is related to having access to the arts, to being admitted into that world, to being accepted by that community, and to having the possibility to study the performing arts - if it is wished - and to practise them professionally. If I am a woman of colour with an underprivileged economic situation, a big body and a slight history of disability, how much chance do I have to become a dancer? How much chance did I have as a child to watch ballet at the Stadttheater? And how much chance did I have to see on stage a dancer who might be similar to my intersectional identity? Some situations are simply not imaginable. As long as they are non-imaginable we remain without equality and without solidarity. Because to work towards those unimaginable scenarios is also to work towards a future society where the pedagogy has been liberated from a colonial history, economic privilege and patriarchal domination. The stages of the performing arts, whether for youth or for adults, are still entirely contaminated by those histories, those intersectional histories. And perhaps moving forward would - at some point - entail giving up privilege, or a tiny part of it, but it would be quite of a gain as it can be considered as a political act that brings back the feeling of solidarity and helps to restitute a kind of togetherness that can implement a better future for everybody.",
+        "id": "_FEQw8fyVh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Now isn\u2019t all of that connected to authority? To race, gender and class? We live in a diverse society for sure, but does that diversity translate into equality?",
+        "id": "_FJr4NQUdJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Does that diversity translate into equality?</em></strong>",
+        "id": "_6pSRHorMy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Does it translate into a plurality of artistic practises and of access?</em></strong>",
+        "id": "_JZF9TFs67",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Or is it a diversity that is categorised and \u201cauthorised\u201d as a label in itself?</em></strong>",
+        "id": "_AOxNvG5ms",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Is youth theatre a category that is inferior to adult theatre? Why is that? Where does that hierarchy come from if it does not come from the assumption that a child is an inferior entity compared to an adult? And thus the whole sector of youth performance? How to make from \u201ctheatre for youth\u201d a theatre OF youth, and a pedagogical domain that is ahead of society and cultural policy, a pedagogical field of tomorrow?",
+        "id": "_4AK3Mb0Cg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>How can we employ authority to de-construct authority and recreate the legitimacy of the creative self, leading to the authority of non-authority?</em></strong>",
+        "id": "_S0SYEbCBG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How can we play with authority? Can we play vis-\u00e0-vis authority? Or can we play with an attitude of authority?",
+        "id": "_3mGbwBJj9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Does playfulness form a potential transformative power in our field?</em></strong>",
+        "id": "_9TCUUBhdJ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To discuss all those issues here today, and together, is to move forward. It is a movement where there is no separation between artistic creativity and activism, because collective actions that have a clear target and a strategy are activism. Beyond the traditional image of protests and demonstrations, we - as artists - can create our own form of activism. With only one letter distinguishing one from the other, ART and ACT, we can transform and develop our ideas, responses, proposals towards creating a plan of passing acts on, where each person/institution can expand the question/statement and extend it by a future symbolic or artistic action. Let us aim for questioning as a foundation of any future act, and let us aim for doing more. Let us aim to play it all together. Let\u2019s play!",
+        "id": "_y3GQ3XI0x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This keynote was held on Nov 8, in the context of <strong>Fratz Interntional 2020</strong> and the symposium <strong><a href=\"https://offensive-tanz.de/en/events/internationalitat-und-diversitat-im-tanz-fur-junges-publikum-kopie\">Race \u2013 Class \u2013 Gender. Intersectional Perspectives in Dance and Theater for the Youngest</a>. </strong>The complete record can be viewed via <a href=\"https://www.youtube.com/watch?v=oK3bJ0-yWcs&amp;feature=emb_logo\">this link</a>.",
+        "id": "_698sqcP8c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://offensive-tanz.de/media/pages/articles/playing-with-authority/699566505-1615547148/bildschirmfoto-2020-11-08-um-19.02.48.png",
+            "id": "articles/playing-with-authority/bildschirmfoto-2020-11-08-um-19.02.48.png",
+            "ratio": 1.3928035982008994952963121249922551214694976806640625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_t2p68r4in",
+        "type": "image"
+    }
+]
+
+----
+
+Subtext: 

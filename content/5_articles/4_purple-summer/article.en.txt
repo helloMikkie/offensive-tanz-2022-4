@@ -1,0 +1,62 @@
+Title: Purple Summer
+
+----
+
+Vimeo: 
+
+----
+
+Subtitle: Berlin is dancing
+
+----
+
+Featured: true
+
+----
+
+Author: Purple International Dance Festival for young audiences
+
+----
+
+Date: 2021-11-19
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Over the course of several weeks in the summer of 2021, the two students Noomi and Juna visited young dance enthusiasts at five different locations in Berlin, danced with them and interviewed them about their passion for dance. The results are wonderful video sequences that Noomi and Juna shared on their own Instagram channels, showing just how dance-mad Berlin is. You can watch the sequences anytime via this <a href=\"https://www.instagram.com/stories/highlights/17871752147552611/\">Instagram Highlight</a>. This much is said: It's worth it!",
+        "id": "_gjar7bzsw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It all startet with our <a href=\"https://offensive-tanz.de/de/articles/publikumsforschung\">Audience Survey 2020</a>, conducted by PURPLE - International Dance Festival for Young Audiences. Throughout the year, we had conducted several surveys to find out how the art form of dance can reach and inspire even more young people in the future - especially during such exceptional situations as the pandemic. There was a questionnaire aimed at multipliers and one that specifically addressed children and young people. The results on the part of the young people: Many of them cannot classify contemporary dance as an art form or have misleading associations that hinder engagement. In addition, it is above all recommendations from their own environment that lead young people to try out new things together",
+        "id": "_4mkrocjve",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Based on this survey, our three-day symposium on the topic \"Who is our audience?\" took place at the beginning of May this year. In addition to experts from the fields of (performative) art, culture and media, several young people were also involved, who followed the contributions and enabled critical reflection with their opinions at the end - including Noomi and Juna. Freelance dance journalist Christine Matschke summarized the results of the expert symposium for us in the Offensive blog. A central statement in it is: \"Spark dialogues at eye level instead of sending messages. In order to provide children and young people with successful access to cultural education, existing hierarchies and power relations must be dissolved (...) Do not do something FOR young people, but WITH young people.\"",
+        "id": "_jnfg5sv67",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Based on this survey, our three-day symposium on the topic \u201e<a href=\"https://offensive-tanz.de/de/events/symposium\">Wer ist unser Publikum?</a>\u201c took place at the beginning of May this year. In addition to experts from the fields of (performative) art, culture and media, several young people were also involved, who followed the contributions and enabled critical reflection with their opinions at the end - including Noomi and Juna. Freelance dance journalist Christine Matschke summarized the results of the expert symposium for us in the <a href=\"https://offensive-tanz.de/de/articles/allianzen-auf-augenhoehe-gestalten\">Offensive-Blog</a>. A central statement in it is: \"Spark dialogues at eye level instead of sending messages. In order to provide children and young people with successful access to cultural education, existing hierarchies and power relations must be dissolved (...) Do not do something FOR young people, but WITH young people.\"",
+        "id": "_3u9z04i93",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "From this realization and Juna and Noomi's motivation to continue bringing their passion for dance to the public, the PURPLE SUMMER campaign was eventually born. All of their posts and videos were shared throughout the summer on both the PURPLE and Offensive Dance Instagram channels. They can still be viewed there. At the end of August 2021, Juna and Noomi also took over the PURPLE Instagram channel for the entire festival period. Also in 2022 we want to work on further formats that directly involve young people so that they become active co-creators of our project.",
+        "id": "_uRm7ahXXm",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Subtext: 

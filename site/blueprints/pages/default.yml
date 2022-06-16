@@ -1,0 +1,14 @@
+title: Default Page
+preset: page
+pages: false
+files: false
+fields:
+  text:
+    label: Text
+    type: blocks
+    size: large
+    fieldsets: 
+      - heading
+      - text
+      - list
+

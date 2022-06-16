@@ -1,0 +1,69 @@
+Title: FUTUR TANZ I: Auf dem Sprung zur Sparte?
+
+----
+
+Vorlage: Neutral
+
+----
+
+Featured: false
+
+----
+
+Label: Symposium
+
+----
+
+Author: Offensive Tanz für junges Publikum
+
+----
+
+Date: 
+
+----
+
+End-date: 2022-01-23
+
+----
+
+Time: 12:00:00
+
+----
+
+Duration: 04:30:00
+
+----
+
+Location: Online
+
+----
+
+Tickets: info@offensive-tanz.de
+
+----
+
+Caption: 
+
+----
+
+Scedule: 
+
+----
+
+Registration: https://docs.google.com/forms/d/e/1FAIpQLSehBCePdOHKHZK8NjS94zeOJ3-6tzVxRIzi3mKS5UzJ6Yl8YQ/viewform
+
+----
+
+Description: [{"content":{"text":"<p><strong>Symposium zur Verortung und Vernetzung von \u201eTanz f\u00fcr junges Publikum\u201c<\/strong><\/p>"},"id":"45b9d259-fdc3-4e76-b72d-d0e949512e58","isHidden":false,"type":"text"},{"content":{"text":"<p>In den vergangenen Jahren hat sich mit dem \u201eTanz f\u00fcr junges Publikum\u201c ein neues Feld innerhalb der deutschen Kulturlandschaft entwickelt. Immer mehr Choreograf*innen entdecken die Zielgruppe Kinder und Jugendliche f\u00fcr sich. Die Zahl an Auff\u00fchrungen der vielf\u00e4ltigen Tanzproduktionen f\u00fcr junge Menschen steigt kontinuierlich. Noch ist das \u201eFeld\u201c aber nicht zu einer eigenst\u00e4ndigen \u201eSparte\u201c neben dem bereits etablierten Tanzbetrieb und dem Kinder- und Jugendtheater herangewachsen. So nehmen die bestehenden F\u00f6rderstrukturen den Tanz f\u00fcr junges Publikum noch lange nicht ausreichend in den Blick. Auch scheinen die spezifischen Anforderungen, die der Tanz f\u00fcr junges Publikum an Produktionsbetriebe stellt, noch zu wenig klar umrissen.<\/p>"},"id":"d3417ce9-3933-4897-b4ba-ac0b1f09da66","isHidden":false,"type":"text"},{"content":{"text":"<p>Gemeinsam mit Kolleg*innen aus dem Tanz- und Theaterbetrieb, mit Kulturpolitiker*innen und F\u00f6rder*innen wollen wir reflektieren, ob eine Definition als Sparte und eine st\u00e4rkere Vernetzung sinnvoll ist und welche H\u00fcrden es zu \u00fcberwinden gilt, um dem Tanz f\u00fcr junges Publikum zu mehr Sichtbarkeit und Strahlkraft zu verhelfen.<\/p>"},"id":"d1c4acbc-576c-44b4-abb0-819a5cb59cdd","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Folgende Fragen stehen dabei im Fokus:<\/strong><br>\u2022 Wo steht der Tanz f\u00fcr junges Publikum heute? <br>\u2022 Welches Potential liegt in der Position als Schnittstelle zwischen Tanzbetrieb und Kinder- und Jugendtheater? <br>\u2022 Welche \u00dcberschneidungen gibt es mit den Bereichen Tanzvermittlung und Kulturelle Bildung? <br>\u2022 Wie k\u00f6nnen wir uns als Akteur*innen besser vernetzen und effektiver zusammenarbeiten? <br>\u2022 Welche Vor- und Nachteile hat eine eigenst\u00e4ndige Spartendefinition? <br>\u2022 Welche Aspekte gilt es zu bedenken, wenn sich Tanz \u00fcber die Zielgruppe definiert?<\/p>"},"id":"ef5faa2e-8e03-49e5-8ce4-755ff0a9886d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Mit Beitr\u00e4gen von:<\/strong><br>Teresa Darian (Kulturstiftung des Bundes, Wissenschaftliche Mitarbeiterin)<br>Gabi dan Droste (FELD \u2013 Theater f\u00fcr junges Publikum, k\u00fcnstlerische Gesamtleitung)<br>Stefan Fischer-Fels (D\u00fcsseldorfer Schauspielhaus, Leitung Junges Schauspiel)<br>Michael Freundt (Dachverband Tanz, Gesch\u00e4ftsf\u00fchrung und Projektleitung) <br>Martina Kessel (Aktion Tanz, Projektleitung ChanceTanz)<br>Kerstin Evert (K3 | Tanzplan Hamburg, K\u00fcnstlerische Leitung)<br>Alfredo Zinola (Young Dance Network, Choreograf)<\/p>"},"id":"9d5b3e94-b982-45af-a0f4-889d90faf6ce","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Moderation<\/strong>: Elena Philipp<br><strong>Bewegungsimpulse<\/strong>: Florian Bilbao<\/p>"},"id":"d3531e70-4801-4c9d-bd1c-3a29104c640e","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Programm<\/strong><\/p>"},"id":"5090e40d-4371-49b7-9a07-9f232d95448a","isHidden":false,"type":"text"},{"content":{"text":"<p><em>11:45 Zoom-Raum \u00f6ffnet<br><\/em>12:00 Begr\u00fc\u00dfung<br><br>12:15 <strong>Debatte 1 | Verortung<br>Wo steht der Tanz f\u00fcr junges Publikum heute? Teil der Tanz-Szene, der Kinder- und Jugendtheater-Szene oder aber eine unabh\u00e4ngige Sparte?<\/strong><\/p>"},"id":"f578753c-2dac-4492-8eb5-434b2f523960","isHidden":false,"type":"text"},{"content":{"text":"<p>Impulse von Gabi dan Droste, Martina Kessel und Stefan Fischer-Fels<\/p>"},"id":"d7735aab-1f30-4f6c-b3fa-e1dcba5861ae","isHidden":false,"type":"text"},{"content":{"text":"<p><em>13:30 Mittagspause<\/em><\/p>"},"id":"f395ad24-137b-4340-a095-e9537fb4a093","isHidden":false,"type":"text"},{"content":{"text":"<p>14:00 <strong>Debatte 2 <\/strong>| <strong>Produktion und F\u00f6rderpolitik<br>Wie unterscheiden sich die Bed\u00fcrfnisse und Anforderungen von Tanz f\u00fcr junges Publikum vom allgemeinen Tanzbetrieb und vom Kinder- und Jugendtheater?<\/strong><\/p>"},"id":"ddb9037d-7cae-4a3b-9890-4cfefcd1142c","isHidden":false,"type":"text"},{"content":{"text":"<p>Impulse von Teresa Darian und Kerstin Evert<\/p>"},"id":"958350c8-0c22-4d0f-96b2-dcd4f8886767","isHidden":false,"type":"text"},{"content":{"text":"<p>14:25 <strong>Debatte 3 <\/strong>| <strong>Vernetzung<br>Braucht der Tanz f\u00fcr junges Publikum ein eigenes Netzwerk?<\/strong><\/p>"},"id":"422a893e-e119-4e77-a2fa-2e0327b70f8b","isHidden":false,"type":"text"},{"content":{"text":"<p>Impulse von Michael Freundt und Alfredo Zinola<\/p>"},"id":"f3f8198d-841f-427e-93ed-908fc4a46d4a","isHidden":false,"type":"text"},{"content":{"text":"<p>14.45 Diskussion in Breakout Rooms<\/p>"},"id":"500e8f4c-b704-4a10-8790-a82edb93b178","isHidden":false,"type":"text"},{"content":{"text":"<p>15.30 <em>Kaffeepause<\/em><\/p>"},"id":"0a69f09f-ae6e-4b73-91a7-07e1d960e48a","isHidden":false,"type":"text"},{"content":{"text":"<p>15:45 Berichte aus den Breakout Rooms, Schlussmoderation und Ausblick<\/p>"},"id":"8f211635-65e8-46cf-afc8-e582b160976a","isHidden":false,"type":"text"},{"content":{"text":"<p><em>16:30 Ende<\/em><\/p>"},"id":"3e9d7b22-4c26-4a74-9969-bcbdcfb8961e","isHidden":false,"type":"text"},{"content":{"text":"<p>\/\/<\/p>"},"id":"802f5d7f-d461-40a7-9b7b-29ae38117004","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Stefan Fischer-Fels<\/strong>, geboren 1964 in Berlin, studierte Schauspiel, Erziehungswissenschaften, Psychologie, Soziologie und hat eine Lizenz als Fu\u00dfballtrainer. Seit 2016 leitet er das Junge Schauspiel am D\u00fcsseldorfer Schauspielhaus und kooperiert seit vielen Jahren immer wieder mit dem Tanzhaus NRW, u.a. im Projekt \"takeoff:junger tanz\".<\/p>"},"id":"58ddd586-0910-4aa9-8996-19f4ff2349da","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Martina Kessel<\/strong> studierte Tanz und Tanzp\u00e4dagogik an den Akademien in Rotterdam und Essen und absolvierte im Anschluss ein Studium der Ethnologie, Islamwissenschaft und P\u00e4dagogik an der Universit\u00e4t K\u00f6ln. Es folgten Anstellungen als wissenschaftliche Mitarbeiterin an den Universit\u00e4ten G\u00f6ttingen und K\u00f6ln. Von 2003 bis 2013 arbeitete sie am tanzhaus nrw, wo sie u.a. das Projekt \u201eTake-off: Junger Tanz\u201c im Rahmen von Tanzplan Deutschland leitete und den Bereich \u201eTanz f\u00fcr junges Publikum\u201c aufgebaut hat. Seit 2013 ist sie in Berlin als Projektleiterin von \u201eChanceTanz\u201c t\u00e4tig und f\u00f6rdert mit Mitteln des Bundesministeriums f\u00fcr Bildung und Forschung tanzk\u00fcnstlerische Projekte mit Kindern und Jugendlichen. Dar\u00fcber hinaus arbeitet sie als freie Dramaturgin und Beraterin und kuratiert u.a. f\u00fcr die Berliner Festspiele das Forum der Choreograf:innen und T\u00e4nzer:innen im Kontext des Tanztreffens der Jugend. Sie ist Vorstandsmitglied bei \u201eAktion Tanz \u2013 Bundesverband Tanz in Bildung und Gesellschaft\u201c.<\/p>"},"id":"f4c562ae-7d67-4b61-9331-f430d167b99f","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Alfredo Zinola<\/strong> ist Choreograf und Performer und lebt in K\u00f6ln und M\u00fcnchen. Er schloss sein Studium an der Universit\u00e4t Turin mit einem Bachelor in Anthropologie - Interkulturelle Kommunikation ab und studierte Modern Dance an der Folkwang Universit\u00e4t der K\u00fcnste in Essen. 2020 graduierte er an der Uni Salzburg im Lehrgang \u201eKuratieren in den Szenischen K\u00fcnsten\u201c. Sein k\u00fcnstlerisches Hauptaugenmerk liegt auf der Produktion von zeitgen\u00f6ssischen Tanzst\u00fccken f\u00fcr das junge Publikum. Dabei will er die Grenzen dessen erweitern, was eine Auff\u00fchrung f\u00fcr Kinder sein kann, und er m\u00f6chte hinterfragen, in welcher Beziehung Gesellschaft und Kindheit stehen. Zinola versucht in seiner Arbeit, eine konsistente und kompromisslose Erfahrung zwischen dem Publikum und den Interpreten zu erzeugen. Er ist Factory Artist bis 2022 bei Tanzhaus nrw D\u00fcsseldorf und Gr\u00fcndungsmitglieder des Young Dance Network von Assitej International.<\/p>"},"id":"344a5176-72f4-445e-8ba0-598230e9786a","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Teresa Darian<\/strong> ist seit 2010 Wissenschaftliche Mitarbeiterin in der Kulturstiftung des Bundes und betreut den Programmbereich Vermittlung und kulturelle Bildung. In dieser Funktion entwickelt und betreut sie u.a. Programme wie \"Kulturagenten f\u00fcr kreative Schulen\", \u201elab.Bode - Initiative zu St\u00e4rkung der Vermittlungsarbeit in Museen\u201c, \u201eJupiter \u2013 Darstellende K\u00fcnste f\u00fcr junges Publikum\u201c sowie weitere F\u00f6rderprojekte der kulturellen Bildung. Sie studierte Angewandte Kulturwissenschaften und Kulturp\u00e4dagogik. Bis 2014 war sie Lehrbeauftragte an der Hochschule f\u00fcr angewandte Wissenschaften in Merseburg. 2005-2008 arbeitete sie in verschiedenen Projekten der Bundeszentrale f\u00fcr politische Bildung.<\/p>"},"id":"14f67091-aab0-4907-a96c-7868e526a3b9","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Michael Freundt<\/strong> studierte an der Theaterhochschule \"Hans Otto\" und der Universit\u00e4t Leipzig Theaterwissenschaft, Philosophie und Tanzwissenschaft. Er war als freier Journalist und Kritiker u. a. f\u00fcr \"zitty\", \"Wochenpost\", \"Theater der Zeit\" und die \"Berliner Zeitung\" t\u00e4tig. Als Regisseur, Dramaturg und Theaterproduzent geh\u00f6rte Michael Freundt zum Gr\u00fcndungs- und Leitungsteam verschiedener freier Theaterprojekte in Leipzig, M\u00fcnster und Berlin. Seit 1997 war er als Pressereferent und k\u00fcnstlerischer Mitarbeiter und 2001 bis 2002 als K\u00fcnstlerischer Leiter der euro-scene Leipzig t\u00e4tig. Nach einer freien Mitarbeit in mehreren freien Produktionen im Bereich Theater, Tanz und Alte Musik, wechselte Michael Freundt Anfang 2003 als Stellvertretender Direktor in die Gesch\u00e4ftsf\u00fchrung des Internationalen Theaterinstituts (ITI) - Zentrum Deutschland. Seit 2004 engagiert sich Michael Freundt in den Treffen der St\u00e4ndigen Konferenz Tanz, koordinierte die Formierung zum eingetragenen Verein und wurde mit der Gr\u00fcndung der SK Tanz (jetzt: Dachverband Tanz Deutschland) im M\u00e4rz 2006 zum Gesch\u00e4ftsf\u00fchrer berufen.<\/p>"},"id":"9af3e40d-a350-429e-9020-3f44d04177d9","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Kerstin Evert<\/strong>, geb. 1971 in Bielefeld, studierte Angewandte Theaterwissenschaft in Gie\u00dfen und promovierte dort zum Thema \u201aDanceLab \u2013 Zeitgen\u00f6ssischer Tanz und Neue Technologien\u2018 (Promotion ausgezeichnet mit dem Tanzwissenschaftspreis NRW 2001). Sie war von 1997 bis 2000 Doktorandin im Graduiertenkolleg \u201aK\u00f6rper-Inszenierungen\u2018 an der Freien Universit\u00e4t Berlin und gr\u00fcndete mit Oliver Behnecke das Produktionslabel \u201aStadt Raum Inszenierung\u2018 (z.B. Festival \u201aZeitenWende\u2018, Gie\u00dfen 2000). Von 2002 bis 2006 war Kerstin Evert Dramaturgin auf Kampnagel. Seit August 2006 ist sie K\u00fcnstlerische Leitung des choreographischen Zentrums K3 in Hamburg.<\/p>"},"id":"c73d3f03-63f8-444c-829a-5a2710679655","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Elena Philipp<\/strong> ist Redakteurin von <a href=\"http:\/\/nachtkritik.de\/\">nachtkritik.de<\/a> und dem tanzraumberlin Magazin. Als freie Kulturjournalistin schreibt sie u.a. f\u00fcr den Freitag, die Berliner Zeitung und die Tanz-Zeitschrift. Gemeinsam mit Susanne Burkhart von Deutschlandfunk Kultur hostet sie den Theaterpodcast. Elena Philipp ist Mitglied des Auswahlkuratoriums f\u00fcr Augenblick mal! 2023 und der Friedrich Luft Preis-Jury.<\/p>"},"id":"0a629a9d-10e9-483e-8677-07b690659bfc","isHidden":false,"type":"text"}]
+
+----
+
+Artists: 
+
+----
+
+Staffs: 
+
+----
+
+Subtext: 
